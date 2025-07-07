@@ -1,0 +1,1001 @@
+Loan_ID,Customer_ID,Gender,Employment_Status,Loan_Amount,Interest_Rate,Loan_Term,Loan_Purpose,Loan_Status,Monthly_Income,Credit_Score
+9ab73cef-7253-4b95-be45-43c64a6aa820,e5f8d0a7-e6ea-4f28-bce5-165daac4cd36,Female,Self-employed,49562,14.64,24,Education,Defaulted,4627,615
+e7ff03a4-c1da-494f-a889-b3a907ffc21f,4b5d55db-00e7-4b3b-bc5f-35b372e78c1e,Female,Unemployed,21951,4.4,24,Medical Bills,Rejected,3999,697
+4373b2dd-a25e-4fce-bd97-7ba8f185cfd7,f98ba41b-99ba-400d-a4e4-027d6028926b,Male,Employed,18454,7.31,48,Car Purchase,Defaulted,1771,388
+38172533-aaaa-4e24-97ea-503c88cb8d8e,db822c6f-209d-444d-8596-594b04566afd,Female,Employed,46057,13.7,48,Car Purchase,Paid,114,800
+2ccfd37e-2454-4a79-bd32-a18489e82db1,5cc47221-9e5c-4912-9a59-116a20aed05a,Male,Employed,20293,10.42,48,Business,Paid,4078,585
+fbf3d753-f1e2-460f-a18e-90d39d822729,002154e7-54fb-40b7-b658-d7353b090c74,Male,Unemployed,24481,9.88,48,Medical Bills,Paid,735,515
+687dd82f-a9fd-4f3a-87f3-fc6a084862dd,b6162955-a71f-41c7-8929-e42be646dc77,Male,Unemployed,27598,5.77,36,Business,Rejected,3800,465
+53fb8505-63f9-417b-abd7-7f78dacb21cd,e7d76dea-63ad-4a47-8bdd-f4d7a040c23b,Male,Retired,13264,7.57,12,Business,Defaulted,2423,545
+d7c4ec1f-9d2d-4e48-a175-02b518d0c329,58cd421b-3f97-403e-98e0-569962ef7e0d,Male,Retired,14005,12.66,12,Business,Rejected,455,628
+5810df85-a530-43b5-9b3e-0721084cee27,f96370c7-4b9f-459d-abe1-ee8b5f0148db,Female,Unemployed,25100,8.38,48,Education,Defaulted,2313,845
+393a6f23-9329-4393-b0c1-b44f3055c793,d315c75d-6d5f-44be-8fa1-97cbb82dbf60,Female,Self-employed,41212,9.15,48,Home Renovation,Paid,3492,713
+16d6753f-265e-4fa5-a6c6-93037d8658ee,38f5f1fd-80cf-43c5-98a9-e4ba0ed72d8c,Male,Retired,22485,7.09,12,Home Renovation,Paid,1364,670
+f86d31c8-211f-466c-88b0-8eebe37bdad8,a6e94756-94f8-462e-b938-4e45e8dc7ca0,Female,Retired,8673,9.96,60,Home Renovation,Defaulted,2495,636
+26b26a0a-b3e0-4e75-85f5-3a352e8449ee,89fb22d6-8b0c-4878-94cf-345e5ae8c020,Male,Unemployed,16569,6.33,48,Business,Approved,2956,454
+3d808527-c75e-4cbf-9088-4c4226072976,81a5011c-407f-4d33-b0e4-2133445b7364,Female,Employed,18279,4.52,48,Home Renovation,Paid,1812,542
+0bd2d204-c635-45ac-bf61-3e8c585027d8,26878fd7-d4ca-47f6-a0ca-1798bcf583a7,Male,Employed,19714,4.16,12,Home Renovation,Approved,4931,805
+5bb7af50-478f-4989-bc44-293d369d2a33,2f0181da-5ac5-469a-a3ca-a3fc32d45f06,Male,Unemployed,12204,11.59,48,Education,Rejected,1197,410
+6462b5a4-2255-4eb1-95b5-e033a3e05ba5,09d35dc2-2ed6-447b-ac07-c5727f3d2e59,Female,Employed,26884,8.44,12,Medical Bills,Defaulted,4850,763
+5008de4b-d346-448f-9848-2a741f7659e5,172b3585-e94c-49f2-8660-fdf4d552636c,Male,Unemployed,25871,4.06,60,Home Renovation,Defaulted,3441,610
+8e4a9f97-3c52-45b8-ab57-c678546f0d3c,1fd9ee43-54eb-4b5a-87cd-148fdc957b4c,Female,Retired,19882,13.83,36,Car Purchase,Defaulted,2047,640
+6ff60d57-9838-42f8-8d9d-552818cb5295,a81c58bd-cb7a-4f18-a6ad-1436e8472468,Female,Retired,40423,3.76,48,Medical Bills,Approved,3336,752
+0caaa068-038f-4e84-bb49-71cb5cc13341,41cee87f-93a3-4038-a5f2-b61d5488cec5,Female,Retired,17656,9.07,48,Business,Rejected,4987,665
+e0c7764b-782c-4d86-824c-01240a2d767b,71a4e7a0-9996-4fb8-ae1a-7ab6f69de327,Female,Retired,44323,4.18,36,Medical Bills,Approved,4099,678
+96cd32ab-c9ac-42ec-9ba2-65c16e6adf03,5ccedf9b-fce3-4b0c-b5ff-969886e11ed9,Female,Retired,5023,12.82,60,Medical Bills,Defaulted,2626,483
+4590116e-6617-41df-8a26-db0f3bbcde89,dbd3eb64-e57f-4af2-b1ac-1e5bbd113bf5,Female,Unemployed,30724,10.64,60,Business,Paid,4946,551
+bc2c02ad-88b6-4ff5-bb60-fbf570605931,965c23ea-d8d2-4b4c-9c76-fb7145576c19,Male,Retired,18207,4.07,60,Business,Rejected,2714,825
+f90ac6c8-664f-4b4d-a705-c064cceaf195,11092637-e52b-4022-8628-6bd5704324e3,Male,Retired,4451,9.54,24,Medical Bills,Approved,2963,782
+9de5927b-a36b-4272-9792-200f2c6a5ab5,68f540e3-f07f-40c0-9be1-31c0f667bbf9,Male,Retired,20626,6.24,24,Education,Approved,2679,748
+5a3cafc2-46fe-445f-bf61-d5c3f56e26ce,33535135-07e1-42ef-a00f-9a76f26c7b46,Female,Employed,45218,4.04,24,Medical Bills,Paid,5000,328
+f61645c1-4a10-4fc2-8462-4871e57380e5,72418409-560e-47be-aa75-68d0f6b45b53,Female,Unemployed,36331,8.72,60,Education,Paid,1873,686
+09e0366a-4f20-445b-9b12-0458c62b3469,a49c500f-57d9-4731-8278-e688633a979b,Male,Unemployed,30417,5.65,60,Business,Rejected,3552,731
+55547849-e90f-484c-a4f3-5435096d5be4,ba696bb7-5d7b-4aae-8d21-ddc656ed58eb,Female,Employed,1224,10.27,36,Car Purchase,Rejected,4350,751
+b37cfe14-7e8d-4239-ae03-e4c96f397d2b,f6bba642-1315-4007-a477-7318ee324bb3,Female,Retired,39090,7.38,36,Home Renovation,Rejected,4823,326
+b15f9276-8a48-4226-b222-3988b0750264,bd6af180-03e6-498c-8c07-6fb5fc5cf6cb,Female,Employed,18270,7.08,36,Business,Defaulted,3427,849
+1b96cd5e-9741-4c87-ba50-5b325d0cf19c,b62a80e5-3c6f-4834-97c5-46b482355e18,Male,Self-employed,21746,4.98,12,Business,Paid,4083,514
+2e1acaba-9d84-4284-8252-c7f563fa99ea,7c004e3d-de36-41cc-831a-576d7ff1449c,Female,Employed,21752,12.94,48,Medical Bills,Paid,4430,361
+4a7588ea-53c2-48a7-b892-460be54f3a0a,58105ecb-93de-466a-8585-c707b42000d6,Male,Retired,30012,10.02,12,Home Renovation,Approved,3456,601
+61add846-d431-41a2-a701-0d9862a8a425,b4809267-7358-45d7-be18-4958c2d003b2,Male,Employed,37757,11.01,24,Home Renovation,Rejected,2185,424
+0f2c799b-7ea0-4ce6-8096-97302d7e04ab,3cc5be64-0404-4c5a-9602-2d6b72d9868c,Female,Self-employed,28449,7.84,12,Medical Bills,Approved,3739,667
+d60c630c-23a5-4502-b306-29eae2d30118,318b3359-e341-4170-ba2f-03aab38d202a,Male,Unemployed,38795,8.27,12,Medical Bills,Defaulted,2298,762
+5b1fea90-27f5-49dd-bfb0-0be809c54cf4,629276f9-f813-4228-b8ae-80b633f6c3cd,Female,Self-employed,43924,11.39,24,Car Purchase,Approved,2376,582
+1e01420d-4502-4f12-b3ed-dabec0250e10,bae95792-d2fd-4509-9497-29c32020a8c3,Female,Unemployed,19601,14.71,12,Business,Approved,1231,438
+bc681059-d497-4fd9-8f80-1241440e4184,3fe85585-9f40-4c4e-ac69-3acb4582a9f3,Male,Self-employed,29822,6.05,24,Education,Defaulted,1331,315
+e541ad6f-26e3-43bb-8b03-8a340ab64f36,d4164a3d-5351-47db-a9dc-3f9b14aca976,Female,Employed,45697,8.5,48,Home Renovation,Paid,665,533
+9eed88a3-7810-4a41-8d50-82c141d44f5e,3b2bd81b-47ef-4e71-a1ea-95cb2df5fd6e,Male,Self-employed,44428,12.54,12,Medical Bills,Defaulted,4798,431
+cd725d47-7c50-4a8a-9d13-3ba16dc731e7,d93191e3-9ca9-4bf3-9302-7a9a1d59f296,Female,Employed,11031,11.34,24,Education,Defaulted,2299,813
+d30e349e-74c2-4629-9d2c-a788fab6aca2,7a4a4dab-a2a8-4b12-ac5d-c2ed13273e1b,Male,Unemployed,24812,7,60,Home Renovation,Defaulted,4813,820
+8c600a03-687e-4278-9110-de78d3542598,709e353d-bf63-4f82-b2c7-85f35cd887f0,Female,Retired,45037,5.42,36,Home Renovation,Paid,4415,529
+78cdae3f-5de2-4c86-919d-679293bd0dce,7eb65d8c-dddb-4684-8f8a-fd1fa4c9bcfd,Male,Retired,34335,12.16,24,Business,Paid,801,425
+0ad154a1-9397-4d30-9736-df6ff77ea01e,a6b0524d-6221-4358-933c-61eacc928bd5,Male,Unemployed,8074,6.95,12,Medical Bills,Paid,4644,443
+0e7813ee-c731-4ff8-afd4-b91e4d810580,a16b616d-2a16-4dcf-ab9c-5952f33e8d0d,Female,Self-employed,25790,14.87,48,Medical Bills,Paid,448,637
+cfd25cdd-734e-4e52-bb82-fb9a2afc22d9,bb016d3b-6e63-476e-9d82-b9d0b35c0f7a,Male,Unemployed,38167,13.26,48,Home Renovation,Defaulted,2949,426
+ab88ecff-5159-4293-a3a4-3e7d076b8d72,b32eafcd-d1d5-478b-99d9-87f53d03a4ab,Male,Unemployed,14097,14.81,60,Medical Bills,Rejected,397,329
+712ad9f1-ccae-46b4-b75f-a2c54a558e55,d0e62aec-f28e-4332-8941-0639b06156e3,Female,Retired,33824,8.48,12,Medical Bills,Paid,3637,706
+6320bcfb-ee9f-4d8b-b544-46355efd2dc1,62ba1b72-42c0-4edc-b51c-ce1f8f05fc81,Female,Unemployed,30880,9.23,48,Home Renovation,Paid,4910,411
+df4ad354-fd8a-4552-92dd-931c738800d9,6fdc7cb6-da26-41cf-9ade-9abc7b6f9ddf,Male,Employed,26730,10.05,48,Medical Bills,Defaulted,3847,657
+5ca86914-cc02-4e14-9170-d93daf1fe5be,c35d04be-38b8-4fea-8802-0cebddfc1890,Female,Unemployed,25595,6.61,36,Education,Paid,2588,428
+bedca31a-bfbd-4f01-b578-0884f72f50dc,1eb0378c-3651-49a6-96f0-b309e84796f6,Male,Self-employed,722,3.7,48,Home Renovation,Defaulted,1729,676
+748c838d-8053-4156-9e32-d43adbddc3c1,e9a5ca30-5b26-4757-ba95-f8dc597552c4,Female,Employed,48250,4.66,48,Education,Rejected,1694,516
+ed4e71af-8bb7-40ba-acf6-8cd94f9d43fc,a55c15e3-7b1d-4aa5-8380-e3f5041a9321,Male,Employed,26506,7.22,60,Business,Defaulted,1824,330
+8429dbde-b4df-4cce-bc14-0f3dd51609bd,1ace9b9c-647b-4490-af1d-10096d916498,Female,Employed,11799,7.88,36,Medical Bills,Rejected,3860,811
+02f1597c-9e2a-4b4e-ada1-b0a9ee66524a,9b771f8f-3bfd-49b5-8205-3ff3175546f3,Male,Unemployed,47112,12.03,36,Business,Paid,1592,803
+52995fd4-85f8-4bb1-949f-ea0e6f591e70,ec454484-f52a-4c59-b332-ba03566270ab,Female,Unemployed,29267,4.07,12,Education,Approved,4828,546
+c5e6a88d-be4f-4b94-aff6-948ab816b68d,1428276e-045a-4b53-8294-09b21541c441,Male,Employed,23539,12.81,48,Car Purchase,Defaulted,1236,471
+d92564ed-1d3e-4764-964e-280c2b99f33f,f21de00f-d395-4ed5-9313-e1dad1745840,Male,Self-employed,39183,9.05,48,Education,Defaulted,1154,478
+c70d7c17-bdbb-4d19-acc6-f5a1211a8c06,09c98641-0dff-455c-829f-69f1acc51f3a,Female,Unemployed,14344,10.22,36,Medical Bills,Rejected,1341,628
+45c95ac9-b446-47f8-a3c0-61c2774c4572,8f8da41b-d2a1-43b5-9533-1a396144b1aa,Male,Unemployed,43353,8.6,12,Education,Paid,4532,450
+e7b6059b-895e-4d75-8e55-b1d445c6816c,55c8b940-7453-4183-9dfc-20b38192232b,Male,Retired,47565,6.99,12,Business,Rejected,393,580
+888009a0-f964-4fb3-8917-26aeb0752c55,7aedba6f-1a0a-4807-b16c-399db777a54c,Male,Retired,39946,13.62,60,Business,Defaulted,357,409
+1b23e6b7-ffe6-4451-80db-68c34ef1cf7b,dd1ef9c0-a80c-488c-9ee2-ded9726d67d0,Male,Employed,33590,5.24,60,Car Purchase,Approved,586,779
+7e71342d-7eb1-4195-b46d-03ef69b25284,ffe76e47-bc6c-4782-b089-e6e9abcab241,Male,Self-employed,6424,12.09,24,Car Purchase,Approved,633,609
+5c37adf3-818b-485d-b868-27370fc5c8e8,8fbdc76b-d3ca-4b89-bdaa-135bdf5afb0f,Female,Unemployed,31195,13.22,12,Education,Defaulted,394,687
+2a2a5f55-81c1-40fe-8e8d-503469e8e570,52466fe9-d2f2-4678-b608-72c127f9a9c8,Male,Self-employed,33539,14.68,60,Medical Bills,Paid,965,810
+03a97617-0ce2-41df-8a82-60056b9cc994,29c3dbc3-4ab8-4ec9-a23f-585ff55f75f5,Male,Retired,42864,12.65,12,Education,Paid,516,319
+02688386-7f66-4235-9265-a4066eee0528,5fc1d47c-2ef6-4c80-b9b4-53820ee9408a,Female,Retired,13533,12.84,12,Business,Rejected,1575,345
+b4699e03-c524-4dbc-848f-d1af94e44ddf,d9e7f12f-1a5f-481c-9553-5cb2e0170292,Male,Employed,4614,8.93,24,Business,Defaulted,4452,732
+529c054a-f4c9-4c65-84a5-4da7fa56fbf9,639510d5-4fb9-4c3b-961f-e2ba7447d5ec,Male,Unemployed,27806,11.49,24,Medical Bills,Rejected,2823,828
+cb2b1486-392f-422f-9c33-1003d4e549c7,1bee1a9e-6e6e-4bb4-bd88-1c4864b069c8,Male,Unemployed,4562,12.07,24,Car Purchase,Approved,4144,596
+1b25f763-5bb6-45e4-b1a0-0c78f4ce3eb4,8d410b62-4892-42f8-aea8-7a57a7ad56b2,Male,Self-employed,34157,14.94,60,Car Purchase,Defaulted,1213,627
+68d9268a-7fdd-4a64-82fa-4a619f0d353a,9e4c452c-b2f2-445a-9fcf-3073d189a003,Male,Self-employed,15422,14.58,24,Business,Approved,290,428
+3e45fe49-8608-4339-95c8-a6686bf82768,696ede27-5ff3-409d-afc3-d38d6fdd51c1,Male,Self-employed,41201,7.95,60,Education,Rejected,4233,485
+0143042d-7975-4009-bfde-a28726cdd353,5ef73a63-709f-4052-a53d-df2c1ad8697a,Male,Retired,1243,12.54,12,Business,Paid,3296,513
+920c4e85-75bd-4b95-b82a-3c644b4261dd,f2cb06df-5cc1-40c2-bbaa-4ec4f75d984d,Male,Self-employed,36919,4.98,36,Medical Bills,Approved,2924,521
+82e64510-e198-46ad-8761-0a0697459ed1,16ad7241-922b-43bb-92d8-b94b56abc790,Male,Unemployed,42942,4.77,48,Car Purchase,Approved,2938,333
+affdeef5-e241-4780-bfc1-13549a77e494,8944fbc1-2280-45bf-b388-a0bf915bcf0e,Male,Unemployed,11664,13.63,48,Education,Approved,1378,308
+53faf175-39f3-4b61-aa47-8ed711cf0457,870a8aeb-c9fa-411c-bef5-1a4c093111cf,Male,Unemployed,7726,8.41,12,Medical Bills,Approved,1103,453
+f14f57be-b686-4dbf-94b5-bd5e3beff073,136c3b58-6465-40ea-9ec1-909674e50bd6,Male,Retired,11030,3.73,24,Medical Bills,Rejected,4505,843
+14539e42-5e20-4618-b53f-a8a4396c441c,16ecc696-0308-48b1-9684-70cbb5625445,Male,Unemployed,27167,4.6,24,Home Renovation,Defaulted,518,828
+1def5ebf-76d7-4dbe-a92a-cc8d3b00d963,f3a32113-bb38-4c9f-a3f2-d6b18d2304e8,Male,Unemployed,32763,9.38,24,Business,Approved,1187,728
+8a042547-0f45-463b-8c17-5c5b663f9ed1,1286624d-561e-46ee-b7b0-e55313668f19,Female,Self-employed,2720,7.27,48,Car Purchase,Defaulted,2505,514
+f4d5cb51-4b2f-48b0-bab8-e631c7818478,a7f68960-6b51-4a99-9107-4e4f69d400d0,Female,Employed,42381,8.75,24,Medical Bills,Approved,4197,507
+c626e6cc-ab6a-4855-934c-308f0aca79d9,d7a77943-40a3-4188-9e38-bf5d7d0869c3,Female,Retired,43515,6,48,Home Renovation,Paid,2732,460
+71ff9d56-c39b-4661-804f-ace2435dd8b9,5a6d1360-8675-4b8a-88a2-1d953f7e5445,Female,Self-employed,18085,4.82,12,Home Renovation,Approved,3035,563
+0aa9a16e-e970-42ac-8728-6ce3e039cdf3,b4293a82-99ab-4505-8b57-b8c0e8c666bd,Male,Retired,17666,12.54,60,Car Purchase,Paid,3796,332
+23cde002-6102-48a4-8b75-b502b82b8803,15b1e079-2eb8-44d1-8f54-81e9c0c65d04,Male,Employed,37110,14.91,48,Education,Rejected,1056,585
+fbba86f1-8bbc-4b00-be05-87c7e59cb13d,49bf323c-aa2f-41ef-8379-94d2a6b06814,Male,Self-employed,17307,7.86,48,Education,Paid,2582,566
+27d7fbe8-63e6-41af-abb2-fe9d48932a5b,310cf448-f853-493a-9a55-6ba6c6147258,Female,Unemployed,35346,9.1,36,Medical Bills,Paid,2205,669
+fbb17c5f-dae4-4866-a037-ef97555cd787,166e080a-2bd0-4311-8611-ad1c09a7786b,Male,Employed,15613,8.84,48,Car Purchase,Rejected,157,788
+b89800fb-6a1d-47d5-8cfa-eb03faf2a873,55be23a4-9884-4d04-8460-150bea8b1a91,Female,Unemployed,11286,6.64,12,Car Purchase,Paid,1851,732
+74453772-1f52-474b-b570-db3697b4c9a3,21f79795-7163-4ba0-b269-0f8447b4e279,Male,Self-employed,36685,9.53,36,Business,Paid,3864,661
+16ac35e1-f208-43bb-85e5-9e84cb7ebebc,7bc70d82-cf75-4eef-8232-6ce5291c2d48,Male,Unemployed,11501,5.82,36,Home Renovation,Paid,4124,810
+a361c912-95b3-44d1-b35d-179076c6ce6f,b3f815ef-42d3-4f54-92a9-341e72beea39,Male,Employed,21339,5.05,60,Car Purchase,Paid,4226,620
+e642a11b-0e43-42a6-94fa-4cbd45ef7ce8,91d92d92-2090-44b9-9bef-76c865bfa4e8,Female,Retired,1279,4.34,36,Car Purchase,Rejected,2822,740
+55d49235-7dac-43b4-8723-ec19e72d7ff2,692c9d02-255a-4431-91e3-0231430f8779,Female,Employed,21041,10.33,24,Car Purchase,Paid,3002,527
+419155b1-69a0-41fb-ad8d-e107785d072a,ab145666-6292-407a-8051-e8beb9fe5a1e,Male,Employed,6122,12.85,48,Home Renovation,Paid,2962,389
+8ae9503d-2898-4d5e-ba39-d1462a3e8787,3ca03746-dca9-4cc0-9ecf-1078145030ce,Female,Retired,47139,6.68,48,Car Purchase,Defaulted,1647,717
+cb5a92b6-57cb-4471-b899-d4f99cc9189c,3f92e021-fb36-49d7-a833-954e348d1400,Female,Retired,19709,13,24,Business,Rejected,1846,329
+9eadeee4-9a46-46c8-a47e-c3a97484f561,4e7c5dcf-d1ff-40cf-b8c0-e2b41bc9dc4b,Male,Unemployed,36403,5.51,12,Home Renovation,Paid,2771,508
+37da028a-f86f-4764-af0e-242c996cc8dc,de1c9cae-e98e-4a66-9f3a-a89fee1e0b5f,Male,Self-employed,15114,7.66,36,Medical Bills,Defaulted,3864,399
+61a53021-68db-4dc4-9932-7ca34ba7e919,ad75eea3-b976-41f6-92d1-f5511d056cf6,Female,Unemployed,46296,7.92,48,Home Renovation,Rejected,4217,779
+5d01a4db-618e-4951-aebf-c597649e60a0,84eefa94-53ca-4a02-85c0-682256055ee4,Female,Employed,13954,13.29,24,Business,Approved,3319,688
+aaf3551b-4e41-4be4-89e8-40d2ea332822,7c78ab8b-3c0a-440f-a04b-626a49c5a2f5,Male,Retired,32031,14.92,36,Medical Bills,Paid,4087,849
+e9cd9739-c42f-4ab5-8a73-098f9991c0ca,ae94103e-941b-4f7b-90bf-8168dd22db0e,Female,Employed,39451,13.76,48,Business,Paid,2722,321
+c72dc45f-6df4-4f73-8d73-fdf1ba09812f,8302c6af-6468-4c06-bfff-b4cbe23ac7dd,Female,Retired,11341,3.56,48,Car Purchase,Approved,265,777
+57888805-42d0-4e2f-9363-8918527704bb,636d84fa-eba3-41eb-9f6b-6e832b065001,Female,Employed,15864,11.4,60,Home Renovation,Approved,3870,819
+9cdae03b-490c-41df-b78b-9a8fce4d1299,b7f5fb53-6d68-4e6f-bc31-d715bbc960bf,Female,Unemployed,12823,13,24,Medical Bills,Approved,4879,473
+d60a23bc-7df3-4030-9331-e4986fe59d10,ae662ca6-f2b0-4882-8db3-890a425e3fac,Female,Retired,35619,9.62,48,Business,Paid,4300,505
+9a4ce2a0-5cdc-404b-a53f-f862c43e785e,47b73c2f-ba17-4a1e-af48-b7a19f9a8e68,Female,Unemployed,5052,8.81,36,Car Purchase,Defaulted,3226,538
+7ec481b1-6de6-467e-b86b-702a4669d227,c0d891df-d31b-40cc-853a-b96a27ff6e27,Male,Unemployed,22719,4.88,60,Business,Defaulted,3043,300
+0b92392a-0dcf-4068-a499-df8bc9d8a21a,5efe48bd-7140-4f81-ab61-3d0cc7f4ba52,Male,Retired,43082,3.52,24,Home Renovation,Rejected,1450,386
+06c5441f-c256-4617-a76f-f0054bd0d2b7,2744e50f-98d3-42ab-88c3-d1b160c88522,Male,Self-employed,10840,5.62,60,Business,Paid,3400,650
+ef58ad45-7bb0-4cc8-b269-560518bcd0e8,d7f1fb6c-e5a3-4c79-b189-44d553f71222,Female,Retired,44738,10.59,24,Education,Defaulted,3851,515
+27bd702f-8271-4498-9d05-3a05916d7e8d,46451926-f4cc-4aea-9d90-ed8cd80eab44,Male,Employed,8465,5.32,12,Home Renovation,Paid,675,772
+1b380474-8359-4347-bbed-36cb62e9d8fd,a385d4d7-ac63-4910-a951-5cde91c572d3,Female,Self-employed,20623,9.43,36,Business,Defaulted,2394,482
+11fe95e9-163a-45fa-9e6f-e07a16afc106,d1a70e52-3f76-481c-bb11-4f07b4458454,Female,Employed,48038,11.41,24,Car Purchase,Defaulted,2298,742
+b36197eb-f7fd-40f0-b218-d312187dd67b,ac63adca-90af-43dc-b016-733ec5be72d4,Female,Employed,40020,12.45,60,Medical Bills,Defaulted,2529,506
+7b48c673-0cb6-42f3-9d49-db812dea6b58,7dbe21fc-6ed4-4971-a804-332ad73f7285,Male,Self-employed,37717,13.97,24,Education,Approved,3663,521
+9cec5e04-d0d3-4cb5-896f-fd9dc739500c,47db845b-3cb0-45b6-9954-d722917054ad,Female,Retired,18588,6.26,48,Education,Paid,507,376
+39a67f22-0050-4e8d-b57b-b5f5db549137,682930b6-9b41-4a88-91f3-7060351ee620,Female,Self-employed,596,10.96,24,Education,Approved,4940,429
+bdd67174-483b-4be0-87c5-288aac077155,4f06de4a-179d-4910-87da-66f9480a721d,Female,Self-employed,43579,11.7,60,Car Purchase,Approved,1510,355
+53332123-c98e-4875-9cc9-97b928d1c183,b410bbaa-1c34-4f85-84dc-047e66c13d7b,Male,Employed,18892,7.37,60,Medical Bills,Paid,2510,744
+ad6bccde-ca90-455d-be0a-f41012a6df93,3d361848-b108-4128-86fa-7ba0d89b7183,Male,Self-employed,1098,14.81,12,Home Renovation,Paid,1847,814
+bf725c08-ea57-464c-9c9c-18564752432f,c46c67a7-33e6-488b-8cfb-ce9bad37dc85,Female,Unemployed,20863,7.67,48,Education,Approved,4505,776
+1eb7df6e-9e78-48fe-a16e-ecd47be0980e,d871d8ba-9e0f-46e4-ba72-63c7fa3362c8,Female,Retired,12268,8.18,48,Medical Bills,Defaulted,243,569
+975c544e-b434-42b5-b380-b1c9abc2c682,37d5c79d-fcec-4d2f-8f31-86e472ed3498,Female,Retired,29473,8.46,36,Medical Bills,Paid,3315,800
+866c0668-a5ff-49ac-840e-72a7d7fbccd1,25cdb198-59f5-4f22-a9bd-99e6719c4d82,Male,Retired,3032,12.8,36,Home Renovation,Approved,2798,554
+9975bb9f-2761-415f-8bb1-b33467833476,a10b411e-edb3-4d35-979e-249e1aff1b65,Male,Unemployed,12455,14.38,36,Car Purchase,Paid,1007,375
+f1cc7219-0d83-457e-8927-63eeeed8ae15,603051c7-85ab-4f31-9e3d-72cc3e489cfe,Male,Unemployed,28171,11.09,24,Home Renovation,Defaulted,4447,504
+3479b667-2866-478d-ad3a-d5108cd7eecc,53c83fbe-dd0a-46c7-87ff-e2c30c42314f,Female,Retired,5596,8.86,48,Business,Approved,4109,474
+3c5720e1-c023-420e-8b6c-eb493485049a,9e107c53-938e-436d-8b78-1cc6903370d4,Male,Employed,42564,7.48,48,Business,Rejected,4669,391
+1a64be6e-54f5-4dd8-acad-a481f9aee3c7,52bb94ac-e3d8-4f36-acd9-4188262b503e,Female,Retired,45625,7.98,12,Education,Rejected,2906,489
+d28d1fc6-5c67-4831-88fd-5b81e524533c,eb7fb869-0d38-4ee8-84fd-6c1a046686ff,Female,Employed,41604,12.39,12,Medical Bills,Approved,4808,637
+cf55e5f4-902e-477f-9e90-c7247337fcf6,312b04aa-2f84-4842-819b-e2ac251f3388,Male,Unemployed,12213,6.66,36,Education,Defaulted,2958,780
+02779b52-a8cc-45f8-970c-9f722f11dc9c,12556ec8-4e4a-4a46-8413-e149bc84ac2e,Male,Employed,22311,9.78,36,Medical Bills,Paid,4821,383
+3a098056-a367-476a-a0f1-b03dc08f9023,74005f75-514f-48d8-9911-7a8ffa3f2c21,Female,Self-employed,2599,12.11,24,Medical Bills,Paid,2534,353
+17b9e991-65e5-48b4-9ecd-ac8c51a9576c,653ff5ac-6fc6-455b-a712-853309f881b5,Female,Employed,6394,10.34,12,Business,Defaulted,3135,831
+1f540460-7acd-46b1-a4f5-e5d31b23280e,dbd4ae8e-c6a7-48c3-9bcf-70bf23a415ba,Female,Unemployed,11866,7.18,24,Education,Rejected,4506,798
+ef33b38c-e633-40d3-b1c5-50e616e004a6,398799ba-1959-4e52-8ba8-71763cd52821,Male,Self-employed,47034,13.71,60,Car Purchase,Paid,2958,842
+5ffb9724-8ce8-45a0-8a2e-ca066bff6a18,3a9bc733-8fd3-4305-8b5e-ec59a5eef849,Male,Retired,15485,11.52,60,Education,Paid,4315,729
+ab8f8e08-1a88-4a83-82d1-edf41a7b6d80,cf790a04-dd18-47de-882c-361b0f22630f,Male,Unemployed,38153,3.98,36,Education,Paid,4215,381
+26635b9c-e911-4bfb-b802-cad6f3b2b050,ae3376fb-2900-423c-abb1-ae8a194b7c77,Female,Unemployed,14635,14.11,48,Home Renovation,Paid,443,784
+72338553-c6a4-4f20-88c3-d013f060f6e2,605c453c-479a-420c-ab56-06b7f1c14561,Male,Employed,6037,12.06,36,Car Purchase,Approved,1088,811
+0958fe2a-290b-47b3-94ec-b58c14b97362,d6cb444d-0b17-4395-a9e4-d4d33351714b,Male,Employed,25120,8.9,12,Education,Defaulted,201,404
+ce0eae25-f0af-4bdc-b154-5de7ad486e9e,2cbba66a-cef8-4bef-a128-f2c091cdf3dd,Female,Self-employed,31973,4.52,12,Home Renovation,Rejected,2164,508
+0a5e9b8b-fb0c-49a7-8aa6-40357b2fe637,50bd05d3-7013-49f4-a0fa-4e031e74b0d9,Female,Self-employed,49655,4.78,60,Home Renovation,Rejected,2384,409
+8bd7970c-1ba2-4a5d-946f-dda4f3530af1,3269e921-7517-4641-ad05-e217dae3b06b,Male,Retired,48963,10.13,48,Home Renovation,Rejected,1629,750
+bb8c42ed-1c9e-4796-816c-064ca988c71d,a2b456f6-6640-4042-8f3b-8570431addd3,Female,Employed,1797,12.13,36,Education,Rejected,4595,721
+b06c5176-eeed-4710-b55c-3a4f8c7167af,6c16d518-121a-4351-b236-45d9a992e8df,Male,Self-employed,22667,12.82,12,Business,Defaulted,4410,481
+1d606474-a420-486f-8ddd-7a1dc6c586fa,113a20bc-13ae-4b73-96e7-5c5ff718897a,Male,Retired,16564,5.16,12,Education,Approved,4766,326
+53765c48-6924-4399-baa9-54086d9d2496,12bb1bcd-5f78-467c-ba40-9a13c56bec70,Male,Retired,43040,5.78,36,Medical Bills,Defaulted,1773,345
+54a0f19e-90fc-42f0-ad3d-d491152e6fe2,18b76c65-aa13-486f-ac4b-c8b2d49803c0,Female,Self-employed,3190,10.17,60,Education,Rejected,4787,356
+01496339-c138-492f-adf7-75e357abdd69,b7a8b0ea-8d1e-4db8-9976-0bacae0dd4b2,Female,Employed,43765,10.11,48,Home Renovation,Defaulted,1633,435
+03d14d2a-1368-4d30-8a31-e863563e0acf,d11c403f-1967-4a41-810b-f4b54c73e55b,Female,Self-employed,44512,11.05,60,Medical Bills,Defaulted,1725,325
+a50b196c-5b67-4bfd-8d90-cebef96cad99,4b764935-a953-4073-875d-0d7c8ac742e4,Male,Retired,551,11.82,12,Home Renovation,Approved,3601,801
+eb0f50ab-2cd9-4f6b-9a4b-824203916b94,7695c1d5-fca1-4deb-a505-99ffa027e68b,Male,Self-employed,8928,13.97,12,Medical Bills,Approved,312,332
+227111b8-d2c5-45c6-8e00-8458b5c9b63e,0798b19b-9a93-4018-9f61-093ff63d0e1d,Male,Retired,7961,10.1,60,Home Renovation,Approved,2762,437
+0e61e0f8-e8f3-4b5c-a230-1612cc7934fe,57b8b19e-49d1-4e79-8951-b7e100ff654e,Female,Unemployed,30363,10.67,12,Education,Approved,1313,397
+ab33c3de-1524-492f-b4f8-d6ce06b4cdf7,74782243-c922-4283-bd23-61f3c8747f59,Female,Self-employed,42619,3.63,48,Medical Bills,Approved,4189,779
+4d6fcae5-1fd4-4b59-a5ff-570c60ec92e5,fb13f74c-398d-46d3-ba4c-3f10696aec3e,Female,Unemployed,7621,11.52,24,Education,Approved,4798,761
+53984593-f096-438c-952b-df44c9e582a0,6cb3617d-3ebc-4a1f-ba11-f4358438cd50,Female,Retired,2715,11.12,60,Education,Approved,2099,555
+e1f94441-2338-42ac-a80c-5d26a85cb50a,301e9176-7698-40f3-a7cc-ff055ef140eb,Female,Unemployed,16066,3.94,12,Medical Bills,Defaulted,115,781
+364600c6-bcf9-4275-acb5-d5bf3e05a39f,51b6b16f-13cc-41b1-b57f-27aa1a8fb911,Female,Unemployed,42833,5.76,36,Car Purchase,Rejected,1963,527
+b6fc032c-91a5-460c-8edd-96585373aff7,7b088988-b063-404f-8c74-7ed10de9022c,Female,Employed,44832,14.8,36,Business,Defaulted,4066,555
+1d4addc1-872a-4a70-9f6d-d32edee74398,2b6e28ef-4c2d-4ed4-aaee-c28df0c7a941,Male,Retired,40464,10.16,48,Business,Rejected,3227,832
+521c4eef-fe79-4f33-bac2-8931def81878,54065d3a-5eb8-48de-9da2-68343b06dd3f,Male,Employed,47434,7.93,24,Business,Rejected,1170,612
+367e6449-6670-4c7e-a4ba-72eb35870129,b0f284c6-40aa-4ae2-8ee8-ff5720dba6ed,Female,Self-employed,4192,8.23,36,Medical Bills,Defaulted,2778,664
+aef132cb-8b73-4260-a6b6-d6c91fedc070,81d843aa-25cc-420c-be81-85e8d042c254,Male,Employed,10421,9.29,12,Car Purchase,Defaulted,1421,686
+ea339811-ec7c-4a32-af18-53f1c8095270,4cf0d843-2871-4c4a-9fbd-84323a37da8b,Female,Retired,24302,4.28,36,Medical Bills,Defaulted,682,569
+37fa264c-4467-4066-901a-e74203d1ae5a,9ee541f3-205c-4f6a-b2c5-17178d91f1c6,Male,Self-employed,4275,7.13,12,Car Purchase,Approved,2661,717
+7c655e61-0ecb-4ea0-8a6c-f779d2d3b1f8,afc0a0e8-6a4e-4ecd-aad8-ce86a7358bfd,Male,Employed,19668,10.64,36,Medical Bills,Rejected,228,780
+203a3408-15b7-44c3-9cd1-148cbcd94f55,a8540d9f-5618-4141-83cb-a3441cdf2359,Male,Self-employed,40035,6.83,24,Education,Approved,2270,703
+868c167b-bb96-49f3-9c11-a8b21174a516,a663caa1-ea37-4186-a166-5594ac35e9db,Female,Unemployed,29286,7.02,12,Home Renovation,Paid,1151,825
+2058f29a-624e-427d-b1f1-186d5142d7a1,5256701c-ed39-418a-88aa-c4a1e6536294,Female,Self-employed,20056,10.81,24,Car Purchase,Paid,4375,633
+58074e49-b72f-41fd-9b4b-dc9e7fecce22,0063a5d5-af5b-4ed1-9594-64a50577c78e,Female,Retired,31804,11.28,36,Home Renovation,Defaulted,4797,457
+959c2c49-bdfb-47bc-8c85-a56d0d81d7d0,97f55981-7b49-4137-87c9-a64e00007c7f,Male,Unemployed,8579,11.08,60,Education,Paid,2637,333
+1583a0cf-d289-4f9e-a7cf-bc4d715c277b,fb778ae5-9b4c-4896-9f96-ad16cea096bb,Male,Self-employed,7249,7.05,48,Education,Defaulted,757,319
+1de14916-497c-46fc-a34d-f332a2cdfa99,b4451855-9f54-492d-bbf9-939245f673ff,Male,Self-employed,28682,4.49,12,Education,Rejected,1788,362
+71f70ede-da7d-4300-831f-3826ac12831c,21487d32-3989-4988-8645-0754d74f138a,Female,Unemployed,33191,7.82,24,Home Renovation,Paid,2627,469
+002fb650-417f-4231-8c53-feaf2236aa5b,ceef70c3-250c-49e2-9e00-477ec083bfd7,Male,Unemployed,48878,10.5,24,Business,Rejected,282,405
+f8500fd5-743d-4154-9234-a75c3997d491,531be469-8bef-4bd3-a19e-d5c0954ceaf1,Male,Retired,29349,13.75,48,Education,Approved,4826,374
+53cbb958-3024-472c-98de-4097330e0d32,53eba962-176a-4440-8fca-5266d3008805,Female,Employed,19103,13.71,48,Education,Paid,916,839
+7f97874e-e710-473f-9f7b-2508df213529,c8aa06a5-0df4-4ced-bcd9-b8d5ccc07670,Female,Employed,5675,5.51,36,Education,Paid,2757,415
+18b8703e-656e-40c9-8a7d-6b35d9e97978,83deeb39-3614-44f4-bcf2-ee2065e7b00c,Male,Retired,18998,11.44,48,Medical Bills,Paid,3935,837
+98b1fe4f-9f51-4962-9a85-45e5e7eecefa,315831b9-e9c2-4183-9c44-e1bc803e4f9b,Male,Unemployed,2319,11.84,12,Business,Paid,2532,468
+ac1f82f3-6d50-4db6-96e1-8da2a6c4ea7c,9a661300-2d87-465e-8cd2-21c33f952081,Male,Self-employed,12705,7.04,36,Education,Defaulted,1154,568
+f7aac4f7-59f2-4cd5-ad25-04b3b9f0d756,22c23c23-3812-4177-80f3-52d76ebd5fef,Male,Employed,4603,12.41,60,Home Renovation,Defaulted,2444,609
+c7b77cdf-1938-4613-b9bd-2cae6c88d681,6c306917-b294-48e6-aba9-bcc37056ea3d,Female,Employed,1963,3.85,24,Car Purchase,Rejected,4251,342
+cd5c8f99-4c21-46e7-9fae-ca164111cbd1,2db8b7d1-dc35-4979-9085-cb694ea61f4d,Male,Unemployed,20141,5.88,48,Education,Rejected,4993,419
+2b1e9f52-ddb8-4668-8057-de6442f6be2a,5bfe3b0b-9f83-4d79-863b-492a246222f4,Male,Self-employed,41184,7.94,60,Home Renovation,Defaulted,3443,772
+e38cd71b-bb61-4969-9579-a0194a8744d8,32c1fea0-b02f-475d-922b-4a40c191a224,Male,Employed,23818,9.6,60,Car Purchase,Rejected,3708,413
+d38fb0ab-e64a-4070-bc42-ac19c5610946,76fccd0a-d1b9-4366-bf70-375ca017c89e,Male,Retired,27964,7.27,24,Medical Bills,Paid,3702,423
+0365f729-1f77-4803-a774-e54baf8cde37,bb0950a4-2c60-4759-b604-527610ad7b1b,Female,Unemployed,20476,12.59,12,Education,Defaulted,446,368
+8a767df0-044c-4e6c-9985-d68440d6befa,4296e720-f511-46f1-b8d5-c0714b32556c,Female,Unemployed,31273,3.97,24,Home Renovation,Rejected,3870,540
+b1ac4d3e-4c5f-4f3c-ba92-5bda85a94cfc,4461521b-2e93-459b-85fa-aaa7617f28c7,Female,Self-employed,17674,13,36,Education,Defaulted,409,770
+8ea21706-1e4c-4b79-869b-5b48351a2302,af21c8a4-705f-4ba0-ab18-3218d7e6aec8,Male,Unemployed,14386,9.51,24,Car Purchase,Paid,1274,530
+281a9b05-987e-41d5-8227-67f6386adf78,34cdf244-14c0-4172-a272-f07c00d77d79,Male,Self-employed,28796,10.86,60,Home Renovation,Defaulted,3201,413
+2db5a9b0-5874-404e-b86f-d341e9ca753a,7d92a0a5-9dd1-4498-9fc1-b4a3efe982f9,Female,Self-employed,25390,14.69,48,Car Purchase,Approved,4228,315
+118c41a9-3813-4247-be9a-0dacbee6392b,42021aab-40ab-421e-a3fd-931f6248af37,Male,Retired,28744,12.62,36,Car Purchase,Rejected,3173,424
+344e3a9c-b7b8-45c1-bcf9-9ea2356bfca6,98e5f603-d5fc-4ee7-8cb7-6ec78ea74af5,Male,Retired,674,10.85,24,Education,Paid,259,416
+dd807cb9-4468-4452-8274-9be6d900a4bf,6af7389f-c511-4917-b7ef-599155b3a255,Female,Employed,28985,6.9,24,Education,Approved,3388,784
+9bc6bbad-4977-4d8e-9cb2-ee0b033e1efa,17f62006-1243-4842-80d6-e12bec1f8884,Male,Unemployed,21071,13.28,12,Medical Bills,Paid,2852,812
+e7f1824e-e948-4733-9307-11b55e536fd1,91608832-d5e3-46aa-a56e-7157fc235a60,Male,Unemployed,49530,10.73,24,Education,Approved,4850,490
+1232b9a4-4f66-4fd1-9247-624a2c6e5c0f,7b812281-0144-444b-a817-9384ca352655,Male,Retired,40467,11.03,24,Medical Bills,Paid,3346,692
+e6a37336-4d38-4542-92e5-8abc76f0079b,869e77ff-0427-4013-a983-8d7a65192d7c,Female,Unemployed,11196,11.94,24,Education,Defaulted,2712,361
+fedbc2b8-a308-47d2-8197-fba3fbc5c5a7,ea4d8f49-c36c-4a52-88a6-dcaf3c896d76,Male,Self-employed,24729,8.03,12,Home Renovation,Approved,345,325
+36886045-41f1-4a8d-8248-e8e53a9b72d9,a8bab6cb-d302-470f-804e-9661a5d606bc,Female,Unemployed,14672,6.23,60,Business,Rejected,4367,416
+31c28249-b1dd-4da2-b592-6c0d3cb0b60f,113096ef-1fc8-450f-8943-e1bcdf86838d,Female,Retired,47174,11.66,60,Car Purchase,Defaulted,2458,425
+82b5b17c-8ee4-4f72-97ec-2dd9ff6f8225,4a10daf0-60b8-448d-bbb4-4db8af86ab3c,Male,Self-employed,5174,8.12,48,Home Renovation,Paid,3704,385
+85bce144-5c6e-460f-a99e-367d06924356,759da9d8-7c7e-4234-bde0-4fbdea4211a6,Male,Employed,26343,10.71,12,Car Purchase,Approved,1520,589
+76cb2520-5abe-47c5-9ceb-61342e445613,5328581e-8dfd-470f-8acf-0b1b479109a9,Male,Employed,874,14.82,12,Car Purchase,Paid,3677,394
+60120ee8-aa20-4d57-a04e-a339eb0e2029,4b5b040f-d997-4c05-97dc-cd7491e7617f,Female,Employed,1769,3.62,12,Medical Bills,Approved,4195,412
+a3422adf-6926-4da0-9900-08147bed73b6,2bd1b560-280b-4746-a354-42c055b26a07,Male,Unemployed,21853,6.66,48,Medical Bills,Rejected,830,427
+f3bd8abc-b54b-42d7-9297-0c4f6591e6c0,e510f623-b085-4ce6-9805-0e66408cebd5,Male,Employed,13217,9.98,36,Education,Paid,2568,624
+2cd33672-07d5-4f93-9ffb-e62eca547d74,72d7fe16-3f78-4d3b-915c-5c6277f4a4f5,Male,Unemployed,36925,11.73,60,Business,Approved,1992,658
+150cb289-b6da-40f6-8526-82bb515d6402,b2fc4ad1-cfb4-4b6b-b52e-6c6a06547c3b,Female,Unemployed,40622,4.87,60,Education,Approved,2590,401
+dee9efec-ec9c-4855-a57a-a472813c15ed,52376c93-ed53-48b7-97a6-450461c0740a,Male,Retired,49826,12.37,60,Medical Bills,Rejected,517,646
+4b624d1f-4f99-4bb4-9b15-4f7c28966522,8588fa81-2d5b-4a00-ac4a-b3650aac6754,Female,Unemployed,6313,3.69,36,Education,Rejected,755,301
+c9e745a3-9af1-41fd-97d5-e13c0c61e51c,a8d7d32b-dcd1-45e8-b86e-a0afde6b8cd5,Male,Employed,9966,10.57,60,Home Renovation,Paid,115,447
+7cd06631-1df6-4826-bbea-90b35878d276,7af67292-bb51-49e7-8652-9c01eff34346,Female,Employed,17779,13.22,60,Car Purchase,Defaulted,4788,651
+40f5e868-4dbd-4fbc-917e-311a19f9c72f,4fe0c6ee-2e96-4f49-a1cd-c3914a15c8a2,Female,Employed,33511,8.68,60,Education,Defaulted,2817,846
+a5097c82-ff92-42bc-b1dc-dfc7ada8dc4f,62bf0ce9-ee71-4487-ac4b-c8c5e2aa4ad3,Male,Unemployed,25367,4.56,48,Medical Bills,Rejected,4135,314
+bb0ec102-1342-4406-b68b-782cf91b8c5b,dd6fc6bd-facd-4d0d-9a9a-a7ac044411aa,Male,Retired,2802,5.31,48,Medical Bills,Rejected,3190,392
+779eec48-f2e9-4637-a82c-9686f89364fa,b2d605d6-a45e-4d0e-a04e-9f48776b716a,Female,Employed,3945,13.6,12,Home Renovation,Defaulted,855,812
+2148dbd0-f6d9-4d2f-9c96-66c1b0f0c57d,627c6eac-f0e5-466e-bec1-a1b1dc45140c,Male,Self-employed,49435,9.31,36,Education,Defaulted,4427,615
+b9e062fa-0cc7-4e88-9b13-b69edd91d14f,c332f21f-2da1-4258-a68d-8ad01ab0c060,Male,Self-employed,33796,12.64,60,Home Renovation,Rejected,846,407
+2ffb70f1-bc38-4270-bfd5-028c63f4296b,73520014-f420-4a8c-87db-b39e0181be89,Male,Retired,16461,13.71,24,Car Purchase,Paid,3250,771
+2d6d58b0-1934-41b9-9665-2b9728416dc5,b6d8521b-90b0-4813-8df9-709dd7fe8c59,Male,Employed,12778,9.41,48,Business,Rejected,1633,530
+d94f02b9-63e9-49ca-9758-dea6f089cc19,6c094466-7b0f-426b-999c-837ee3833c53,Female,Self-employed,28278,12.58,48,Medical Bills,Approved,2396,542
+819cc9e8-f27d-442f-a3a1-2f55823ede8a,3a8f8ce8-bc98-4217-8796-2783dc174ff2,Male,Self-employed,36500,5.25,36,Home Renovation,Approved,4326,551
+757bf6c3-7612-410a-81fd-e85d7155b2cd,8129cfcb-6798-499d-9e87-d536d9124188,Female,Employed,28721,7.09,48,Medical Bills,Defaulted,4787,496
+8cb6beda-d478-4f52-889a-90c872b2755e,dbdb1b4f-eaa8-41be-9c73-d918d61fb4e7,Female,Unemployed,23873,3.8,36,Medical Bills,Approved,270,713
+f416a248-22c5-4547-9674-2e152699ba4a,2f58031d-0425-4b2a-b6dd-ba215829069a,Male,Unemployed,22077,12.46,60,Medical Bills,Defaulted,2364,392
+ef1c0750-1c1c-4922-9d46-f925243a487c,9e4ed961-2530-4333-9508-0bf39ddfc427,Female,Employed,25318,10.48,36,Home Renovation,Approved,170,757
+00665466-ca7e-42d7-896b-dda806250daa,6bd2cecd-8ae6-4f69-b78a-7c048a934460,Female,Unemployed,3888,6.9,36,Car Purchase,Rejected,3157,786
+5b43610b-f32d-4cd7-b77c-b3e909299ef7,7d350cc5-5c32-470d-b199-37bca5a80ad0,Male,Self-employed,25202,11.38,24,Medical Bills,Rejected,1380,373
+f346f68d-81c0-4793-a5ae-416cd8a60174,e8301f77-3009-4274-ada5-1f07991468b3,Female,Unemployed,30716,9.86,24,Medical Bills,Rejected,4463,751
+4a09e70b-e7f7-459f-8ae6-4405571a3023,74232f5b-d8b7-42c2-9c96-06694147a903,Male,Employed,14785,10.37,48,Home Renovation,Approved,2450,699
+c2b0dbc8-dacb-42be-9918-f1b0d5115c4f,de1fd04d-9514-44bf-846b-9be1306a4e45,Female,Employed,4423,14.68,60,Home Renovation,Defaulted,4366,527
+283bce8f-d10c-4e01-a7bc-95671357bae6,ff157c05-14ab-413e-aa4b-f6a7e6e5d468,Male,Retired,25223,8.79,60,Home Renovation,Rejected,4583,424
+8e7cfd8b-9438-45f5-9d3e-f6030dc0203a,fe6620ee-e679-4990-ad3f-bbce8510872a,Male,Employed,1380,14.09,36,Car Purchase,Paid,3116,383
+61bfe7a9-7cc9-432f-917f-b4209aec12d0,a67f4039-e759-44a0-9c02-fe27bb11b481,Female,Self-employed,44468,8.9,60,Medical Bills,Rejected,962,447
+330400d1-7c6b-49f4-8fee-32615a312498,016c0a79-587e-420a-a413-9904c873ba57,Male,Retired,14034,8.24,60,Business,Rejected,2006,789
+5884a742-7a5c-4c49-b1fa-bac4382298f4,eb820423-eac9-45a5-9e0f-1c32c7ff25ea,Male,Employed,16942,12.46,36,Home Renovation,Rejected,2951,668
+d597c36a-e7bb-4ba2-9cfc-adc81a5ff65d,e6f92388-bcd9-4ad4-864b-3784da15e49f,Female,Employed,14350,9.08,24,Education,Defaulted,2871,524
+3891de48-848f-4d0f-b947-a0ec0ad991a0,78f4d77b-beab-4483-9897-a34150e045ec,Female,Unemployed,44703,4.96,12,Home Renovation,Defaulted,635,435
+028b0d25-6f14-4428-a154-e8d52281a10c,ef4fab02-f967-44b5-be23-cb2b860679e6,Female,Employed,6332,14.12,24,Education,Defaulted,2825,541
+a06ff8eb-2243-4d9e-8c37-14ae68d29c22,05a43f3c-c965-4db0-bbe5-af5cd26493ca,Female,Unemployed,5785,11.54,60,Medical Bills,Defaulted,2123,529
+83473c98-d24f-4149-9fc2-eacad62c926f,543947d8-e13b-4197-90c8-720792b1a2b8,Male,Retired,30427,12.63,48,Car Purchase,Paid,1110,508
+8d918abf-28a1-45f4-ae2b-7b78aa913c9a,de606584-5d53-41d1-98c7-70ca70e45bd2,Male,Self-employed,10659,3.74,60,Medical Bills,Paid,2257,425
+dad3850b-e95a-44b5-9e5f-4687531c6d4b,6aeee2f1-c593-4379-9d93-1af7b7833fc8,Female,Self-employed,10722,11.86,24,Car Purchase,Approved,3069,771
+a8289d54-efd7-431c-ae96-d9a5b47e2a5d,4c1e9652-789a-48c4-8156-c6bacda9f462,Female,Unemployed,23026,11.69,12,Medical Bills,Defaulted,4592,628
+1708ce63-ffd8-4ff8-9989-74a96958512b,a61e198b-7e67-4af4-8bbd-51352febc7b7,Female,Retired,18632,8.11,12,Medical Bills,Rejected,1184,848
+8bdec723-376e-43b6-8165-93a612a2608f,991db41d-7505-42fd-9a68-ad911de231fc,Female,Retired,46231,9.16,60,Car Purchase,Paid,3268,694
+9447f787-363a-444a-844d-e5f41dbf3343,2c088137-327b-44c4-850a-df177447a498,Male,Unemployed,29695,6.95,36,Education,Approved,2241,315
+975a53c2-77f9-4f89-ad41-bb0c8e672c41,f1c60092-fad1-43b4-b72f-4c0af5ba94d6,Male,Employed,37471,3.94,60,Medical Bills,Rejected,2004,538
+0fba54b9-f15c-4722-b964-d820e0430a8a,dfd282e5-d164-474a-aefa-bcb2a3cc84e8,Male,Retired,1310,14.16,60,Business,Approved,1320,463
+e12f893c-9075-41dd-b9c6-9f27e9632d5c,8a538a19-72e0-4dc2-a1e3-f8d8f153db5f,Male,Employed,40345,9.23,36,Medical Bills,Defaulted,4130,484
+712668c9-9a18-4924-89f8-05a293800f2e,ff3114b8-932f-4ec1-9e5f-578d67760ba5,Female,Retired,17462,14.91,48,Education,Defaulted,4902,731
+76aeee32-be89-4b3f-9f91-234dcb48cb15,63a700b9-b542-4f22-aa01-84817ddae052,Female,Employed,32326,6.31,12,Home Renovation,Rejected,2670,607
+167e119a-0f45-4fb4-b5d1-4094db3b5c21,d387c370-4da2-47a2-b4be-46587acf7b43,Female,Unemployed,35751,6.13,24,Education,Rejected,3421,614
+d8e90bfb-bd10-4887-aad3-2d979a16a00f,4388e872-afaf-4652-b910-5099f4152bb6,Female,Employed,8688,14.99,24,Medical Bills,Approved,3411,530
+ae95754c-8b7c-48dc-8740-cc3de953f447,5b7f95f4-3ea1-4ce0-8541-40216bc75a5c,Female,Employed,42480,9.29,12,Business,Approved,1161,444
+0e7f84d9-0b42-4f13-bc1e-a1262e9c9acc,952a32e5-004b-4c0c-8411-5a476d67549d,Male,Unemployed,7229,6.95,48,Business,Defaulted,4929,482
+b0e0a945-b847-4457-aa59-87839275e43a,b09d9989-9054-4589-b01f-a09d8ab02e57,Male,Employed,3807,8.28,60,Home Renovation,Approved,4935,387
+9d1ea4ff-c1aa-4a41-910f-e212485b9f58,3a47ca00-dbca-4bff-8d72-7896e6955904,Male,Retired,9872,5.86,24,Car Purchase,Approved,3367,663
+a8f97c47-a949-42af-89ee-eda3e849cda9,1fd61721-36b4-401f-8c49-706db4ff9024,Female,Retired,12489,6.21,60,Medical Bills,Paid,3717,679
+994a21de-b815-4645-97a9-ad137871b2d6,a3b58709-9dec-4d49-aac4-24b64302391a,Male,Employed,31039,7.88,60,Home Renovation,Paid,1634,817
+2320f2a2-edd5-4349-97a0-0b2d528e5bf5,7fef201a-e5bf-4f3a-987f-ab865ac15019,Female,Employed,6244,14.02,24,Medical Bills,Approved,347,832
+4433d1ea-1d01-4a13-9e21-8ebe68a6a36c,b14d6cb5-b54b-42c7-bf3d-1056556a442c,Male,Retired,38309,8.31,12,Business,Defaulted,3948,589
+14e611fc-90c1-4a6e-a59a-b336e368677f,29d3c498-0344-4f3b-93ee-293cc80c94eb,Male,Unemployed,45189,8.51,60,Home Renovation,Approved,1805,501
+41841804-d743-4c4d-9b98-7dc50bc05bc2,e84cfd4d-1256-4f74-9754-7ad8e9a35af0,Female,Employed,44352,9.02,60,Home Renovation,Approved,3431,675
+a05c6491-b8c6-4051-afab-cf615e93632a,bd842e10-97e7-42b7-b605-3d12728f87f8,Male,Retired,17000,14.75,48,Business,Defaulted,3558,405
+ad034cc7-06ce-4d1b-9422-eb56a5e58398,5cb2a380-5c30-4fd6-b3ea-138410b49b7f,Female,Unemployed,44498,3.86,24,Education,Defaulted,462,565
+81716656-729e-48e9-805c-285bf9d69827,dc7918dd-861d-4b32-999b-b66357704465,Male,Unemployed,32520,12.41,12,Education,Defaulted,2367,333
+5cc3f82e-6f90-4f1b-9c19-a20367e27f76,0ce38ba2-13bb-4ef7-81ba-c59633ab9620,Female,Unemployed,27002,4.7,12,Education,Paid,1520,796
+f39e5cd8-5d9d-4e1e-9696-c4ad4160b878,fd893c88-a494-48b9-babf-af6f5ab18b2f,Female,Employed,37012,4.97,36,Medical Bills,Defaulted,4172,582
+e4c21be9-5860-4b80-aea4-dfa721a1f393,c321239c-7d08-474d-99d6-dd2ced9aade1,Female,Retired,4779,6.4,60,Business,Approved,1178,466
+ace63020-2009-4efb-b4d0-e45c1c1485ca,f6830dd2-0ef7-4cda-84ac-7f21fde73995,Female,Employed,3522,7.22,48,Home Renovation,Rejected,1553,644
+7bb980ad-5eaa-444e-83e6-d1cd4e210b48,db94a9c6-f9a8-4240-89af-55227a970ce3,Female,Employed,27734,10.47,24,Car Purchase,Approved,4766,318
+24d9a8ff-6e2f-4ace-9ba3-8bb32f580a83,60d66fbb-cdda-4662-a9c5-97166ca54ce4,Female,Self-employed,27453,7.6,60,Medical Bills,Paid,2936,821
+d5133a46-f932-4d9d-8c5e-a07eaef53a83,cd5ef449-b70c-4e67-8127-45e0f77bdfe8,Male,Unemployed,39201,5.34,12,Education,Rejected,2019,557
+a6778b2c-28ab-48bf-88a0-9f92b9b6966d,69da0bd4-0994-4fdf-8afd-8f76ff686c30,Female,Employed,37314,12.42,36,Home Renovation,Rejected,2423,829
+4436baff-3f96-4ad7-aa56-bc0eeb0a48f4,b830044b-8428-4973-8b7d-adac67d1d76b,Female,Employed,23634,8.98,60,Business,Defaulted,4969,501
+970a50fc-f16e-4ac2-970f-e1fb0ff3fe8f,d4e6ad73-3af3-4b90-ab14-299734307185,Male,Retired,19422,9.46,36,Business,Approved,3981,703
+860175b2-291a-4142-9e38-b47e7d2c35fa,51a48554-b9ff-4e99-b41b-d9b1cee60a19,Female,Self-employed,1099,12.23,60,Car Purchase,Rejected,2426,698
+1ec67951-3605-49a4-a6e8-e665365fd1a6,d244ee59-b386-4412-8391-bc9ebbb8a091,Male,Self-employed,13645,9.19,12,Education,Rejected,3934,618
+43a6b135-1718-432e-b822-ccc1ffc9a02c,e2055cad-502d-400d-97e3-1a79e7c7d933,Female,Unemployed,18521,13.25,24,Car Purchase,Approved,768,350
+b6e8fa33-a9a3-4fb8-a2c5-aaf6913aed81,50ba442b-f2c5-4bde-b230-5398e39b5c9b,Female,Retired,6624,4.94,12,Medical Bills,Defaulted,4248,439
+cda383a8-c0a8-4084-bde7-959c9973703e,d0773001-8c7f-44bb-b5f6-32c79d6f6cf9,Female,Retired,3638,6.89,36,Medical Bills,Approved,946,364
+b740a4b6-83f8-48a9-b384-a2ec0c00aabe,3404db7e-e8fd-4b55-8e45-4b79a67a2170,Male,Unemployed,45622,5.79,36,Home Renovation,Rejected,4291,527
+aa95bbb5-df4a-4e59-9797-802f53f8e97a,767f2deb-479c-48d2-9671-e9fcbe4f2c41,Male,Self-employed,6047,5.29,36,Business,Defaulted,103,359
+52a5c88a-7480-45ac-83d2-3a593f68c071,211389d5-68c4-4394-8175-b760dc6f5e1d,Female,Retired,27703,9.47,60,Medical Bills,Rejected,2163,374
+0c850c71-f4d4-46b7-b893-0918bdcf5bd9,e3ecff42-beae-43ed-ae3b-6466408f7beb,Female,Employed,34733,14.05,60,Car Purchase,Approved,4833,653
+1cf7da3b-5a4c-4ba9-9cd0-7f00a76c4d87,587ffd47-e6aa-4315-8397-b460408cf6cd,Male,Unemployed,48681,7.28,24,Car Purchase,Defaulted,1131,311
+df52f421-0194-4e92-b6b9-05fc3c6a59b0,b39c2276-4e43-4464-b0d2-9416aeec37f0,Male,Unemployed,41700,8.01,48,Medical Bills,Defaulted,3578,587
+33d73a8d-b7aa-4d63-b0bc-d5fdc7a93880,055ae882-5eb4-44c8-9eb0-83fed99fafb1,Male,Employed,39655,11.38,36,Business,Defaulted,2502,668
+bb2ed21a-541b-426c-ae25-0bf805a71edd,31b2c9f2-8814-487d-a2e5-02b3128f9e1f,Male,Employed,26757,11.32,36,Home Renovation,Rejected,4758,728
+9609bef4-af8f-4726-b34c-7ca62013547f,1e6666ea-6df4-45fa-bfb4-2f8cd9a9dc02,Female,Self-employed,33718,5.23,12,Car Purchase,Paid,4221,318
+918ead64-6de0-4a3d-aa9c-faa85004341e,240c409c-791a-4d80-b0aa-93b36df7293c,Female,Employed,27302,10.98,12,Home Renovation,Rejected,4297,401
+a4428c4a-edce-4ec4-8332-e6c6df6756da,4621123c-fd2a-42bf-add5-714a4d06d7cf,Female,Retired,28875,10.38,24,Medical Bills,Rejected,4287,814
+ff69da2a-2c9a-4b40-bca0-ac6023879a3d,d3797a25-7c25-41b6-827d-c27b54f9dc0d,Male,Self-employed,34817,8.07,36,Education,Approved,3510,429
+2de959e6-7c56-42f8-96cf-742c4e97b860,1c4f5836-b90b-4f91-b414-34e95a9124e1,Female,Employed,1822,4.68,48,Car Purchase,Defaulted,1988,479
+1d2ce6ea-af7c-4794-a7d8-a1df5df67bd5,2b2ced4a-778e-4754-aaf9-23901ebcca9a,Female,Retired,8392,6.36,24,Medical Bills,Paid,4437,500
+2b3db092-094a-43c6-9177-b03233d1deb9,c6339fec-fb1a-45d0-ad23-25ba784ceb66,Male,Retired,13751,14.93,12,Business,Paid,4864,664
+1e1a1c67-2bd8-4d60-a384-c2ce4ac61df6,322d9b98-459d-4528-8057-965206bfc9d9,Female,Retired,8006,14.93,12,Education,Approved,307,848
+f931321a-a97e-4bfe-9a5f-ff49514cd6b2,a05b70b8-5b66-4e3b-861c-312a0cb511c0,Female,Employed,16312,12.36,60,Education,Rejected,2958,377
+9c4a4b20-a789-49de-8740-d3a64a519a00,37b439ae-9299-4e49-bbc0-c7cca5e4dafe,Male,Self-employed,39353,4.34,48,Medical Bills,Rejected,2552,849
+1eef9941-9dbe-48c2-8a6a-4977e323ab10,741a02b2-75c8-4e72-b438-25ffff3d561f,Male,Unemployed,2099,11.01,48,Education,Rejected,172,471
+a85aa398-66dd-484b-b1c5-dd4380ce08ea,69b18de5-5258-4108-95de-2b6505dc6c1c,Male,Retired,26229,10.91,36,Car Purchase,Approved,1116,654
+3d09ce43-5ce6-4ec1-b8ae-03bd1db0e248,13a12b3b-3fb1-49f8-bcdb-c072b4931ed5,Female,Unemployed,25772,4.85,36,Home Renovation,Paid,1576,709
+bace2c64-3ea4-40c9-8b81-d10846e9de49,629178ea-6148-4510-b369-5917c16b7890,Male,Unemployed,17415,13.43,12,Education,Defaulted,226,624
+b08c867b-36c6-4009-9b10-23d00491c867,9e3c4d51-2547-4a33-b20c-65bbd8b4662f,Female,Unemployed,10763,7.93,60,Home Renovation,Rejected,192,790
+aa1ba823-f62c-4fa5-9b58-36f4e0c559f8,f8b7bc2a-743c-45b0-a934-9440d68a573f,Male,Self-employed,13028,14.82,60,Car Purchase,Approved,4621,542
+72bada64-a3b0-49ff-b7d8-3b681e07cef5,e49cfcea-3115-4991-97d9-5e2178736274,Female,Retired,7959,11.19,60,Education,Paid,4032,312
+6f840c16-9a50-46d8-9897-0867b047a635,f50509c6-43f4-4981-b5b2-30331ae085d7,Male,Unemployed,14824,10.98,60,Business,Paid,528,840
+c0caed12-0ef9-4e69-9a56-5cdccdb5ffde,ca59707b-85b8-40cb-abe2-9e1c20364bf7,Female,Self-employed,25413,6.46,36,Car Purchase,Defaulted,4858,360
+d81fc2cd-423f-428a-aa9e-cd205af42fed,5450cada-a196-4c0c-8270-97387df2bb8a,Male,Employed,42272,7.48,48,Medical Bills,Defaulted,4843,655
+4de9f073-157e-4b49-9727-16d083d806ea,b95c044c-0c3b-4d5a-9b1a-825f569b5bab,Male,Retired,32604,7.25,48,Medical Bills,Approved,3230,489
+454310b6-e018-401a-b031-0b61b40fa814,df52a80c-bbd6-47ff-9f81-25508e759b04,Female,Unemployed,7447,11.54,24,Education,Rejected,2373,690
+7d34f14a-9764-42ec-b878-4ddcb3729cf1,a574e36c-4651-4026-971a-a2001b73c471,Female,Unemployed,16768,8.58,12,Business,Approved,4449,552
+c9ade98b-d6be-4106-9d9f-8a2d3a54c675,1d68a477-5439-40b6-8050-0494dfa52c04,Male,Unemployed,39667,6.09,24,Medical Bills,Paid,3393,712
+5e1a9e57-ed59-4361-98c2-92502a0a1dd1,cd1a8cea-7acc-432e-b048-db595da70c9f,Female,Unemployed,1582,10.11,60,Business,Approved,2210,509
+a837214d-9906-4c2f-89e1-6a9812bb4a35,85bf80f2-4f53-4502-bc5b-84359d5ba4b6,Female,Retired,16032,11.69,48,Business,Rejected,1440,485
+18691a83-7fad-4330-bc75-63161378d4bc,858c2b77-b163-4341-b015-5db32d75181e,Male,Unemployed,29586,14.49,24,Medical Bills,Defaulted,837,797
+5be12e25-88e9-4f96-96db-489d614b5f11,32176982-bdeb-49c1-9b83-5e3ee641653a,Female,Employed,4077,5.11,24,Education,Paid,2863,501
+eb6ea0aa-511c-4af4-9ddf-cb62e7f201eb,4fac7f1c-8cef-41ef-8713-10e4d9257866,Male,Self-employed,46577,10.06,48,Medical Bills,Approved,2295,701
+68919447-d477-410a-8193-040ddeda4667,295a65d1-013c-400f-b577-8b53ec94b1de,Female,Employed,19702,4.16,60,Car Purchase,Paid,4791,547
+c126d05e-1c37-4fc4-8c75-df6ace8695f9,d26e767d-94c7-4cce-ac15-77b5208ac968,Male,Employed,12980,3.93,36,Business,Approved,301,389
+b26b1dc2-7550-40cf-9b73-5f1de1261b76,34cd49b7-8e44-44c2-b0b0-eaf29c4d1ba5,Male,Unemployed,924,11.03,12,Medical Bills,Approved,1840,368
+ed5692bf-c770-47fe-be0f-15f24fc168b1,f796c13a-f66f-4601-b9dc-086c2dea6ac1,Female,Employed,9865,10.29,48,Business,Paid,4680,551
+d9be6085-282d-42c4-9d88-cd8e4a746207,deea6999-5bc6-4afd-b8f1-58a9a60941a7,Male,Self-employed,36264,10.98,24,Education,Defaulted,4638,324
+a6706755-74c2-467a-8138-e71b4f112410,6a5ec947-ba0e-4c84-96a1-2c912655df90,Female,Retired,17631,14.2,24,Home Renovation,Paid,1451,460
+8e85143a-3d9c-4a44-969b-424b9c312199,bb6a5b61-261b-44d6-b7a2-dcfe1fa32d67,Male,Retired,12848,7.76,24,Home Renovation,Approved,2488,775
+a7434cb5-f1a2-4059-b1b3-f590bcc1f60b,701a1120-2e64-4907-b2b8-a846ce140594,Male,Employed,46940,13.68,36,Car Purchase,Approved,1453,742
+5b100d15-0fae-4b77-a274-d29f1585ddae,9c5fb0f7-51e8-4d4e-8d1a-0a0ea5393368,Female,Self-employed,4190,8.41,60,Education,Defaulted,583,503
+34835e8d-fa18-45cc-acef-e685f001bbd2,abc26e03-faef-4db2-af74-7cbc3d0e0d6a,Female,Employed,47193,12.02,48,Medical Bills,Rejected,1893,443
+11981a2d-21d9-4a4e-bb89-3aec6cd0a9d1,5625011c-2b90-4e0b-801f-110b29f73c0f,Female,Unemployed,36068,6.04,24,Home Renovation,Rejected,3546,754
+d77b1e02-3717-410e-bb7e-b97a0e83260b,97dfa08a-f95e-40de-9978-680ad83e53e2,Female,Retired,5988,6.48,24,Home Renovation,Rejected,2116,392
+af8f6389-9af7-47ce-9351-c9e1f56a114f,08b35c66-140c-4f9c-ba7a-b62bada907e5,Male,Employed,43807,10.13,60,Business,Approved,4430,820
+5d5ca24b-867e-43ac-8433-dcc60ad258cf,9f1d92f9-e9c3-497d-8296-d4b975b4e481,Male,Self-employed,16428,14.7,36,Medical Bills,Paid,4746,681
+d44a5770-1c75-4aa9-931c-798482b91ec6,367653da-576f-4569-b8fe-579e441ae445,Male,Self-employed,3007,11.33,36,Car Purchase,Paid,3981,638
+fda639e9-99fa-4b87-b0dc-e02b59b0e6e2,e6bdd2e0-ee32-4b58-8da7-97b4fe01dbd3,Female,Self-employed,12818,4.58,48,Medical Bills,Rejected,3162,501
+4c352139-a210-45dc-9712-c5c5166d746d,2907eb7a-5fa4-435f-b5b1-c7af565b83f8,Female,Retired,17938,8.21,60,Home Renovation,Rejected,604,438
+12a3a71f-2875-49e6-9957-2617725cd76d,62c368e6-429c-40ed-bdc5-d8ff5b3fb0f9,Male,Retired,21170,10.09,48,Car Purchase,Approved,2864,565
+0d835a5d-6145-487a-b71f-bd0b0ca79ab8,d2f53729-7fde-45cf-849f-92bb59303241,Female,Unemployed,26639,13.63,12,Car Purchase,Rejected,4122,668
+071f5986-2f2d-44f9-926b-09ed40144cca,407373f3-94b4-4194-8a9b-7793d0969db0,Male,Retired,30781,6.46,48,Business,Paid,3898,448
+0cf8265b-2f1b-4d67-b9dd-824a8ffafb35,08f2dc37-8084-4834-8b0a-b854ae1e322f,Female,Retired,45633,4.71,48,Car Purchase,Approved,2160,614
+fdfb316e-a017-49b6-b5c1-56d5347da3ce,f9c59cc5-4dc1-4648-9933-7345f56c01ba,Male,Self-employed,18180,12.3,48,Education,Approved,3419,596
+3bbe870a-4fad-44a8-8f77-63e16d94d9f2,05925407-2f61-435e-b51f-445e25a117ad,Female,Employed,44646,12.94,48,Car Purchase,Rejected,3625,661
+7cb3b112-a5ba-48c9-9ef0-9d343655c390,095fd491-935b-44b6-aaf4-cde496ac3d42,Female,Unemployed,16916,14.58,48,Business,Approved,2031,602
+481892fd-776a-4075-98b6-c8add2397423,4ccb0232-e560-4407-b378-2e5dc6db3369,Female,Employed,33066,9.76,24,Medical Bills,Paid,1916,477
+756b7ced-bac0-49e1-b6d5-e0c48576b758,4365115d-d137-4ff5-8603-5808c29e70a7,Male,Unemployed,29901,14.44,24,Car Purchase,Rejected,1817,590
+204cb2b5-4112-485f-89de-0ad1aab71d90,ddd337ce-61d1-452d-85aa-bd8a0b15a45b,Female,Employed,25805,9.01,24,Business,Defaulted,2973,833
+43777382-6b82-4771-b61b-4bc1ac787344,55342f16-564d-43de-81f4-1649a787985d,Female,Self-employed,13028,7.63,36,Car Purchase,Rejected,3422,532
+38d63567-04fe-4dad-ae4e-36c20e30592b,3ed7d5e9-250c-4b8a-aa80-43707449ddde,Male,Employed,38756,3.56,36,Car Purchase,Rejected,3593,805
+7acc029d-7420-4e0a-9424-a2752b25a873,9ca85a00-b8a3-4a86-8130-7bbf61e63ec2,Male,Retired,43263,4.33,48,Business,Defaulted,4856,824
+53a4af75-e6c0-44b7-a584-2d2538c49252,f7fc74a3-bfdb-49ff-bf51-d99377b36280,Female,Self-employed,42452,7.53,36,Home Renovation,Paid,3701,582
+53a2950f-fb3e-4fa6-b46d-6ee3319f60d4,f2424d7d-63dc-4b5a-aba7-5e0828094249,Male,Employed,31679,9.73,60,Car Purchase,Defaulted,2166,601
+05ab5822-4642-4f07-ae62-6daac3430f3f,8eefc2d7-a57b-4cf2-ac15-ee517fa33f90,Male,Employed,1399,3.63,36,Medical Bills,Rejected,2420,445
+cbcd5452-7eca-49c0-9d36-b74b0eff4777,8b05c05f-7065-4281-994e-0744a3446920,Female,Retired,11576,4.8,12,Medical Bills,Rejected,2997,706
+7d8efb79-fc9b-458f-8e01-979e1fd9bc0b,41236df7-53c6-4789-a7a6-1cb631c40dac,Female,Unemployed,35324,12.73,60,Car Purchase,Defaulted,819,592
+d27406eb-8d32-41e8-a0bf-b73acc99142c,103bfe4e-52da-4d76-b3f5-7613c7759d08,Male,Unemployed,48867,3.52,48,Car Purchase,Approved,3457,430
+e0db4160-254e-42ec-a7fd-9aaa9d275b10,84272c3e-6f68-409c-8498-e84978a403b0,Female,Retired,14649,11.68,12,Business,Defaulted,4193,311
+63aae5c7-f901-4b99-b964-c1766e3100eb,12226987-3c3c-448f-939a-4a5c7bdeccbd,Male,Employed,40853,13.95,60,Business,Approved,4837,437
+4af360b8-c213-44d0-98ec-330fdcfd397a,b126fa55-fa8b-4bff-8286-a11a31dacff8,Female,Employed,46585,11.3,12,Business,Paid,3055,332
+925c5b0b-82d6-4aed-a17a-f710080cf3ec,62c81ba7-1130-439b-b024-7ab54bee029d,Female,Self-employed,32686,7.8,24,Business,Approved,3379,834
+f5a00965-9d01-4f14-b0ec-a62ce508ab24,13fe112f-efae-41c6-a769-2a7b54c35e11,Female,Unemployed,14519,4.08,60,Medical Bills,Paid,185,523
+2b8bb827-6c70-4865-a408-ef3fe683e753,1bd43592-a7ac-4f41-badf-19f86ea49f5e,Male,Employed,29854,14.88,36,Car Purchase,Approved,531,531
+f46af61b-2f7b-4268-aaa4-25a1e512a274,2bf4d0ab-c067-4208-9b8c-0a8df5169636,Female,Retired,42547,7.24,12,Education,Approved,3077,683
+595413d8-0b46-4a47-af2c-a63fb9bc73d8,fa064807-5fab-45e2-879b-a18d2c5b49d4,Male,Self-employed,43145,9.11,24,Business,Approved,1325,522
+d1888070-f46e-40b5-9aad-3677b46b6759,7b677ad0-f540-45b1-9703-d27228a535dc,Female,Unemployed,34417,4.14,48,Education,Defaulted,1713,610
+eccc6f77-c187-4e59-8fcc-6558f8c6d5e8,16e2a05b-db2a-44d1-bd50-6979cf15f885,Male,Employed,1025,5.83,48,Home Renovation,Rejected,4183,624
+bc145d38-4f68-4a7f-b8be-21975540973e,2831277d-fef4-40c1-b6e1-b369fa94caf8,Male,Retired,16489,8.22,12,Home Renovation,Defaulted,831,752
+1204e125-a70d-4822-afb3-61d03e8f8456,64f25273-cea2-4f4a-81e1-d2f1315f4f89,Female,Retired,10435,10.14,24,Medical Bills,Rejected,2952,718
+17223d5d-61ed-44f5-9951-81d84c0a0706,a4d9a263-4d7b-443d-9880-dcf439ed37c3,Male,Self-employed,21247,8.83,60,Home Renovation,Defaulted,2935,620
+b204ba2d-d40e-4e7a-a167-ea2739a1a984,e9a4e60e-9704-47a8-8eb6-149df59cb3fb,Female,Retired,39911,14.62,24,Car Purchase,Rejected,4264,437
+88f749ca-d3f1-430b-9718-d11caa83d327,27d2c770-7250-4137-b566-3730393388b5,Male,Employed,47412,8.95,24,Car Purchase,Paid,1346,539
+6a884229-dac8-40b5-8afc-a86b07760341,e16d0995-d109-43ef-8e27-bcdd71cad36c,Female,Unemployed,28405,4.96,12,Business,Paid,3379,644
+21b415d0-44ef-4905-83df-01243b8cc01e,ef8c68d7-7bda-45b0-b0b8-565766891750,Male,Retired,13470,10.7,48,Home Renovation,Paid,873,843
+10b8ef00-891a-4f08-bac8-a45bf87d04da,0d58884b-6358-4afa-88b9-2956bbe4be7e,Female,Retired,26618,10.97,48,Business,Paid,2868,439
+53ce2814-64e3-402c-b974-4e499d4affc7,59dc688f-1ec2-4e96-948d-38ea0ae1cf09,Female,Employed,11298,7.12,24,Medical Bills,Rejected,194,327
+b17b73fe-cf7a-4b0a-85e1-29eb55e87a6d,40a802bc-1d5b-4e70-897f-6a8cfd7cf2e1,Female,Employed,43580,7.79,24,Home Renovation,Defaulted,4570,602
+29077c14-df04-4d63-abdc-eaf107554b36,bf68436f-f82b-4f58-84ee-d307719cebd5,Male,Employed,26261,10.93,48,Business,Rejected,3746,445
+f5560fd9-f397-405b-a0ac-9f3b6eff1e49,f94e2ceb-c295-4c15-a3fe-0a45a703b7aa,Male,Employed,34645,8.86,12,Home Renovation,Defaulted,2815,394
+6ff86ad7-9d53-40e7-ba5a-af26767ae79f,81213781-b1b9-485a-8358-ac2ff253194e,Female,Retired,30169,5.93,48,Home Renovation,Approved,4567,679
+ae2f87d0-8bca-4d1a-b630-a05aa8d788c4,edc87315-d810-4539-9d7d-e2ff61c09ef9,Female,Unemployed,1730,7.62,36,Education,Defaulted,2923,773
+da70924f-3e23-4e6b-b4af-5b7848a60f98,0b4a1938-8273-4250-9c2b-c6d27c436aab,Male,Self-employed,9290,11.69,12,Medical Bills,Paid,2886,620
+e21ab9f6-58d4-42d0-8211-509d2eb5b5b2,bb6ed413-4bec-423a-a93f-a237cae83c1e,Male,Retired,22705,6.08,12,Education,Paid,2195,632
+1b19fc97-a518-4a3a-ad92-f705cb11476e,4ee68605-5997-43d8-b97d-aad77a1bac77,Female,Self-employed,44357,10.63,24,Medical Bills,Approved,3534,737
+f79b326d-e2d4-416f-9d84-b38cc42b73df,3db09654-d80d-449a-90c6-22edf0380ece,Female,Employed,48355,9.19,12,Education,Approved,4345,358
+7bd756a2-91b7-463f-a5a5-683e388ea915,35877c0b-23e6-4425-aeb8-4cc7f45cf004,Male,Retired,18872,13.99,24,Car Purchase,Paid,2137,726
+1692b8f7-c82d-4990-ba4b-24d4fa09f122,3156120d-3ffd-4174-b419-0a7c27ff36fb,Female,Unemployed,3876,6.37,48,Education,Rejected,4460,622
+aaf41c8f-9e8d-4c97-8a92-0d4ba9843633,29c9f62c-2b18-4341-8cde-b6dd88e26463,Female,Employed,16715,10.84,36,Medical Bills,Approved,3006,705
+4a646b42-b6f1-4d30-92b8-2ad8d0b055ba,d69a6d68-50de-46d4-b40b-fec89e1283b8,Female,Retired,1499,6.83,24,Car Purchase,Approved,4922,780
+1f2cfa56-f490-419d-8309-ca1ec2b25413,32b584cb-5f54-48f6-b3ed-139273cdbc36,Male,Employed,31423,14.87,36,Business,Defaulted,3893,637
+db456e64-5a2a-429e-a9c6-22d7fef9249a,2fc9fd07-d4e4-4378-9575-014778018e31,Male,Retired,34340,11.72,24,Business,Rejected,4116,815
+2b2649f5-5784-4ff5-bf28-e527954915a2,7116c660-c9ca-47d6-8172-25efe1c74768,Female,Retired,33078,12.48,36,Education,Paid,174,448
+dd0357a8-090d-4ed6-a6f8-357517d840f9,15ecce80-f15f-45cb-9e2a-3b4520e762e7,Female,Retired,41603,5.64,60,Home Renovation,Approved,1786,432
+1c054cbd-b0d2-4f42-be44-9f8dba29c58d,2deb9eaf-2205-4445-85e1-9f43d2bd3633,Female,Unemployed,27256,11.81,24,Medical Bills,Paid,3074,499
+e8e2219a-9773-4434-be14-fbf6bd5d6f9c,b829938e-34da-4fa4-8bde-3741b288516c,Female,Self-employed,22870,12.74,24,Home Renovation,Rejected,2203,522
+b3751743-50e4-4133-a4fd-dadad8151911,c3cf6156-8646-4622-b80c-494dadf64cdd,Male,Retired,42223,8.44,48,Education,Paid,3570,346
+1365764d-e22b-4ff7-a0db-c8ae1f06ea9c,6b3a8a71-2a5a-4a71-bdbd-700b6a4360be,Male,Self-employed,10516,6.42,48,Business,Rejected,3534,397
+91d763ed-492d-402a-9a7a-a8e3fed9de23,2954df6f-c977-4cc2-945b-cb4c72773afe,Male,Unemployed,8533,4.05,60,Education,Rejected,1337,494
+467838a5-734f-43b7-852c-78f8ca5fc640,16da32cb-a932-4212-8df4-646e686e30f5,Female,Retired,23874,13.51,48,Business,Defaulted,2654,412
+7f186ab5-129e-4731-a0ea-f59859705651,98d4e7e0-63a9-451e-8277-8f4aa7ddcae3,Male,Retired,21555,9.77,36,Education,Rejected,838,805
+a8cb188b-e23b-4688-9b7e-6a1147a40d32,971b43ce-de5e-47ef-a974-0565d2d81c3a,Male,Employed,47620,11.1,36,Car Purchase,Defaulted,1786,536
+c74299bf-3543-457b-8dcf-c6d3962c5e7f,58fc0064-68f3-44c3-bc91-20730c55a960,Female,Employed,13786,4.18,24,Medical Bills,Approved,3106,531
+ebeba96b-c06a-4a12-be95-923b8d29f04b,06b28de6-d43b-40c6-bd5c-861db672a0b8,Female,Retired,49195,6.51,48,Business,Rejected,953,391
+d74d7014-d1f0-49dd-84a2-1bea8e765493,67cbefe0-45ee-4f04-9683-33b2e5ae1a3c,Female,Unemployed,40473,14.98,36,Car Purchase,Paid,1864,385
+81eb852f-52d6-4d69-9469-e91992a3cac2,a14163e4-bfd0-4dbc-b903-4b1ea2aff8e4,Female,Employed,9784,9.46,60,Home Renovation,Defaulted,1421,408
+6ef81093-7f86-427a-8842-e42e23839a85,b3058e67-73d1-49f5-9d10-920762f8fdb3,Female,Self-employed,24244,4.75,36,Car Purchase,Approved,3863,590
+fa76d16a-8a40-45d7-8364-53d3d8b84dec,9c0d9187-960f-4d55-a8d0-8a45fc7f0f32,Female,Unemployed,48833,6.54,48,Home Renovation,Paid,3648,343
+593abd95-d77f-4b86-98f5-6bc37cb64016,ca98755c-0e47-4148-8c80-450982ca38ef,Female,Employed,34499,9.06,24,Medical Bills,Paid,4475,577
+c85f6cfb-fed1-48eb-8258-8cce7a77e472,693e09bd-dda5-40c2-840d-ff2f808afe04,Male,Retired,31348,9.54,24,Business,Paid,551,471
+f5067200-295e-4dd5-ad6f-b033e3f85ed9,84ea8e94-2047-43c8-a0b2-c27872298b5f,Male,Unemployed,4077,7.06,60,Business,Paid,4109,368
+a21bfd2f-7ad7-40f8-b0ad-e50b728a32a1,d35ddc70-9348-4a5c-bdc1-9491e1b2725f,Female,Self-employed,17043,10.1,60,Education,Approved,3755,578
+7939292a-4be4-41cd-a773-f564912feaa0,cb2b448f-bf0d-4f7e-92fe-ea057d208233,Female,Employed,19133,8.19,48,Education,Paid,4449,558
+5bfa51dd-e0fa-4745-8974-7a3911a62e84,4df173c1-1478-4d8a-a3ac-31f7227acb7d,Female,Employed,913,9.53,48,Education,Paid,2259,631
+94fc5d21-69d2-4fb4-849f-0d2da50261fd,e9527bc9-d4b8-46d3-adc4-d5facf68361d,Female,Unemployed,18360,7.65,12,Business,Rejected,1513,531
+69f2c67c-a07b-4f7d-8b95-5c8519e13a1f,59a4ec16-12af-4d9f-9736-1e75c61dccef,Male,Self-employed,43495,14.64,24,Car Purchase,Defaulted,3150,747
+67d70259-9841-4c52-b06c-7d75dda7b51a,b01da668-b804-4127-96bd-f409238707e6,Female,Retired,5103,3.82,48,Business,Paid,505,367
+b6ca92bf-dc55-4750-a5f9-988da32ae8c8,d258cd6b-4147-4168-85c7-91585813aa35,Female,Retired,3461,6.02,12,Medical Bills,Paid,1604,584
+19a484d9-a6dc-40a7-be24-a5bf418acf87,a22b62a1-116b-4d0d-8ae1-0f1def44908a,Female,Retired,22634,6.05,24,Car Purchase,Approved,4782,497
+52aacb4d-29b8-4e68-880b-f37199980f3d,6326f45d-361a-484d-8c5c-b91fee911191,Female,Self-employed,30665,10.33,36,Medical Bills,Defaulted,340,707
+f1fc685b-19a4-4b6e-9fc1-caa18e3b1183,3bf7b2cc-d32a-4d7a-97f1-96a22172ba7a,Male,Employed,38741,10.27,24,Car Purchase,Approved,1582,405
+ef4c78ec-5e6d-4eb6-be35-de30a2a1e989,d5783b0b-28f4-468f-b84e-f953eb76199b,Female,Employed,8128,9.4,60,Education,Rejected,1804,829
+4945b23d-0a27-4189-9976-c1e9c1935cfc,f32b2d5d-9893-4aa0-9686-8e5d5d457781,Female,Self-employed,49470,5.82,12,Business,Defaulted,1583,754
+d3b6b55b-21ca-4271-9a29-eb5db61c2bb1,9ea5f371-3184-4d20-b0c9-e0a3e34af34d,Male,Unemployed,39116,12.54,12,Medical Bills,Defaulted,1929,764
+c8025cf2-c769-40e3-bf94-0260210f62b5,38f403df-df0f-4194-aebc-688363b607c0,Male,Self-employed,48083,13.83,36,Home Renovation,Paid,1074,728
+2dd9c62b-7910-47b3-b70a-c5999bdf2608,af12727d-13e6-47af-ad36-3dec6f780f82,Female,Employed,10270,11.78,12,Medical Bills,Defaulted,2435,454
+df99f5f5-0bd0-43d1-8625-79a38336a733,6a15044b-7aca-45f7-b94c-eb970335d8c0,Male,Retired,29672,8.08,24,Education,Paid,2484,800
+9996b225-ee2a-4adf-bda7-c6374108a1b2,9492fe10-29b4-4abb-8850-f7168e448171,Male,Employed,36352,11.82,48,Education,Defaulted,4281,314
+b855bf7e-fe77-41c9-9b0c-d11dfcd2df86,948ceea3-a9c4-472c-8828-18b8bc8c8a69,Female,Retired,49904,6.7,48,Education,Approved,3613,471
+c52ce744-72f1-4afe-abc9-3e07c64088f9,e857b121-e25a-4973-8b1c-225fca07ea3f,Female,Employed,4161,10.48,24,Business,Rejected,4177,499
+67f951f5-83de-4e31-acda-9144d4bf1135,e4f3fc99-95ab-4cab-bf36-bca2fe0e38c0,Female,Self-employed,37891,8.16,36,Education,Rejected,4318,643
+836f673f-8fec-4c93-856b-0a183a83f40b,b73066df-d9e4-4117-b502-429708f61593,Female,Unemployed,5961,13.39,24,Medical Bills,Defaulted,4455,311
+b42bd638-4262-453f-a8cd-1d7058267593,3871bf2f-8e1c-4abf-aed4-edc2299da70f,Male,Retired,11514,11.97,24,Home Renovation,Approved,1020,323
+c0a277b3-e182-402b-8cc0-1fbf57f96a6f,8d4473a0-34bb-49fd-9f4d-380a8313918c,Female,Self-employed,42270,13.31,48,Car Purchase,Approved,4485,813
+6fd30976-877a-4ce7-b190-4e711d66b588,abf41cf5-1a09-4bf9-9676-78f3c9db7e6e,Male,Unemployed,45407,6.41,48,Education,Defaulted,1037,364
+7d05a7a9-33e5-4fad-9d6e-1f410df814f7,e76a839b-9d46-40cf-b808-00ec53622e6c,Female,Employed,37875,4.8,36,Car Purchase,Defaulted,3987,393
+0f55c32b-cfbf-4c40-af6f-8b12ee1b3f1d,dc89db0c-fbf6-4e7d-83b0-9a96eada4a3f,Male,Unemployed,37060,5.3,60,Medical Bills,Paid,3224,570
+f1ff6a7c-85e6-4155-99f3-1209ebc6bfc6,0a70bf91-bd8d-46c8-80cd-daac2f73b459,Male,Retired,24344,4.2,48,Business,Defaulted,1995,656
+c8d45455-7849-40ab-b809-b6830fe94f05,907692ff-7928-4f05-8f39-36eb76e8a2cf,Male,Employed,35000,6.27,24,Medical Bills,Paid,1445,504
+762bf773-887c-4236-a292-525118fcc24c,5d570dd5-e762-48bb-9212-04e2320d1eb4,Male,Unemployed,28868,8.52,36,Medical Bills,Approved,3069,747
+e25beee4-180b-40aa-a678-1b730f5f3db4,7f20a443-9f7a-4e52-bba0-998a4478e97f,Male,Retired,47181,10.08,36,Medical Bills,Paid,442,408
+fbb14bba-4e67-4dfe-a431-f44d0f404e7d,0dca1440-2349-4f82-97cb-bc1568c28833,Female,Unemployed,42475,11.91,36,Business,Defaulted,4911,501
+7f7f7e1b-2ef9-4b8a-90ad-b8ad0b6b910b,4956a1c0-8d79-43eb-907d-fc973a8dd857,Male,Employed,33359,7.82,24,Car Purchase,Defaulted,3098,459
+d12499cf-5f46-4083-af5b-04a94445d460,e97d879f-a18f-4be9-8806-6466b3375f11,Male,Unemployed,7475,13.59,36,Home Renovation,Rejected,4640,827
+454584d1-bf04-4b37-afcc-e8d936ca4e2d,ec7a15b5-96e4-4c51-bdf3-d90ec5b63a13,Female,Self-employed,35350,4.52,12,Car Purchase,Paid,191,653
+8205806a-35f5-4979-b7ce-0c8015bc3215,5345251e-e1ec-480e-8a8b-8263b05087b1,Male,Unemployed,47947,4.33,24,Car Purchase,Rejected,1786,517
+5672505e-a8c0-42da-85f8-05d54c2ee0fe,b41bcbae-a8a2-4260-a089-8b8c465a7888,Female,Employed,14372,7.36,48,Car Purchase,Defaulted,365,832
+b9d2d340-bab7-4a1d-addd-c290fb386e3c,0c1d2230-b28f-426a-913b-4eb94b7ce7e1,Male,Unemployed,33039,8.69,24,Car Purchase,Paid,1506,661
+456c06c3-4f8f-4334-a938-450bede513b7,b42ce092-e430-488b-9df9-1908b486a01a,Male,Self-employed,3806,14.97,12,Car Purchase,Paid,3502,662
+cd709033-0873-4932-949b-ed6a5b208460,af7360d0-87fd-4533-b578-884ef0eaa21f,Female,Self-employed,12978,12.98,36,Business,Paid,4773,816
+c4868285-e5fc-4f11-97d6-d2358e195f62,dc4b738c-b5b8-4e09-9e65-528860c03fb9,Female,Self-employed,18812,3.74,36,Business,Paid,4340,330
+2e0e2fba-fc82-477b-a38e-a6a4cf700503,8b044629-4771-490d-be4f-1706cf0281f4,Female,Self-employed,18857,9.33,24,Car Purchase,Defaulted,756,508
+4d3dc240-03c7-42fe-922c-7455aa55c764,9fa3b4e7-cad1-48dc-8b4f-bfc933c60008,Male,Retired,25094,5.26,12,Business,Rejected,1684,722
+7ff383c9-7244-482d-89fe-de4673da02ee,364270c6-25d5-41af-bd3a-b3e62fc7ef5f,Female,Unemployed,35790,12.17,48,Business,Approved,861,541
+b35001b2-c01e-4e0d-9c10-5dd80c0ed5e1,fa11618b-98ce-4215-b75a-01e0a1de73b0,Female,Employed,3000,6.94,12,Car Purchase,Defaulted,4624,358
+f666527f-ff95-43b2-b26f-73fd34da787b,57940ab4-d520-488a-8b54-d6934be6430e,Male,Retired,11972,6.42,12,Education,Paid,4084,405
+d3cf1651-ef0b-4bd5-9a6c-439c605869de,a4067330-78de-4446-bebe-85d2ab514c5d,Male,Self-employed,16596,11.42,36,Home Renovation,Approved,532,827
+a7b49278-e49e-4ae1-87d8-4f74fb5a2bec,06075136-7d3f-4c1c-979d-49fd70c21518,Male,Retired,30043,11.72,48,Home Renovation,Paid,4869,672
+4e6ad1ed-30a3-47c8-a298-b313b0a50069,d17e2b6d-9c49-44bd-891f-d39bab78ca90,Female,Retired,979,13.97,60,Car Purchase,Paid,2455,803
+31fc6099-3612-4acc-9a73-75e07d79a75a,a494a95a-865f-4ec9-a456-ffea36ddac25,Female,Unemployed,21920,13.9,48,Car Purchase,Rejected,3230,355
+a3646817-62db-4045-bc3d-8050ca0637f6,b7b87a49-21eb-4374-98da-4bf7fdcb4994,Male,Self-employed,33880,3.5,24,Business,Rejected,1933,598
+0d2187c2-63d0-457f-9de0-b83b0c4fbc61,316cba0f-7600-4236-afd3-4ed62d660aa3,Female,Self-employed,34135,4.8,36,Home Renovation,Rejected,4523,825
+34e77ad0-57ee-4c62-8532-d92136267c20,a773d1ee-6e35-4ed1-8f04-c166013e981e,Female,Self-employed,38704,3.83,48,Business,Rejected,162,332
+9f43cc70-dc4c-4357-a2b2-e0f388b52c75,a0c80c9d-fb6c-43e6-81c7-fe297db8091a,Female,Employed,46544,14.15,48,Education,Rejected,4805,480
+8eccf028-aad9-4455-9451-5f232700070c,f2dcc3ee-a14e-4898-bb7c-87577ba4209d,Female,Retired,28319,7.38,48,Car Purchase,Paid,1974,612
+c0b26b99-363e-4bc8-9439-01ca09563c8c,0968723f-b0d2-411b-8d42-84f928b3e164,Female,Self-employed,40150,12.99,24,Medical Bills,Rejected,4434,417
+04545a07-fed1-4069-a053-046c4df8729f,4e422ce7-9a47-4b5e-b809-b0f1b6be9f5b,Female,Unemployed,46255,3.87,24,Education,Paid,3245,737
+1e509cf9-4032-4ec3-bd51-f75d9dbdf5b8,5ea93a02-d18d-437d-956c-c18a05c81fab,Female,Self-employed,47088,8.24,48,Business,Paid,1346,839
+8f2f09c3-4341-4497-b193-4a523d99d76e,0c073ff2-4bf5-4c75-a154-ece51c0b0f52,Female,Unemployed,11945,12.5,24,Business,Paid,2676,842
+8feb5f46-04b5-4bbc-b6c2-33365b274931,22523eef-c6df-4792-af15-9ec2a450bf91,Female,Retired,27881,6.43,12,Car Purchase,Defaulted,4140,551
+a899b772-e8c4-419d-a023-aa1bbed33f2c,9220b13b-5357-4143-a6a5-e24fa46716cf,Female,Retired,6325,3.91,48,Car Purchase,Defaulted,3018,310
+f94eae84-1ae0-4810-a367-1e2fa16bf677,d548d2cd-a08c-4c98-bae9-856f0232f51d,Male,Employed,48106,5.97,24,Education,Paid,311,839
+f53e0fd7-0650-448a-a38c-f21b719ed247,7bf7706f-47a2-4e8b-b615-4e114dd5c6cb,Male,Self-employed,46685,3.65,12,Car Purchase,Paid,533,318
+e89b423b-8766-4f6a-becd-0eaf030a7500,4ccabf54-e302-47e9-b37c-4d1239d4705d,Male,Unemployed,12911,14.08,60,Home Renovation,Approved,2190,513
+2175a078-d91f-4a8e-8b69-95e37f7be2e4,3a76646d-3eb3-4eb5-aca0-e99201af7ee7,Female,Employed,13411,10.57,48,Education,Approved,2982,744
+02c2e4d5-a08c-42c1-8495-12daa5686eb8,b29ab95b-1d82-4fcb-97e4-65b33b8fd4ff,Female,Unemployed,993,7.8,12,Car Purchase,Defaulted,153,476
+430693fe-3652-4b6f-b5ae-4f9b342ed8cb,78eba9e3-0d2d-4787-a2db-92eee7e3a510,Female,Employed,38781,11.69,24,Medical Bills,Rejected,2187,526
+90734f0a-93d1-4479-a91c-c572c98e8945,195b9935-f788-4873-b4aa-d2e2f125934c,Female,Retired,36086,5.05,12,Business,Approved,4589,720
+4a5d0fb0-1a24-4eb5-89d8-97b8a0587e1e,a0ebc057-c966-411e-a91f-0fd3342258e3,Male,Self-employed,32236,4.34,24,Medical Bills,Defaulted,1344,487
+12b0d27c-bf1d-4b0c-a9e1-5ad59ca6a896,a03bdac0-fa13-49b9-a7a6-18c7ac32d6d7,Male,Employed,47285,13,60,Home Renovation,Rejected,122,549
+82dff075-84c1-4d66-bd9d-0e2a2f28918f,ffed6f8b-ff1f-4125-bd71-bfec6f3b997b,Male,Unemployed,12267,13.47,48,Home Renovation,Paid,3064,486
+1f40165a-7645-465f-b04e-537fa9523c01,b8ba65ce-4adf-4d6e-8f6e-c8caac32d310,Female,Self-employed,2678,10.27,60,Home Renovation,Defaulted,3694,378
+e59b5ea6-1802-4d3c-ba1f-78cd2499a86f,80e24103-b4de-4a91-9f99-f65afd9de232,Male,Employed,14290,5.86,48,Car Purchase,Paid,1715,475
+47f3681f-0e51-4b71-b495-ada4c09b1f98,28017ecc-ad76-4928-97fa-ddc4fb3bae87,Female,Employed,29347,9.26,48,Car Purchase,Approved,626,361
+fe055d8f-aa6c-4c55-b3aa-a66cfc1f7097,e26f1373-6f8b-44da-b4c3-27e7cc03b92f,Male,Retired,22057,12.75,24,Business,Rejected,1623,842
+9bfc8293-e9ea-4a70-8d87-ab734dcb3d43,795f5422-0e3c-4711-bb4e-0cfe8384221b,Male,Retired,30901,5.31,60,Car Purchase,Defaulted,1683,331
+95c0e517-24c3-4de3-b7a9-c09cb21f76ab,4398141f-fedd-47f4-9383-cf656f4f667b,Male,Employed,37733,8.23,60,Car Purchase,Rejected,2614,571
+50501fca-d06d-4816-8644-1c51be159475,cf608899-4208-4c54-beb0-f3f153d16cd7,Female,Retired,8844,13.84,24,Car Purchase,Approved,2039,303
+0d1f989a-e29d-4f38-af10-ffdb274b4299,4f5452f2-b755-4605-955e-3c0867441bed,Female,Self-employed,11109,7.43,48,Medical Bills,Paid,2023,560
+ed588dfd-452d-4478-b38c-04c24a291692,92bc0fa9-78d4-472c-9890-5021080a30f1,Male,Employed,49220,9.05,60,Car Purchase,Paid,384,546
+a2c86b66-2ff1-4f1a-9a40-38f5dc73552b,e0d1791a-bf6c-4719-9865-4a9ec71c4f3e,Male,Self-employed,22378,14.71,24,Education,Rejected,1278,682
+1fc7e5d1-6e4e-48f0-8811-916ceda5c4fc,d111de67-da11-4573-abf0-a2bb88fc4ea7,Female,Unemployed,16155,12.08,36,Medical Bills,Defaulted,4786,671
+504a9cb4-21e9-455a-bf2d-1016dcdd82a3,d8907aea-334f-4f8f-bf80-fdbdd9e913c8,Male,Self-employed,10495,4.43,60,Medical Bills,Approved,996,546
+a3f565d9-c597-403c-898b-b9d8be33dc7d,7503deb8-3b0f-4589-a979-c8ca601c7d1f,Female,Retired,48348,5.25,36,Education,Approved,3429,440
+7ce89898-61a7-4993-a198-a0e8c1ba23b9,b1d3fe01-9521-42ad-a01f-c480f2db64d4,Male,Unemployed,28649,13.97,48,Business,Approved,4584,789
+fe0a1f0d-d703-4138-b564-01f4702ed388,7409e020-476b-4b09-9405-0712ef0a239f,Male,Self-employed,43083,10.65,24,Car Purchase,Defaulted,1984,756
+43da3cda-fdf0-4ac5-b4cd-e2a578867722,3099641b-caf8-4563-8abc-faca39c8bfd6,Male,Unemployed,11807,5.4,60,Medical Bills,Defaulted,1079,404
+6578fefc-f01e-438e-9b60-d3d3a32aad4a,d443ce9a-f4f7-42cb-b848-56a6e1ce7bf1,Female,Unemployed,35308,5.13,48,Education,Paid,2448,691
+081c9745-e722-49e8-a87e-5379314ceef5,f9885c2d-d54b-4f17-a4d7-52414229d3ff,Male,Retired,35507,12.24,24,Medical Bills,Rejected,3106,358
+df867ca6-83c3-491c-a5f5-0c74fdaa5912,68557dc8-3472-4ae8-b65b-44ae8667c186,Male,Unemployed,29088,10.94,12,Medical Bills,Defaulted,1724,726
+4818584e-9954-4db5-8017-653e03d7a5fa,919eff42-3a46-4102-8f92-91b8d150e652,Female,Retired,3572,8.46,12,Business,Defaulted,1118,791
+86707451-5d66-41d9-bc2a-68e102c12d46,6bb4ec3e-1552-466c-9813-5d1e1db7dc79,Female,Retired,38743,12.19,48,Car Purchase,Approved,678,525
+2f3b9022-2d25-4cd6-ab92-8911e60ada84,383a3874-6dea-4867-8dda-6c1dce2ef424,Male,Self-employed,39819,9.94,60,Car Purchase,Rejected,4531,319
+b34ea156-be22-43df-9fdb-c29d85cbbb25,b8561f3f-c962-43e8-aa05-990129ae0284,Female,Employed,26162,4.22,24,Medical Bills,Rejected,1270,456
+629f0021-b3a5-4994-a473-c065993b0fd8,4dec7e22-ed7f-4687-9203-23d01e095690,Male,Employed,34658,11.22,24,Business,Paid,271,525
+0dbcd139-3f80-4219-ae3a-47e15360d2e6,5380e73c-531a-4a03-a6e1-a99797db2d8b,Female,Unemployed,29442,11.35,48,Medical Bills,Approved,3648,322
+187e5232-3d09-4054-882c-5db0cbf60e13,59a7b23f-2611-4163-8b66-1c42d8baa239,Female,Retired,49757,14.87,36,Business,Approved,730,700
+7e6251f8-6c8b-4cc1-82f1-751306414677,8ea148fe-123c-4ac5-9a2e-f6bb02ccb11b,Female,Retired,8584,13.69,60,Car Purchase,Rejected,1848,453
+41602c35-eb1a-4984-9d88-4bf58625691e,c43f9366-b8a0-4031-9d19-82f91260e8eb,Male,Unemployed,36736,7.74,36,Business,Paid,3538,638
+0dd07776-c7f3-4b7e-85eb-902c2e0e5612,90525c0c-b396-4c26-9269-702a3ba7f6e7,Male,Retired,30041,12.26,60,Business,Approved,3525,444
+2beaf04e-a1c6-47c1-bfb8-ee6d4c581b66,ed5f1d8a-c7df-426e-889d-ccce0a181237,Male,Unemployed,28098,13.69,48,Education,Defaulted,1223,849
+e6b29eb6-c347-46e7-8eed-68f8b99ae85d,8e9b2b8e-a0f2-40ae-80c8-3e7ebe157ca8,Male,Retired,711,4.38,48,Car Purchase,Approved,3565,448
+9864cb85-1910-4b49-a8ca-efd2efa012d1,d14020b2-4f60-4f9b-8136-6cfef34ad963,Male,Retired,14680,7.29,12,Car Purchase,Paid,507,731
+1552ce76-89f7-4de1-adfb-1da507b21bb6,61659c2e-036c-4c9e-9384-6aa4aff09519,Female,Self-employed,36061,14.24,24,Education,Rejected,2916,605
+2455be74-26b8-4e24-b087-8be1b6ee22fb,2b515827-5968-4ce3-8898-96b50a804b22,Male,Employed,32552,14.95,48,Medical Bills,Defaulted,1623,749
+822705fb-3eaf-4093-8220-ac940def5f84,ca52f108-51c4-4520-8156-55049975c312,Female,Employed,934,10.44,48,Car Purchase,Rejected,2209,366
+5797a91d-9285-4199-a212-574e2b29d7de,a05674d0-04f4-4911-83c7-4340920ace06,Male,Self-employed,39122,11.48,24,Business,Rejected,734,647
+a8ed5fb1-8c48-4e40-af73-a858d33fc0e3,27e849b1-bbde-4055-866c-c4d9704c2d81,Female,Employed,8764,14.85,24,Education,Rejected,541,393
+07f2f2f2-d5fa-4c88-9ff6-20f9941abe7c,768f0ccc-d985-4df9-a870-ee75e7f034a8,Female,Retired,2034,11.81,48,Business,Defaulted,3260,682
+4b348499-2d54-4550-b233-17f4935feeb0,5d52332d-9371-44ac-b579-9cdc643f2f54,Female,Unemployed,42349,11.88,12,Business,Defaulted,4147,607
+f6018b27-1d07-4c80-afd7-9851bbfd497b,12e7bff3-a3fb-499b-9fe7-428a1c8e31f3,Male,Retired,22061,9.42,60,Education,Paid,2726,517
+fd9ad530-8859-499b-8f87-9add866df4f0,741bc958-c9c6-44fc-9f3f-9a9aecde6f37,Male,Unemployed,1203,10.9,48,Business,Rejected,2024,671
+343993af-f0b9-4516-8b4f-b32b0a782456,1841194f-063f-49b8-bb50-b693070aabbc,Male,Retired,41645,3.81,12,Home Renovation,Defaulted,2344,638
+c305e3d0-2291-4264-bc5d-ceb9442cb1f5,ac8017c7-0b56-4e34-a4f0-c0be0ca9d7a7,Male,Unemployed,45481,13.49,48,Medical Bills,Paid,2238,705
+b77c35d3-a7d0-46b7-a9e6-7116ed0ed68c,76a76dbd-eac8-4883-83a4-543d6b479859,Male,Unemployed,46445,6.43,60,Business,Paid,3432,440
+d47e52c9-c7c7-4a56-b8a8-a2e668096f54,e8d00918-72bc-431f-9e7c-827baa95825c,Female,Self-employed,43030,14.1,60,Car Purchase,Paid,2286,649
+0ef9cb45-54c1-4176-82dd-aaeabddf1921,40366765-4983-40e7-af53-82f7bbc5d52c,Male,Self-employed,39192,10.01,36,Business,Paid,4036,766
+acfbfe5d-6849-402a-a3b9-4ebc06be4ab4,424877ff-28ac-45ea-8c04-618b97f2cb34,Male,Unemployed,11333,7.23,36,Business,Defaulted,4007,366
+60003bc2-8918-4000-b86a-e61086306354,89122ba4-b7d8-4071-9f4e-6909ee21a07b,Female,Employed,24609,12.81,36,Home Renovation,Paid,3269,719
+ebed4317-f29a-4c96-96e9-9ac49caef394,7c836e8c-7b4d-4423-a9e8-0cd2a1aac68b,Male,Employed,23762,13.65,12,Home Renovation,Paid,2907,528
+3647f4ab-03dc-4a2a-9470-d6e3cbf7b941,614dd4f0-7984-4883-964f-1f38f3d32d0c,Female,Employed,1561,3.61,12,Business,Approved,3964,740
+cce172b8-eaeb-4ad3-88c5-7e72981cc679,defeb9e8-89b0-44c2-9729-443913dca7c8,Female,Retired,12057,13.48,60,Car Purchase,Approved,4202,750
+f12769fc-56b5-4bb4-8220-abf40e2aa064,a5ed338f-e9dc-4cb6-929c-67004619cb64,Male,Employed,13254,11.16,60,Home Renovation,Defaulted,281,427
+33f96ab2-bea3-49cb-98e2-880b2defda18,96df652e-0e60-4a26-b072-9784347ef79a,Female,Unemployed,5610,14.33,12,Business,Paid,4385,336
+3df955dd-779f-47ea-9ef5-b9fa229ed3cb,ee443cd2-98f3-4349-ad47-98765ccc00f6,Male,Retired,11831,7.94,12,Car Purchase,Paid,3352,828
+8caa2859-8ce5-4aac-8f08-e60f2d77f74e,600bfac3-be9c-445c-9f6f-3818e2f63ad6,Male,Employed,8383,5.19,60,Car Purchase,Rejected,4596,784
+2e77f7e4-6771-4e71-a3e7-f3432afa075d,f1ff0d0e-5d19-4832-b8e0-d824851d2577,Female,Employed,30442,9.24,24,Education,Paid,4302,652
+d834dfd5-363d-455c-8629-fc37a322b480,c9ee6047-2970-46e8-b933-36e1918a3ec2,Male,Employed,24362,8.09,12,Car Purchase,Approved,2095,396
+e05cb294-9d89-4e9d-9f2d-97b18b00dc1f,7cd98cbe-d24f-4c34-95e8-f6cde26f87b8,Male,Self-employed,25902,14.99,12,Car Purchase,Defaulted,219,539
+03ddbab1-8000-4151-9a75-f3016d8837a3,c9be11d6-17b6-4994-9f00-13ad494b4649,Female,Self-employed,38731,11.07,24,Home Renovation,Paid,1008,363
+21815931-1acf-4866-a883-ba3e70f26f06,c6899276-c423-4c0d-8a0f-3020ce1186f7,Female,Unemployed,5410,12.15,12,Business,Rejected,1748,331
+756b113a-5bf4-4a86-8cd8-591e64881c7e,204b8091-b2c0-494c-a1d1-797f8aaef75c,Female,Retired,39765,10.11,12,Medical Bills,Defaulted,2295,467
+f7ace5d8-6ec8-4781-815a-fba2207c23c8,0b8d404d-848a-48e6-8a60-40fe92bc7ae2,Female,Self-employed,18772,5.87,12,Education,Approved,3870,525
+139328f6-9620-42a8-a309-45d1802acab2,712e44fd-4492-4524-ba9a-0b80f3964624,Male,Retired,39607,6.92,36,Medical Bills,Approved,1816,763
+1f746bfa-ec26-419c-9e93-2c5b49f1cd11,178113cf-bdf6-44b7-b26d-fe8499cf5f49,Male,Self-employed,27097,8.75,36,Medical Bills,Approved,4278,333
+5bfdf9ff-29d2-470e-94a1-46ea6dda71ca,842d29d4-bb83-45be-9afb-f5e38a4e0276,Male,Employed,33346,6.79,36,Business,Paid,3226,656
+e906e45a-d562-455e-9c1f-124682784b47,25c5d7d9-ed80-4f9e-999d-059c1a584fca,Male,Employed,24449,4.42,36,Business,Defaulted,1846,405
+3de15a54-d74a-42aa-b56e-ca82ec752cfe,3eea95ad-89c9-43db-8fb2-37bb565f68e5,Male,Retired,14344,10.22,60,Home Renovation,Approved,2780,374
+f7a6654f-9cae-4db1-a0a7-c9c6bf03b6c2,700739ce-cd5d-43e9-9f51-cb5e56ce0a64,Female,Employed,18459,5.99,48,Home Renovation,Defaulted,124,716
+2be0e11b-9f1a-446e-8e16-c8fd45a9e2e2,3a3ce0d6-54fc-4c2f-8853-3f0477f4146b,Male,Self-employed,45873,11.06,12,Home Renovation,Paid,4238,354
+5edfb620-6ea7-47f2-992c-ba802dffef56,58f0236a-69b3-424d-ae8a-75ebaff79386,Female,Self-employed,36210,6.01,12,Car Purchase,Rejected,2321,782
+d5dca29d-7683-4bb1-8742-ea7ee6a49129,dbe25068-708b-4080-b38a-41f6cf454e90,Male,Self-employed,17547,10.21,48,Medical Bills,Approved,4070,300
+64726a95-989e-42db-80ec-57b77a7078c2,c19be99f-407e-4422-bf92-a922626dc360,Male,Self-employed,4847,13.56,60,Education,Defaulted,3197,347
+5ce65f28-716f-473d-b8ec-09fb7f8baf09,27956eb5-f4be-4d47-ab5b-f0ade39549c5,Female,Employed,18197,3.66,36,Education,Defaulted,2726,815
+bc2b3a61-9331-4ef6-86d6-64f1d7984033,0f7e3958-ef97-49fb-aac1-b8d9411e7336,Male,Unemployed,20970,11.26,48,Medical Bills,Defaulted,2982,419
+1617f85c-27d8-4e95-a7c5-3f3923fa8307,f8592e93-2133-4f17-b791-615499665fef,Male,Employed,38678,14.1,48,Home Renovation,Approved,3571,714
+b5d91d9b-2baa-4f9d-8c1e-38912db94283,ab226e6d-8e41-486d-8262-fabdc5cfc3fa,Female,Employed,40923,13.33,48,Home Renovation,Approved,4478,681
+10f62fe6-36d9-4e77-b236-73af86101301,ff0dad40-04ae-4569-96b1-460b07f3f795,Female,Self-employed,38979,12.12,24,Medical Bills,Defaulted,4497,702
+6aef5d1d-642c-4046-b05a-6d4da3a03aef,3fef2069-7a32-46c7-b899-4b0a8cdc3490,Female,Unemployed,26715,9.21,48,Business,Defaulted,1678,764
+282d4632-8d9d-4781-8572-869061fb5463,dc3fe19d-3d1e-4337-a02a-d3cf1d439f92,Male,Retired,36065,11.84,60,Education,Approved,3642,568
+0ecb3bb6-300c-44fd-89b9-4117d6fedfe9,9ca30795-5c9a-4ece-a92b-2e00b47edef4,Male,Self-employed,47854,5.39,36,Medical Bills,Approved,3464,546
+e35dc499-f7e6-433c-bbef-1d08ffdea450,6ad723f8-de4f-4ff0-af95-c9fc39e9f8d4,Female,Employed,13278,12.83,48,Business,Defaulted,2191,332
+46642622-b58c-4d7d-990f-fd1a5c7cd044,db204f1c-97e3-47e6-9c43-53c84f732d30,Female,Employed,34252,8.63,12,Home Renovation,Defaulted,3937,455
+0e561732-c904-4b7d-9f41-8f6917f5831a,92fd578b-4015-4645-a331-ebdf6036fd96,Female,Self-employed,5854,11.84,36,Business,Defaulted,2484,375
+5c601966-e082-4312-9ca6-ff32275b4067,2c09aeca-1497-4760-acca-6d379b2284b9,Female,Self-employed,24032,7.63,12,Education,Approved,3901,474
+b917f395-c93f-4618-8eb3-16d72b6f576e,52720e10-f229-4dfb-9a76-0da5e3568606,Male,Retired,2481,9.27,36,Home Renovation,Paid,270,735
+12302304-4e79-4c45-be63-5d23c541b37b,827719b2-e0b7-4bfd-9aaa-3bf454ca196e,Male,Employed,49523,5.95,36,Medical Bills,Paid,2536,318
+b9690722-3fa2-4abc-b322-e77f043cfee8,6bbfd22f-da57-4d99-abf3-862818ab14bd,Female,Unemployed,10913,7.76,60,Home Renovation,Paid,2784,463
+e8d5bf7a-a0ff-4f6c-9427-9a8353a4fbbf,2e4bd122-0c27-4e06-b994-d11892ca1b2f,Female,Self-employed,7406,11.84,12,Education,Paid,2584,416
+0347c288-7845-419c-80f4-1c49ab2fb9dc,cbd558c8-0289-4113-8eb1-d3ec1cc4d5b3,Male,Employed,19209,5.14,48,Education,Approved,3204,796
+e6fcec31-f32a-4cd3-913e-c72391ff7293,eb39c13b-978f-4a37-a965-478d93204e1b,Female,Retired,15229,12.81,12,Education,Paid,735,561
+08389e3a-fc64-4225-b46a-3d7bfe7bdca5,eda61d83-3a01-4a27-9cf2-e87067b0b0b5,Female,Retired,47453,3.81,24,Business,Approved,3147,369
+7f4e740f-ab0a-4925-a632-24b89a055e60,7d9d9415-0d30-4b11-90bf-1408d0d80503,Male,Unemployed,684,3.86,48,Education,Paid,4965,849
+94c076e2-b765-4a71-a764-2126affcf6f6,4ec76715-641c-455f-8da1-77bbcd60081a,Male,Self-employed,9890,6.25,12,Car Purchase,Paid,1899,472
+748d4728-bd43-4899-98e0-7eb32445854e,43c2ae25-6b4d-4d96-ab8c-f902476241eb,Male,Employed,35854,10.25,12,Car Purchase,Defaulted,3793,480
+6f724d7e-ef39-4e37-8a8a-4c91374d146d,d7b8104f-5795-48c5-b351-549e0af21176,Female,Unemployed,48750,5.9,12,Medical Bills,Defaulted,1877,389
+1aadd61a-d78c-45d5-ace8-e2831f564eb1,7f872f0a-a6bc-44a7-9d2f-44fad4532441,Female,Unemployed,6139,14.42,36,Car Purchase,Paid,170,583
+c87f1458-a707-486d-8ea8-d3ab93bb02a0,4aeea86a-d360-4cdc-b786-78b351ad3f8f,Male,Employed,43766,5.5,12,Medical Bills,Rejected,416,539
+3db9568d-bab5-4099-92cb-ed1ba4030704,f177ba14-64bb-4c6b-8f52-24861b40d635,Female,Self-employed,35300,11.01,36,Home Renovation,Approved,4682,346
+6257cdd6-5a66-4d20-8098-a34715671025,46b95cec-a552-4117-ad21-3d8c850ac6a8,Male,Self-employed,16608,9.54,48,Home Renovation,Defaulted,2757,697
+3dbe4326-36e4-4fdf-9c54-0db85ac6771f,c5e8c723-7da3-4b5c-9bf6-46cf5854fba5,Male,Unemployed,38860,9.92,36,Medical Bills,Rejected,1609,778
+8c205b1d-beb7-41d6-9cb0-e0fad9970ad6,92ffa4d4-469a-4ceb-a37a-5760e8617151,Female,Self-employed,35916,11.26,24,Home Renovation,Approved,2552,604
+6ac8836e-c221-4a1b-bfce-252cef5bac18,534ccc74-c14c-429d-bcaf-eab4cf5b893a,Male,Employed,15776,6.32,12,Education,Approved,4525,581
+4817f5cb-d2d5-4299-aed6-665ea517b4db,03f98bf6-e445-4d6f-ad49-275ae3c4d7ee,Female,Employed,9195,5.8,48,Medical Bills,Approved,915,528
+798eed0c-72e7-4f6a-a86f-9a02426ed27f,c201ed73-5ae7-41ff-9b56-3358444b1109,Female,Unemployed,20428,7.79,60,Car Purchase,Defaulted,2877,627
+296e080a-5f89-4c77-9af4-ee71c4fccd44,bc09ada9-de66-4920-9c0a-5e2f8895111f,Female,Employed,36776,12.75,60,Business,Paid,2452,817
+516999ed-3531-4df0-93cb-6191819d9d02,c3f2989a-72df-472c-b242-e691239beea2,Male,Self-employed,29004,6.41,36,Home Renovation,Approved,532,596
+1d4c6380-0dc8-4328-a68e-8160761620cb,246989e0-ec92-4f11-9bae-baacd862178c,Female,Self-employed,38009,11.26,48,Home Renovation,Defaulted,958,441
+47d6ffbb-aad2-4935-bfd4-8d14bfa6dc2d,41c0790f-4256-4bf6-9be8-c6c15c726618,Female,Employed,25996,4.79,60,Medical Bills,Approved,3882,562
+2e4a85aa-001e-47b7-966b-67a0d0803842,e62fb7f9-5a0d-4390-98de-6572ab801735,Male,Retired,5451,10.3,60,Education,Rejected,2095,628
+21da24fc-a37d-4715-a0e4-0f9ce570d9b5,bef3ddb4-a6bc-4ce5-bdd1-4cc263f52c74,Male,Self-employed,42542,10.83,36,Home Renovation,Approved,2356,351
+c10ef096-7273-4859-9a00-0319f7c533cd,81c3924b-6799-42ba-aa3e-49986080aefb,Female,Employed,35304,14.91,36,Home Renovation,Approved,1829,428
+83792d2e-31e7-4cbd-9886-9e6d3075a9a7,042a10c4-6d23-45c6-9228-f6a4e8ae94b9,Male,Self-employed,47626,14.97,48,Car Purchase,Rejected,853,309
+03b4de3f-88d6-49c4-92f1-a82c3f6af798,ff6affca-6bb3-43f2-86f9-a101c59c42f4,Female,Self-employed,48778,13.17,24,Home Renovation,Approved,1878,628
+03c7d698-aa2f-427b-8b77-cd3069957e38,63ece7b1-d8a8-4e80-8138-4a8338a35442,Female,Self-employed,12317,10.05,48,Medical Bills,Rejected,3788,388
+17668677-2a61-49f2-81c5-b9880b8ab77e,00d7d6d6-25d5-40e8-8818-9dca07f33523,Female,Unemployed,32651,5.32,60,Medical Bills,Paid,4505,662
+df538b28-3d28-4ac4-a5c2-8e4eeb1e31d8,ed190d61-c7dc-4086-bf2b-e955433fe531,Female,Retired,18964,8.19,48,Home Renovation,Defaulted,1759,414
+657bf0ed-c2f4-4427-bc21-e10cf494f6ad,fe1b3fc6-7c7a-433b-8976-fca19010a831,Female,Retired,2264,8.81,60,Business,Defaulted,2862,697
+7293b069-2c9c-4389-863f-d0d7decb5f20,ba7ed639-dc65-4fb2-8e56-fa7ef70120d5,Female,Employed,39455,7.88,36,Home Renovation,Defaulted,1219,376
+731b00b4-3e94-41b2-ab98-29b415961466,21b48250-a9c0-49eb-acb9-595dbf428c5b,Female,Self-employed,31875,4.91,48,Home Renovation,Approved,3232,680
+e1f8dd69-de2f-4338-86dc-78c51fc94442,da04bf02-b5ae-4991-a8ea-8806f476a083,Male,Retired,32593,4.1,60,Medical Bills,Defaulted,1743,632
+e8b90c21-53ac-4718-874a-34ef7ed8b6c6,a6abe086-697c-4b77-b664-0c0158c9c7c5,Male,Retired,1480,10.12,36,Home Renovation,Rejected,4639,837
+157e6844-047a-48bc-b819-4076ec0ec6ee,4533ae54-924b-4393-9233-3e1dc080ba88,Female,Employed,22332,14.55,36,Education,Paid,931,795
+099e06ac-d810-4eba-bc5d-8c418fcb8f75,7d4f577b-5884-455c-b469-f33bc2ad4d6a,Female,Employed,41374,9.33,12,Home Renovation,Paid,683,742
+33abed20-0a9a-4fba-9d0b-3488599f4b0a,e6ca69aa-4a26-418c-bbb4-0e581024aca8,Female,Retired,23275,10.55,36,Home Renovation,Paid,639,563
+b25798f6-0312-425e-948e-11373eaff3b3,2706e200-085a-4ea7-bfcc-8cb67a5d2a1a,Male,Employed,41292,10.34,36,Medical Bills,Rejected,2951,450
+d2c25ec4-b009-42fb-9d8d-9fc4a9413b87,d1c2830a-c682-44b3-9602-2cb7fe152088,Male,Self-employed,46069,4.09,48,Car Purchase,Defaulted,4128,314
+febf90aa-4d3d-45b9-917a-a5033441887d,fff9a583-8f28-4216-9741-b258ff5cbfe2,Male,Employed,36000,9.29,60,Education,Paid,4463,647
+0c9b9674-766c-40c4-a5b3-81012adbdd04,c227b086-d94a-448a-b3f9-50205899891e,Female,Employed,27026,9.28,48,Home Renovation,Paid,3095,734
+ea0c3a6f-d7b0-4375-914e-c813eb41014a,a0329e7b-453f-4ef8-8bb1-43099f583439,Male,Self-employed,46041,14.1,48,Education,Approved,2117,676
+471d53f8-49d1-4585-b4ce-5b323cdaad7f,764c370e-0a9e-4e48-9148-50a8f5f947b2,Male,Employed,44681,5.48,12,Home Renovation,Defaulted,3194,720
+a3bbc972-773e-4207-b462-a96edfb77ce2,f3af320b-ad5b-4ddd-872d-bbf102e689d7,Male,Retired,49620,8.55,24,Medical Bills,Rejected,2998,487
+ffb672e2-0a77-4c04-8c09-b33aecdf0495,e08137bb-77fc-4df1-9413-f12dcf352387,Male,Employed,38910,13.2,48,Education,Rejected,4344,754
+ab57ef5b-2b82-4e6a-a6aa-3f6677c33bdb,700a7109-dffb-448f-990e-81a253a10b05,Male,Retired,17088,4.66,60,Home Renovation,Defaulted,294,707
+401f237a-920b-411c-ba68-37fc26a83c93,42377da4-9c0a-4e4d-943d-6240b811e020,Male,Retired,19260,5.82,48,Home Renovation,Paid,1817,403
+ad693344-8ce6-4bb3-9120-123385d695a3,e722a7ba-c7b1-4468-b4e8-7b73142bfd96,Female,Unemployed,9292,12.7,12,Home Renovation,Approved,1436,589
+8efcb263-1605-40fa-beb6-67ee765c4d6d,0303a2ad-18aa-41a0-8536-875f9de26ccb,Male,Unemployed,15344,13.71,24,Home Renovation,Defaulted,3812,432
+b3e9ae55-544d-40cf-94d5-f7f704d766c0,c2b2ad2d-b439-4eaa-8c5b-36dacc658f1c,Male,Self-employed,30209,11.14,48,Home Renovation,Paid,1943,522
+5a93857d-707c-4bcc-95c5-2a48cd7abd94,7cbc7c08-8c14-4e2c-a2ff-08b7b2039ab4,Male,Self-employed,44183,13.3,48,Business,Paid,4662,538
+9f471ed6-99c4-4a49-be9f-dd5971af6ac9,d0d1c2c4-12e9-40ee-822e-0bb0cba8c736,Male,Unemployed,3087,10.89,12,Medical Bills,Defaulted,4282,423
+a42092d4-2e73-497e-a324-0405218baec6,623def41-7841-4e7e-9401-902629785fe8,Male,Employed,27374,5.4,36,Car Purchase,Approved,2805,706
+be842f8a-3cb2-4922-9c03-521efae22edf,37d83dda-7fc4-40f8-a61f-5076497deddc,Female,Employed,17238,9.11,36,Medical Bills,Paid,4693,402
+88acb66b-800c-4a89-bdb0-6331cfc8ae3b,ee76ace0-33c1-4d07-a3b1-60309024172b,Female,Self-employed,1270,9.69,48,Business,Rejected,207,847
+35936483-2020-40c2-baaf-243c3f9f6902,f2f969cd-3688-4aea-a7d8-bffac51d0c50,Male,Unemployed,23526,4.36,24,Home Renovation,Rejected,1926,403
+ca2d483a-25b2-4442-a132-d51bf31094a1,26f2fa3a-a624-4768-a022-b73075685f59,Male,Unemployed,48552,13.55,60,Home Renovation,Rejected,4166,819
+7f6d366a-6c67-4be1-bb72-3d58419f2c1d,56ecc0c6-576e-41ea-978f-c4a463ba2448,Male,Retired,40053,7.02,60,Business,Paid,4965,654
+db430469-0523-44db-bfcb-c21a5dfc48b4,024a510a-be71-4076-866f-7cea814afa86,Male,Unemployed,30167,12.51,36,Education,Paid,2710,543
+f28c99a2-18d4-43a2-92c7-f887ce743683,a515509a-7b23-41d6-a4ec-07a4163fec55,Male,Unemployed,12913,13.42,36,Education,Defaulted,4013,738
+e5534f50-1d89-4d1d-9f4d-dea5c3f2d963,1f3eee11-435a-4fa3-bb5c-fe3441135652,Male,Retired,14816,7.37,24,Medical Bills,Defaulted,3664,343
+85e793a0-1eba-4d58-b2cc-4a48411f5365,183b241f-5fe4-46be-bc3b-3a2c7f8fb41d,Female,Employed,29294,12.83,48,Home Renovation,Approved,347,353
+206e44cb-95b5-408c-8711-72db0a3359d2,ac85613c-27b2-4102-a2e0-1e44099ecbbd,Female,Employed,17132,5.43,24,Education,Paid,3878,735
+03195cd1-5751-4fcd-983f-153da975632c,0b5c10bc-6d40-4833-b0df-d4bd5b81b102,Male,Self-employed,33136,5.48,48,Business,Rejected,533,734
+700bd9de-f615-4291-bbfd-f1564e04634b,2b57bbc8-bcff-4276-b9bc-3ffc375be768,Female,Unemployed,1815,5.74,48,Education,Approved,3778,597
+f2644493-f2c8-434f-a5ba-911ac46eb2ca,3e2513fb-b4c5-4519-8ce0-fb8682689ed6,Male,Unemployed,31486,6.11,60,Medical Bills,Rejected,2808,671
+a9a117f2-405c-4fa9-9bd5-d876cf3cf8c1,e33c3fc0-c1e2-411e-9106-fa066380015c,Female,Retired,31835,13.67,36,Home Renovation,Defaulted,3526,347
+f2107a9d-7a57-48c2-8d71-42a6055c9a38,124a792d-5471-4398-9cb2-b37b385b5758,Male,Self-employed,35610,11,48,Medical Bills,Rejected,2158,716
+f14b7cba-fb67-4ef7-9e05-e3bb88a8d9cf,5674dca2-410d-4311-8187-81dbc4e672c2,Female,Retired,9249,12.52,48,Home Renovation,Rejected,3527,301
+90a5361b-053f-4b1c-b042-9072d4d15b0c,34d87e72-7940-443c-bf26-ee21965f003c,Female,Unemployed,21334,13.3,60,Education,Approved,3702,819
+2eaa5d9f-3edc-44c2-806e-8e53e8f66b6d,68dd64e8-50e9-4b1b-9f26-2ccc0d93cfc0,Male,Unemployed,38999,6.77,60,Car Purchase,Paid,1232,309
+9c0abeda-c291-459e-a3f6-8a3017c4717b,c4bcaf2c-dbdc-4fc4-b45c-e367e513a537,Female,Self-employed,22306,5.27,36,Home Renovation,Paid,436,579
+314a40cf-4066-4cad-ade0-f07cd20c0f55,b11133f4-f701-4925-b4cc-426c5f8429b5,Male,Self-employed,16422,3.9,24,Home Renovation,Defaulted,4939,769
+690c0a65-58d4-4f74-8ace-466a31b51858,33b2fb99-31a3-4835-9298-230c9dc979be,Male,Self-employed,16177,10.08,24,Education,Approved,4030,584
+d112b94c-0675-4629-bec3-1891ecb3ec00,9d190af8-5f9c-4337-b376-9c68008c0307,Male,Unemployed,18350,5.77,24,Education,Approved,3335,327
+34b3f253-7232-4b4d-8df7-7090ec275772,25f31835-fc7c-4e0e-a379-b1e5659d4680,Female,Retired,17040,5.96,12,Medical Bills,Paid,2656,417
+80b663f9-2d9d-4398-8aeb-6c130ab23431,4730a905-8c8b-42e0-b745-980b63bbdecb,Male,Employed,17399,12.94,48,Education,Defaulted,4371,443
+1e6fece5-29b9-40bf-affe-03df21ef6b3b,e95f7130-8cb4-45e2-86e5-58e3562cf96a,Female,Retired,30764,14.05,60,Medical Bills,Rejected,4453,452
+aab8feea-8aa1-4c4e-878a-2d2fb99a84ef,fefef089-a6a7-4e61-8fa4-637d102031cf,Male,Self-employed,42298,12.82,48,Medical Bills,Approved,1994,831
+68852542-73b3-4aa7-953d-eee0748a0e10,59fe71d5-4935-465d-bc94-c785c1f702a3,Male,Retired,14635,10.54,48,Education,Rejected,754,797
+51fa463a-17e6-484e-9a7f-dbceb6003e0d,3da1c783-0e3c-4da0-893b-6246732636a6,Male,Unemployed,33254,13.17,12,Car Purchase,Paid,2338,374
+2b043a4a-9999-47fb-bb5c-5527b2a481ff,7ed2914e-6038-4699-abc3-c76df2c14f08,Male,Employed,44076,6.83,36,Car Purchase,Paid,2562,463
+5bb9fefd-034f-4558-88b0-8d16661eeea5,1c67efb6-229b-4096-86ab-624e66a1296f,Female,Retired,2835,11.11,12,Medical Bills,Rejected,4826,765
+2e6d205f-dc72-4d08-8a4b-48b1f96c7f38,36d71604-4b51-4861-a59f-d6c8780baa3c,Female,Unemployed,23145,8.36,48,Car Purchase,Defaulted,4246,426
+d6659925-ddf5-4fcb-bd1e-f6e27dd295fd,f1264a5c-ea43-4a0b-bf1d-600b5feccb1c,Male,Employed,6877,7.75,36,Business,Approved,4127,556
+2b1e4fd8-c5ab-413d-baa4-2ef454a989cb,c68a70b6-6899-4907-9930-356d0688a683,Male,Retired,34427,6.99,60,Home Renovation,Rejected,208,754
+4b48b0f3-deae-46ce-bbcd-175955edf4a0,8f567ba6-f068-4e16-8fc0-e5ae34e8154a,Female,Unemployed,4115,13.52,60,Home Renovation,Defaulted,4979,421
+5691fc48-b5ac-4e10-bfcc-5486a38ce89b,372aa75b-917d-4876-b65f-b502b8d8bc29,Male,Unemployed,14482,4.97,48,Home Renovation,Paid,4258,780
+2cd446d1-2a2c-422c-98e1-06753b1ba4cd,0fba470f-c558-4436-b7f2-b1281cb74c3b,Female,Self-employed,41664,13.05,24,Car Purchase,Defaulted,4070,748
+98c5bb2f-c5f5-42c2-8de7-7d90c7b735b7,a80dd8aa-637e-496e-b566-3e076af21b6c,Male,Self-employed,16135,8.56,12,Car Purchase,Defaulted,2048,738
+64808def-1d66-432c-b770-a961b5321478,c124be43-85be-42d3-b1f1-de879fa9a525,Male,Unemployed,15650,9.17,60,Business,Defaulted,3441,798
+0fd84a2a-339a-4fb1-a70f-e2d07062f9c6,41f50df8-529e-4045-8ab7-7f524bfab6da,Male,Employed,4838,8.42,24,Education,Defaulted,2170,815
+15ad449e-aab8-4462-b191-dbc780d7e010,d00f75f2-4ffe-43b0-98ea-19c9ab7f7a79,Female,Unemployed,34869,4.11,24,Car Purchase,Defaulted,832,842
+a0746cca-1102-4273-a91b-b850592d69ed,7edef989-41ba-4de0-aa30-7f87a5142735,Male,Employed,48174,12.43,36,Business,Paid,1152,306
+3ccd60f0-8e94-4ae9-9ac5-f6f9026b2468,3e0f818b-1960-4cb2-b041-fcc40a4872de,Female,Self-employed,49373,13.6,48,Education,Approved,2381,560
+2f5a45a4-6a17-48e2-bb8e-72465de05110,1aa6f815-f954-41d9-92c2-d1fbdfff0bd3,Male,Unemployed,42629,14.4,36,Medical Bills,Paid,4158,377
+8bdc3b30-1db9-41ca-bd53-21c7f5974343,22b1d139-0351-4d8f-b9f6-975eda115ab7,Male,Retired,24626,12.32,48,Business,Defaulted,3264,646
+925d3f65-7739-4711-b402-3fb6fe9d2ff5,9492dd24-8dc5-4dbe-9764-dd99716effda,Female,Employed,23305,10.71,48,Medical Bills,Paid,2305,585
+12c1f92b-52c0-4153-a00e-9ea67b537b45,500e135f-5492-4f27-87aa-82a702f6f228,Female,Retired,44098,11.58,60,Education,Defaulted,3506,528
+49b4f804-e95e-4f94-93cd-59430b586907,3e242e87-db64-41f1-bc74-b9270010c22b,Female,Unemployed,43587,9,12,Business,Paid,808,355
+57496149-203c-4580-81b7-837213985d4d,b5699910-df14-4715-bd70-c1cd876d0684,Male,Self-employed,21493,12.41,48,Medical Bills,Defaulted,710,515
+94b17eb4-dc0b-4d98-aa1e-600960e009eb,29afeafa-b219-497d-a5b0-95ca7e83c27b,Male,Retired,36444,4.94,60,Medical Bills,Paid,2683,394
+803a84eb-a7a7-412d-b6d9-308963e7973c,1ec36835-5069-453c-b80f-cf7082a66f1f,Female,Unemployed,21611,3.7,60,Education,Defaulted,3588,615
+e19d2915-d08d-4274-af49-06bae98f95d7,bdcd22b3-f12d-4275-8d83-88e71559566d,Male,Retired,37648,12.24,48,Education,Paid,926,553
+30ae5a4a-acb8-4913-a9ed-0b12f7511259,a77c057d-d432-49fd-93b3-18c6b2d39372,Female,Retired,21950,9.48,12,Business,Paid,1933,383
+9d6c1efd-ea52-4a0a-8054-edab76a110ce,8274ac33-fd43-42d6-9674-86c271e132be,Female,Self-employed,43360,5.72,12,Home Renovation,Defaulted,3537,705
+4657e92a-7af6-43ed-97ce-e532b97e8453,4f6023db-28f2-49e2-9e73-0582bbcadcb0,Male,Retired,19285,7.54,60,Home Renovation,Approved,4591,650
+3dbd7707-739d-4bc8-8181-c1657e107c5b,09eb7524-1900-4903-beb2-33fcb89e62bf,Male,Unemployed,3375,11.65,36,Car Purchase,Rejected,1499,741
+289ff260-8eab-466f-8428-30cd233774c1,60a28f4f-2891-48fa-a8ae-5309ce86f2c5,Female,Retired,24879,12.16,60,Business,Paid,2853,402
+3e52668e-3375-43c6-8331-ec289ebb0a8f,4b01aca0-fee9-476f-8892-c3fde1d32b34,Female,Unemployed,49378,4.63,36,Home Renovation,Rejected,2986,339
+436519fd-2643-4021-92c3-5cbe66fb8c1a,aaeb12c5-786e-4740-a9eb-444557f73b90,Male,Retired,23547,10.96,12,Business,Approved,4638,803
+d7ca14e3-9ff5-40dc-a619-c48f129b089c,13084203-7314-4fde-a673-1e55b34d023c,Female,Retired,5602,5.08,24,Car Purchase,Defaulted,2674,300
+4b80f53d-af39-477b-8811-69a9321ab558,17ca0e96-62c5-4ac8-ba70-55ea753690a9,Male,Employed,43778,4.88,36,Car Purchase,Rejected,1238,604
+eb529ddc-ef09-4f72-8804-7345eac1241e,91cc54a4-d423-4c03-ad53-0ab4ff2d358f,Male,Retired,28947,3.53,48,Car Purchase,Defaulted,1812,431
+f96a56d8-4608-45ba-a5fc-b49994da1a3b,0e963490-c126-4b2d-ae93-e74a1d320bfc,Female,Self-employed,21096,6.97,36,Education,Rejected,1096,751
+ec14b532-0385-4a63-94aa-07a26802db54,fe82a5dd-db1f-4fc2-aa37-e3eed3137f53,Female,Retired,39642,10.68,36,Home Renovation,Rejected,4674,516
+e7027d0d-dfdc-455c-a9c8-982e3645adde,79a6ee89-cd4e-4cc3-9d26-eceebe3f5699,Male,Retired,11669,12.87,24,Business,Rejected,3675,812
+af2c42cb-5e56-45b6-840c-a7d128fa9b04,cb5bb45f-4599-494f-97f3-aee42d5fce7a,Male,Unemployed,5194,9.96,24,Home Renovation,Defaulted,4396,368
+83cf4f12-80ac-4cab-85b0-5efb4304d6e9,bce081f3-7bf5-4ebc-b457-6c0cac74e906,Female,Retired,32456,13.63,48,Home Renovation,Paid,4740,845
+ae384b2e-528c-4696-b342-306033e4a822,c62ff4cb-23a3-4286-8b45-36d4aaee001a,Female,Retired,37783,12.64,36,Car Purchase,Defaulted,4561,844
+909fbd2d-8ea1-47bb-b8d5-8026115072eb,756789b8-27a4-4812-96bb-599cca51ebca,Male,Retired,33535,3.84,48,Business,Defaulted,148,370
+a3b54a7c-96c8-44c4-87fb-a65546a18ca9,471e3daf-0511-4ae3-b8f8-c6c1ff7cb11d,Female,Self-employed,40122,9.55,36,Home Renovation,Approved,3755,402
+ebb986b9-34ce-4c4a-8f2f-5d494710b8d3,aa79e107-0474-489a-9d94-5ae799fbd92b,Female,Retired,41261,9.74,24,Business,Approved,4461,590
+328c4934-5f6d-4a94-abee-e79d26322e77,5b288973-6d95-4352-a346-a74e4e8164b5,Female,Employed,32808,8.63,48,Medical Bills,Approved,2290,550
+403b5573-a0a3-4723-bd13-eaceb0b58c55,59271591-1145-4342-a57f-ba9c919b05db,Male,Employed,3044,8.07,12,Education,Approved,711,813
+ba0fe79f-e642-498a-b26f-b04ca2a56b3e,d624c2f5-d0bd-492d-9867-524d637e110d,Female,Employed,43755,11.91,12,Education,Paid,306,788
+c0543c9d-fdf1-4a92-803c-a5f450fdc89e,4fbfda89-2e66-4b3d-87ea-b215c779d8f2,Male,Employed,46031,12.24,12,Medical Bills,Paid,773,665
+c9c673ab-f624-470b-9aa1-7b45b0884e8e,d2e85439-25f8-48de-abd4-5aad38598840,Female,Unemployed,42919,14.89,36,Business,Paid,1024,321
+04348ebc-2ae9-4618-b489-686a711794ea,0ec56276-6ec1-4231-973c-1e94dad7e8e7,Male,Self-employed,43567,4.82,36,Medical Bills,Defaulted,3753,441
+58aedd5f-ba8e-42e3-9ee8-4d76726dcbbc,0c48f1d2-6edd-4757-b7e5-050044d702e6,Male,Unemployed,28225,12.87,36,Car Purchase,Defaulted,3986,377
+0736c953-cba0-4a97-b1e8-087025198286,63066684-abf2-4137-a841-962a58b8a802,Male,Self-employed,6267,13.22,48,Business,Paid,567,527
+756b0def-3946-4c48-9de1-2cd907db0f8a,1abf4b30-1bef-43d6-b6d2-b16e666f0102,Female,Employed,40373,13.91,24,Home Renovation,Approved,1170,693
+96035b1c-34b3-4acc-a651-426f2f549b3c,ecad2edf-7d28-4fd5-ab8a-90add0128c03,Male,Self-employed,34358,14.58,12,Education,Rejected,511,531
+3e70f9b1-24d9-4dee-8848-5a064294514d,4b5a5162-8c5c-4cc8-8a26-81b3d20e7e72,Female,Unemployed,46588,11.07,60,Medical Bills,Rejected,3042,812
+c5829aad-d5cb-4d8d-b1e6-33a1110ab476,605cbda1-ebef-4a07-8571-d6759be600ed,Female,Retired,28334,12.98,48,Home Renovation,Approved,448,359
+543e4103-9ef8-4f25-967d-2a3dc37b5202,6b1a297b-bee6-402f-9dae-461ccb3897e1,Male,Retired,33667,4.7,24,Education,Paid,4881,658
+8682d08f-d571-4257-ad7d-7215094a6dbf,e1666b7b-5a1e-420c-996e-79a2b70e23b5,Male,Unemployed,10887,13.28,48,Business,Approved,1290,352
+b0628154-cc4b-43fc-ab39-02526b3ab077,7af53cf2-7738-48b2-84ac-91769020ea63,Male,Self-employed,49027,14.61,24,Home Renovation,Paid,2020,719
+90af1704-4da6-4242-aa42-9aba4d4b6bb0,c6a0f6d4-e93d-4204-98fe-283de6a2e45e,Female,Retired,17015,5.13,12,Medical Bills,Paid,178,475
+9a8382e5-d603-459a-a6e4-60197a668252,f41c3e8e-e9d4-4b65-815e-c61592c41ba9,Female,Retired,43364,10.38,60,Education,Approved,2484,639
+db1b9f75-a50e-48a3-9afe-9f14802136c7,f715bd90-cacd-4520-a213-b9c6da546b46,Male,Retired,44941,9.9,60,Education,Paid,312,370
+0fce6365-8501-41ef-b9fc-b803fdaba905,a4d0fedc-70ac-4ad6-bfc1-52313b367605,Male,Employed,7522,6.2,24,Education,Paid,3425,689
+ef2f0950-bad3-4cc4-afa9-e522a9bfa41b,6c1ed756-5074-4151-8342-7f458e4ee27c,Female,Unemployed,12117,7.43,36,Home Renovation,Approved,596,584
+b91da135-fcfe-448f-9e6d-16416d7e4bc2,7d61a581-47df-4830-96dd-53217e02999e,Female,Unemployed,24951,13.68,12,Home Renovation,Rejected,1378,667
+75badcff-1624-45b9-a8f9-f42ddf870903,f97da677-8a5a-4155-ab63-34095da0e3d7,Male,Retired,39187,10.31,36,Home Renovation,Approved,814,436
+580c7a1e-ad3d-49aa-b580-6c1b6ef22c66,748f29f5-defe-4da0-a84f-6a723037107d,Male,Retired,44100,12.88,60,Car Purchase,Rejected,4197,797
+271c679b-6a56-4468-826c-cc6c668d5426,0a027b87-3305-4f36-8346-c1780f30354f,Female,Employed,45038,9.46,48,Business,Defaulted,1665,508
+6ab4b12a-f7fe-46ad-b5b4-2cc5b1942bcd,c996b125-aed2-46ff-b627-4b8a12c6cdbc,Female,Self-employed,32472,5.51,48,Car Purchase,Approved,4108,488
+94129ce9-3f60-498b-b04d-6bce5cd07415,9bdbe56d-f386-4f44-bb68-2850f1ddcea6,Female,Employed,1983,11.5,12,Education,Rejected,4460,423
+3bde610f-c1f4-4c70-b398-e300575ed48a,e00ddeaa-0199-4d36-a1d7-ec1331e3f8eb,Female,Retired,29705,6.7,12,Business,Rejected,4189,451
+564a63e6-cb04-4da7-9b2a-437e2733c5b1,3cab826c-0407-4e8e-916f-0e104691f800,Male,Employed,23674,8.71,12,Car Purchase,Rejected,4738,766
+8a6a4e4e-19be-4c65-b8a3-9e061cd0b1d3,8961f7db-e36f-4eff-aa86-05c9cf4d78a9,Male,Self-employed,2805,10.03,24,Business,Defaulted,3540,845
+51fafc94-ed94-4711-958a-eb8fe6b77de2,f64e96d3-74c0-4312-b8de-021d3bb26335,Female,Retired,43598,8.91,60,Business,Approved,4567,734
+008f60ce-b591-4cc3-8ac4-ce02c7aaafd6,3f8a183e-1366-4521-b150-68864f3ac20d,Male,Employed,19619,8.44,36,Medical Bills,Rejected,1900,816
+cf1ef07d-4745-470e-a983-f394cda8d82a,8e89fe67-cf51-4631-b1f3-84ba15c216e6,Female,Unemployed,20504,14.57,60,Car Purchase,Approved,1020,618
+6113c191-e37f-4986-811b-9483e697be5a,40891639-2b35-422d-be07-1fa4b88dabe3,Male,Unemployed,44029,13.69,24,Car Purchase,Paid,1256,639
+4f66d055-5f85-4c40-b7d3-a2a72e25a1be,44568a5e-1dbc-42c5-bbb5-c4e26ce99671,Female,Retired,48881,13.65,48,Home Renovation,Rejected,4794,512
+126b7f52-dedd-4101-ae7f-ccb2a06e621e,2cf65068-4cb1-430d-8708-338a46a00734,Female,Unemployed,12032,12.46,36,Car Purchase,Defaulted,1589,328
+9b5181e3-96bb-4a05-9bf1-a907c4e34e60,1d126f0a-a923-4b2a-9dd5-81dd6ae58eb7,Female,Unemployed,10849,12.25,36,Home Renovation,Rejected,3462,554
+8197fbc5-e8e4-4cf9-8e03-1dc5d55e05dc,ea98112e-3843-4011-b89a-13fdb29f9488,Female,Unemployed,14795,8.22,24,Business,Rejected,1228,659
+4e6d0ad1-aa05-47d7-8a1f-90e602736a12,85ecc10d-c3e3-43f3-8edf-4106bf3a598e,Male,Self-employed,11436,9.65,48,Business,Defaulted,2732,378
+f37caaa8-633f-4c90-94ae-05be91f2e6ab,2c6504ec-47b5-4658-9a66-e25be1c33b3a,Female,Retired,24936,8.4,24,Education,Rejected,1951,685
+e4a7feae-57e8-4859-8a76-d9d02aa55148,d0271164-da0b-464c-9791-a4df4143d96e,Female,Unemployed,41638,6.58,24,Medical Bills,Rejected,1664,336
+529098e1-fb81-4950-a148-e00c4aa91da4,2b0dde88-c3e6-417f-ae23-f78a0062bb23,Female,Unemployed,26655,13.17,24,Education,Paid,3728,809
+0e387c5b-968e-4f4e-8cb7-e800d9ad7600,7cf46d77-3178-48c1-8ef3-99f83d7fcdf3,Male,Retired,46924,4.07,24,Business,Defaulted,2051,303
+e02bfe7c-e82d-44df-8e3b-4731be10ddce,835f1b79-0cee-4a36-b748-56213a99ff30,Female,Self-employed,43838,14.93,48,Business,Defaulted,4275,703
+8b586f76-ec2b-43fe-9ec2-821651cd1548,0fbd48b4-1bc2-4fef-a9b5-04bf8abb1ca7,Male,Retired,21591,14.99,36,Home Renovation,Paid,3889,845
+25abe149-fba5-429a-8f25-1ad4cbb79bdb,1d4dbc98-c495-4474-bcaf-fee05405ddc7,Male,Retired,6061,9.68,12,Business,Paid,3260,313
+94b4e345-9d1d-4f69-b0fa-6a54e57c454a,15a05fd4-c47c-4a60-aff3-338b63c581ae,Female,Unemployed,39511,8.91,36,Medical Bills,Defaulted,165,844
+3e6017ac-3649-4960-935a-da67277a21d5,38f4bfa7-0d17-4c51-8701-1ed7a5cfb979,Male,Self-employed,47638,5.29,48,Education,Defaulted,3989,397
+2be1055f-0133-4a1e-a5fb-f1e50751cf04,88bb3592-689c-4404-8bdd-5160ca32af7d,Female,Retired,48199,6.97,24,Home Renovation,Paid,2210,783
+096d9cb7-ddce-49c0-be86-707db72aa6d4,fdc31797-3618-4922-b0e0-08cf8aa2bc7e,Female,Retired,24153,11.94,48,Home Renovation,Rejected,3739,327
+2125cac4-917d-49a7-8339-19e6411863bd,46df0b75-5380-473c-bc69-8f968adc09ce,Female,Retired,1550,11.41,24,Business,Approved,1115,751
+5e86b76d-650e-4ad2-8017-b67ca080ecaa,6cb86484-5ed8-49f5-8e13-c2ee1b015dde,Female,Retired,13459,7.27,48,Business,Defaulted,3864,511
+52c3c3ec-5d0a-4eb7-a0bc-052b7d08ecaa,fb3a94e4-a9c4-48ee-ab37-13147af23b53,Male,Unemployed,48629,6.08,36,Medical Bills,Rejected,832,316
+8c2cc06a-15c5-4846-a461-c70971250c72,2f4ce11f-41d8-42b8-a047-f5e416346005,Female,Self-employed,27979,6.09,60,Business,Defaulted,1364,482
+7aa1d4ca-bca0-4665-9545-4f621fa12bf9,01479328-1098-4b65-80c3-63a28cb6995f,Male,Retired,32209,9.53,24,Car Purchase,Paid,1485,646
+3ea0536b-ec23-45e7-9856-bad8743f0c14,20ca4dfd-4c85-4dde-a6f1-636c2b517fe6,Male,Retired,31096,8.66,36,Medical Bills,Approved,4674,572
+d0d01e26-2a4a-47ff-866b-86843d6eaa3b,e41a59c2-6709-405a-9935-f80af08c129f,Male,Employed,30429,4.16,12,Business,Approved,4493,690
+71d8c5f5-52dd-403d-a6e4-e7fb4b833c6c,d63de857-5329-4c16-a3e6-6cce9128ebb7,Female,Unemployed,6746,10.8,48,Car Purchase,Paid,891,628
+870b2fd6-5df5-49cc-be37-44cb372a34b4,f1eaeb79-2720-47a0-8376-60f384feb6e2,Male,Self-employed,46294,11.43,48,Car Purchase,Defaulted,4509,392
+e8426171-afcc-448a-b554-c8d55f78d540,dcb9306b-4acc-41f7-a4c7-e7404351ad2d,Male,Retired,28682,9.54,48,Education,Paid,4420,451
+4d85830b-82c2-4155-ac88-a3cd91be8849,3f46163d-2e4d-43b1-927d-bd319a0fbcab,Female,Unemployed,23143,13.19,36,Home Renovation,Approved,255,690
+2583fd35-90d3-49eb-bfa5-e7c33a096852,bb91ff22-5de5-4432-928a-17f19e54bf3f,Male,Self-employed,26471,7.91,48,Business,Approved,520,440
+89a734b6-fc7d-489b-b2d8-0efe7ee782f5,3494e441-b28e-47ee-ae29-2c44d5b8fbfb,Male,Unemployed,16715,5.71,24,Car Purchase,Approved,3453,821
+bd876728-f305-46f7-a4ac-ab9f7dcb81f6,b63f515c-0fdc-4359-b72f-ac1c4a370ac1,Male,Employed,24969,4.36,60,Home Renovation,Approved,2126,704
+1c1141ee-6c5a-4da0-ab5d-7154df7d44b4,c82258d6-b966-4e54-b521-2b4507e31f5b,Female,Retired,22952,3.69,24,Business,Defaulted,4252,729
+a1a0140a-68e5-427a-b970-993a97467c0b,a7733221-5faa-4e33-8ca7-ecc3a1de129e,Female,Retired,47848,4.3,12,Medical Bills,Defaulted,4166,558
+c0842190-b921-4852-8ce4-2da01d288f16,8e260a1d-3558-40aa-9f73-17ae6abac759,Female,Self-employed,17731,14.81,48,Business,Defaulted,4316,509
+0d3f4f2f-929d-4019-bb29-0611e7f9cd8b,4a1138a1-f0c8-4965-906e-a84052a01ad0,Female,Retired,48226,8.34,12,Education,Paid,2171,611
+eead5fb8-aeb0-42f7-bfb1-2e0a28cacf2f,4ec7a911-52c1-4f85-a2a6-8876de11b4f2,Male,Unemployed,9985,11.56,36,Business,Paid,1560,560
+c5a37f0d-e6b9-4a0e-9d34-2c928682e139,080b12b6-779c-4940-ad72-a8a9f751257a,Male,Employed,26378,8.7,36,Business,Approved,186,825
+868a4b91-76cd-4870-a1ee-1fe18a1124bc,77c3eaf6-9879-4a58-b011-f712b73d2115,Male,Self-employed,38202,9.97,36,Medical Bills,Paid,4708,478
+cef1f4b4-0e89-4b33-aee8-f2e4cb8174a9,71c20c01-15d5-437d-a531-2a5ae1cac0bc,Male,Retired,39253,11.39,60,Business,Defaulted,3903,431
+4a9a3fdf-fd67-47d1-9ddf-a2a6ec16d191,d1bddb32-cc94-4bbc-968d-53d6621d5c7b,Male,Employed,19818,12.87,24,Medical Bills,Paid,4319,397
+39b92c8e-5ca6-4dbb-bd09-478c4478bd6c,27bfaa3d-3919-4028-9753-9df39c72978d,Male,Retired,45539,14.61,48,Car Purchase,Paid,2018,683
+b52a1492-a810-4e7f-8ee9-40abc79f776e,82e42a02-0a8e-436e-b5d7-b53bee5d9131,Male,Self-employed,37469,14.81,24,Medical Bills,Paid,1877,711
+7ea72ab2-740b-4aa7-88a8-e0460f73ccba,0c8d70ff-a6c7-4325-8df4-26716fe1460b,Female,Self-employed,6895,7.07,24,Education,Defaulted,1763,594
+0a0e757c-2bc6-4227-a694-d531d18235f7,ca5001a5-e245-404f-b89d-7048e3ef9fb0,Female,Self-employed,25997,6.81,12,Education,Defaulted,4221,710
+785937a0-525d-4623-a722-7f9953771916,82558f08-51ff-41ee-8c8a-7ccb52ad2ac8,Female,Retired,30270,8.92,36,Car Purchase,Defaulted,1165,402
+50dd386f-4f68-40d6-9ac3-3ee89995a553,68217e4c-840f-4202-a93c-3ab46b997d8f,Male,Retired,3382,6.62,12,Education,Rejected,1344,343
+c15aff5f-beec-4272-b9f2-ff8eab6dad64,477786ff-fd8b-497b-919b-262c9c73bb6a,Male,Retired,40209,7.58,12,Business,Paid,3647,484
+4a683cec-49bf-4772-ba63-a79ee1cda615,08d5c3d1-3e7b-4867-b2c4-c20d29544b39,Male,Retired,965,6.43,24,Education,Approved,3888,534
+96fb90a5-e91d-44aa-a1ae-e330d6c7cfc3,a858a98e-150b-409d-a766-1fa6b958a224,Male,Employed,48420,7.24,60,Home Renovation,Approved,2702,797
+142e948c-74cb-44f3-8061-99a1121dc74f,e3444fbc-5f1a-45de-b81a-6e1921ee9f36,Male,Unemployed,619,11.06,12,Education,Rejected,2944,612
+8ee13141-9b48-41c6-b9f8-ecfcb1374520,fe86524d-333b-45c5-94ef-cb04553f48e7,Male,Retired,27880,6.18,48,Car Purchase,Defaulted,3439,753
+9cfb79f7-2841-410e-ac34-266aa5a5a91d,2ad3a65b-1c54-496d-a630-18612aa3c4db,Female,Retired,27521,5.75,24,Car Purchase,Defaulted,816,404
+3e9b294a-0c65-4e2e-8c7b-e1ef14fd1257,b8b65430-27f4-491e-9536-42fe38384870,Male,Unemployed,20253,4.21,12,Medical Bills,Rejected,4119,655
+afc291d1-1661-498f-ae96-da861ac5a54a,dd9c3a84-a403-4976-bad6-ad21f479a4c5,Male,Self-employed,49182,10.67,48,Medical Bills,Rejected,689,443
+2fe94168-3565-4a09-af3f-58ebaeaca615,666c211f-7e75-42ba-8092-dc8bf67c6fbb,Male,Retired,25185,11.47,12,Education,Approved,4803,349
+f24ced76-df17-4ace-82a2-6555c39127a8,affa3c6b-fc79-4dc7-b52b-e920f5b6e965,Female,Self-employed,49659,10.32,36,Education,Rejected,4177,601
+e727b368-e95f-41ed-b31d-aa895d46a7f5,9e74ea2d-f283-442f-a7a2-6618165ae0a1,Male,Self-employed,4219,8.59,24,Medical Bills,Paid,3933,777
+d60e6b8c-174c-45fa-a5d7-838119509ba2,61a05293-d6d4-4c31-9b0f-3c393b40b74c,Male,Retired,19051,10.37,36,Car Purchase,Approved,4632,779
+0fb17376-ca12-40e6-a5ac-92abfbfa3328,fa294870-35a7-41be-a80e-6737852913cc,Female,Employed,49637,3.59,48,Car Purchase,Paid,2720,426
+74aaa1b3-f208-444f-9e3c-8c6462cb5d40,d66fa76d-33ed-4e49-999d-ea5470540c2a,Male,Retired,10747,14.93,36,Home Renovation,Defaulted,4242,488
+453c1760-64b0-4454-88aa-f3d0fc8a9861,ee0650d0-c88b-4ea7-ae6c-5466478c3ea2,Female,Employed,12230,12.49,36,Business,Rejected,3976,338
+41be8b48-3b62-403b-b706-010450f1560a,9c4ba440-1ee1-48b7-86ed-734412593d8e,Male,Self-employed,21449,14.9,12,Business,Approved,1478,446
+d7959a1c-7941-41ef-9595-fc14e6b48846,09d196ab-0511-4ca0-bbf4-3b8246e98f89,Male,Self-employed,2509,12.23,60,Car Purchase,Defaulted,1199,416
+399eb153-a2cd-4fc6-a540-61be72dbb4f8,d1a290a0-248d-4d13-8835-09162a58ab51,Male,Unemployed,21390,4.66,36,Business,Defaulted,1126,647
+dcbbfbd3-d4c5-4a5a-8308-626072ea2712,d3be2332-6acb-4723-86e2-942657e6d886,Male,Retired,33462,8.77,60,Business,Paid,760,375
+8f70c99a-6178-4567-82ee-146d70a468b8,2da0fff5-e823-4253-8a51-c9b8f3f869ee,Female,Unemployed,33707,7.74,24,Car Purchase,Rejected,1846,745
+f36d3c1d-3fb4-469b-be27-4f5ed553222f,5af34983-b447-4335-93bd-895d54e35aad,Male,Employed,27835,4.97,36,Car Purchase,Rejected,1482,380
+cd9bae6d-eb8b-4e1b-83db-aae600bc3db9,b09007b5-6106-412c-b20d-f863abc01c09,Female,Employed,30295,7.62,60,Education,Rejected,4199,514
+a87ac11d-a4b4-453e-8b2b-5261ed9eec26,f798bfbc-2a9c-42e5-9e99-10b2aca6fb97,Male,Unemployed,2023,6.68,24,Education,Defaulted,4396,742
+9e677a91-1bb9-425b-8395-fcb50c3ac092,ba383ab5-0be0-4663-82d7-f0f5cb4d9c1f,Male,Employed,19441,12.89,12,Medical Bills,Defaulted,2929,831
+592409a0-7162-47a9-81bf-c08b81a22dbb,6b891ec1-f3cc-4848-b717-514c56e4a95d,Female,Retired,32476,8.63,48,Car Purchase,Approved,1101,421
+00ef39cd-c890-4107-a123-bd3597783335,20e5ba9c-c8a0-4593-afac-83af9e58f0c7,Male,Employed,14956,14.95,36,Car Purchase,Defaulted,3944,803
+adcd0d78-de86-4a25-a513-b395661a419a,599bf37b-804f-42b1-8108-a517a4af4980,Male,Unemployed,23813,12.28,24,Car Purchase,Paid,2006,465
+91de3a93-5772-4932-a0a1-d6c31d25d233,db27c65a-5ff4-49cf-9407-fd43d93146b8,Male,Unemployed,14981,7.66,60,Car Purchase,Approved,2806,361
+27957767-c22c-42ec-a1bd-eba23884ff4d,4d76c985-cd25-4308-a66d-63095fa464e6,Female,Employed,24644,14.29,48,Home Renovation,Rejected,4173,314
+a03d018c-41df-4ee9-a9c1-821aed529261,b0b1fa17-03e5-4b2f-aeb5-092177c6aa62,Male,Employed,22524,9.3,48,Business,Paid,4980,821
+9d82e533-4823-4ada-96fa-5b54ebf8aedb,56296911-4c1c-4dbb-8612-8b95a362d56a,Male,Employed,31252,13.17,48,Education,Defaulted,4122,830
+3809a181-5784-4e6d-9c4b-a92b7e20800d,2e6002ea-00e6-4b55-85fd-5e4581dc8164,Male,Retired,34813,12,36,Home Renovation,Defaulted,545,578
+a8f624f9-44cd-4abd-8a21-747ce81e813a,0a5aa7e5-9166-4424-80f0-4b58b7f58364,Female,Retired,44722,5.04,24,Home Renovation,Approved,4787,719
+933cc797-2dbc-4645-964c-bc41a867ba06,c6802ed8-bfbd-490a-a058-6c14c685e001,Male,Unemployed,19711,13.88,36,Education,Paid,4298,780
+1c07eb6e-a9d3-4e36-b46f-cdb8d5ae8e50,3edfa265-bef0-44f3-9492-9d0aacf7c8e8,Female,Self-employed,29120,14.02,36,Business,Paid,1260,821
+4749ace7-4d6b-471c-a0d4-9a8af888d2ac,e8a96e3d-4b0f-480c-b000-1826a26402ee,Female,Unemployed,12055,8.11,36,Home Renovation,Defaulted,1823,367
+3c10776d-3ddd-4744-8159-0340504c11e5,d13927e4-e497-4673-8861-8f417f0bf382,Male,Self-employed,21494,5.05,48,Car Purchase,Paid,4023,415
+089c3e4b-f818-4aa7-bd87-2c2430b2d4ba,590d63a9-c950-4b43-8b1e-1e8924e62495,Male,Self-employed,25602,8.37,60,Home Renovation,Approved,625,845
+6ef8af76-0b31-43a2-b3ac-dc946ad1fbd4,55a5d0a7-993a-4655-b1a0-81482fe6df56,Female,Employed,12108,8.39,60,Car Purchase,Defaulted,298,411
+190e32aa-0df6-4cce-a005-fe9fbfa5a9b6,06c8ab60-e613-4934-8737-554a3df4ec9d,Male,Self-employed,9434,12.37,12,Business,Defaulted,311,331
+ffaad628-c5d3-4ced-abbf-11faeddc6822,0f207cf2-bcc0-4006-8018-ab2775d0b57c,Male,Self-employed,16906,12.45,36,Medical Bills,Defaulted,3212,539
+2cfd869b-a09d-413e-89cc-f7db3bf6e71f,b82c5791-b217-4cf0-9b46-64da4aee6572,Female,Unemployed,16242,9.38,60,Business,Rejected,1406,723
+3114e304-3c87-436c-8dfc-3ba7d17d47f3,193ec553-55ff-424e-a3c3-f5076278b85d,Female,Retired,21025,13.43,48,Business,Paid,3411,377
+9d36da3f-201f-48cf-ad09-4ebdcbdc6659,65fa6c34-ff26-4583-bac3-84559fa280c4,Male,Employed,42456,3.82,12,Education,Approved,4154,402
+40fd7437-1374-4b5e-bb7d-ab298e6880ab,c0cf6003-bc71-4dc0-9c98-0338eb1a6b92,Male,Unemployed,30709,5.47,60,Education,Paid,469,624
+c0d1f45c-9dbb-4885-a25b-75acdcceecb0,99a06623-f569-4230-8f33-e18fdff90ba2,Male,Self-employed,31552,9.5,24,Medical Bills,Approved,2809,845
+0a7224f8-9995-43b7-b5d5-e7bcbe065f82,f5d7f62b-ac95-4b95-8676-c9352ddfa39e,Male,Unemployed,19682,3.52,60,Education,Defaulted,293,754
+14acb64b-212d-4185-970b-1cb302c15da3,f61dbdd1-c00f-49d2-855c-f3bf4ae20f2c,Female,Unemployed,9565,8.1,12,Business,Defaulted,4917,643
+c9d55fe5-9892-4186-882a-11c8b8bd8fed,151b2fee-ca67-4fec-8616-56e872adbe8e,Male,Retired,10636,11.94,24,Business,Approved,151,820
+4c5b9235-ce78-4ca7-bf48-3643a4b48d42,84578060-1891-4387-95d9-e82852fe6fe9,Female,Unemployed,23182,10.4,60,Car Purchase,Defaulted,1674,419
+6edef1b0-b5d5-42cb-ae05-c764e42de7de,0fb507ee-704c-4045-a01d-1ebc51d2f4ea,Female,Retired,7426,6.1,24,Home Renovation,Defaulted,2333,534
+e83d67ed-0dd3-4ac9-9d31-c3fdf45bb0c9,4b1ccd9f-5187-41b5-b1a9-9119d937c7f8,Male,Retired,9343,9.14,24,Home Renovation,Paid,1930,384
+5c079d5f-3399-4464-99d2-44fda156fe14,56221b24-e31e-4601-9ef7-ccabcd0b481c,Male,Self-employed,26145,8.95,48,Car Purchase,Defaulted,4326,369
+ed52b94f-773c-4114-8b8f-4bbea16c2042,b804c054-baf0-42b6-b7be-b9ad35ae555f,Male,Retired,31270,11.97,36,Education,Approved,759,802
+e3794392-8e58-4adb-9aed-3afe420cefe1,7127a31b-bcc6-4f54-9534-ef3f79d2e884,Female,Unemployed,27733,13.19,48,Car Purchase,Defaulted,4687,360
+3e54e0b1-6abd-4e3b-9346-3ccc814fc640,e44bffa0-5be5-4c36-88d0-be1676580d9e,Female,Self-employed,47350,11.68,60,Medical Bills,Paid,2324,592
+a49837bd-9299-4834-a0f2-e4cb4b0f9d20,1a61e1e1-2385-4c8f-b1af-7762f98bf274,Female,Self-employed,48376,7.83,12,Home Renovation,Rejected,1617,733
+bb3f4c1d-b5eb-40e1-a1d1-7b2d7b3a5536,4d37e011-b828-4cc8-a0da-e4d5103c60bb,Male,Self-employed,17043,11.61,48,Medical Bills,Rejected,2270,824
+e8562c8c-9785-4363-8b92-8f87491f220b,d9c14118-2758-4c2e-bccb-f20b18a86ef1,Male,Employed,19177,14.22,12,Car Purchase,Approved,2622,557
+ca12bd5c-7883-420e-8f7b-e999be820d4f,666beaa8-348e-421f-9ce8-f027eab9fc89,Female,Unemployed,19455,7.37,12,Car Purchase,Defaulted,1656,762
+98f92c9f-129b-47f7-b870-2e5f19c27896,f72d0cf4-65e0-4b96-8a77-c876df2fe91f,Female,Unemployed,15916,9.11,48,Medical Bills,Paid,4163,322
+7d3b3812-d66c-4e47-9651-cf2b700b930b,8764cb72-c5d2-4ad7-8158-519a6abe8c53,Female,Unemployed,38686,5.4,36,Business,Paid,3380,305
+c1a9c33e-45c9-4a6e-a0df-9300578cc8f2,21092ae2-3f79-4c51-ba5c-93025a3d6307,Male,Retired,20853,8.7,12,Home Renovation,Defaulted,462,413
+3e9b64b9-4528-4224-8c08-de967d4e5a7c,6abebdfc-61b7-45b7-9551-c054e3cac542,Female,Retired,11373,6.03,48,Home Renovation,Paid,2162,762
+c7093100-c7ac-4604-9bb8-05892e4ef8cf,072f69ec-c10e-4894-8409-5cd44ac886d1,Male,Retired,10542,5.72,12,Business,Defaulted,3291,349
+92a71a4d-c257-47a7-a773-d1072335be98,973fcf19-b138-41e8-aa0c-7095b86554ac,Male,Retired,35559,10.73,60,Business,Defaulted,2491,670
+f1101351-bd97-41f6-aadc-7136bc7b46b4,de2ee4ea-00e3-48a2-8720-57cdf6f24267,Female,Employed,33574,4.03,24,Business,Rejected,535,623
+fcc82556-8120-4606-ac3c-2b79e29e99bd,792999a6-cc60-47e8-ad36-216d67939ad5,Male,Self-employed,45396,12.8,48,Car Purchase,Paid,211,474
+6c9038ef-bf92-4b44-87d0-0ddd405dd1f6,75dc3a63-5585-4cb0-b164-1253a71cfb21,Male,Self-employed,10797,12.13,12,Car Purchase,Approved,4935,484
+391e5548-53ab-4209-9459-75483e1bcbea,8cb112c8-c372-4232-a5d2-1fce742c8de1,Male,Employed,41173,13.59,48,Education,Defaulted,4759,452
+4bccf9f1-40f3-4f6b-9cea-3a0e44455235,5efce736-d369-4fe3-96da-67b69729d119,Female,Retired,2443,10.52,48,Home Renovation,Paid,1186,624
+8e683d03-9ee5-4e59-9061-5224543f8319,6ef8f62b-84c7-4ead-b9d4-63f8c1d506b9,Male,Self-employed,2282,8.96,48,Education,Paid,1107,837
+b24206e0-d781-4c93-9fb3-1c6fc82c2509,0e6df1cb-dc69-4332-a31c-54ba57b08080,Female,Unemployed,25040,7.47,60,Car Purchase,Rejected,2178,376
+1d24f550-28e4-42e5-8da2-d200ffe0ee2e,b3bbae81-44c5-4cc4-a27d-f6d26b5baa4b,Female,Retired,36305,7.81,36,Education,Defaulted,1053,756
+f680bf9a-b0b8-4761-b9ed-33833856bc60,73f3f11e-508e-4be0-baf6-ae6c97b151ea,Female,Retired,14552,12.6,48,Home Renovation,Paid,4856,775
+81cede05-942d-486a-9126-505b1d33b4ae,8eb3e81d-cb90-445c-a1e7-9511500e8b85,Male,Retired,8745,12.26,12,Car Purchase,Paid,2910,601
+d7b133df-9fd1-4bb0-a234-0d06d6d6357c,9f0a09fc-67f8-46e0-bf4e-fbb03842872f,Female,Self-employed,27705,8.26,24,Medical Bills,Rejected,648,511
+5ae7ac6b-ac7b-439a-b075-64a731f1cb3d,5b9236e4-2852-4815-8d68-98ea9dba2242,Male,Employed,38753,7.85,12,Medical Bills,Rejected,4501,800
+35f30012-3cc7-4cc9-b2d5-97b2bbe4d7de,3b5f38fa-021a-4cd9-ae0b-ce3929006700,Female,Employed,27429,12.65,36,Education,Paid,4529,392
+b0770d3d-bdce-41cb-9481-b3f1e6c7a209,b4aa3d26-575e-41c7-99e5-8d31e3c35356,Male,Retired,5760,5.55,60,Education,Approved,2631,644
+6694955d-fb9d-4ff2-948d-d388d498b938,d0920bd7-693f-45dd-90c9-4b9ff6b471db,Female,Retired,39084,10.96,12,Home Renovation,Defaulted,3998,572
+092a30b5-6df4-4cd2-b4d1-4f52bcc954b8,5eb6826f-3cf1-4fd1-9515-6c92d2d8b56d,Female,Unemployed,47500,8.38,48,Business,Paid,1015,572
+4f312a7a-8acf-4c93-adfe-54b63902ebc3,e22d1341-bb91-4a5e-bf3f-cac783e22b2b,Female,Employed,12889,10.07,48,Car Purchase,Paid,3003,512
+4df02e96-63e0-488e-9c89-1f484f7d9ede,38b918db-2df6-4bee-bf99-d84e717f65f4,Female,Employed,49050,9.64,12,Business,Rejected,534,836
+4846a34d-5028-4d87-933f-9012e2ee8ce8,ee32afee-e544-4f84-b6bc-64c50795920b,Female,Employed,32379,9.49,36,Car Purchase,Rejected,1386,658
+2b40d905-eead-4ccb-835d-ca3b0b9b94f7,b03d63e4-d704-4c6b-af27-3be9b12f63d8,Male,Self-employed,34573,12.27,24,Business,Paid,3971,482
+cba7f7fe-3532-4a90-a321-48eb48dc2e46,926196e5-29c4-44e3-bc6b-6382f99721d8,Male,Unemployed,14262,13.04,12,Business,Defaulted,3152,352
+92e16c53-2161-4bcb-af29-6077902f968c,89839515-41dd-446c-bb24-9a82401600f7,Male,Unemployed,2827,14.39,24,Medical Bills,Rejected,915,402
+780a7fbf-bded-4410-8950-017c6d0706fb,464f2975-595a-4366-8f86-187e64075aba,Male,Self-employed,15875,5.01,12,Business,Rejected,3238,315
+bb234d46-89e1-4d80-ba56-442fee94cc7d,802310d6-bf0a-446a-abaa-91bd8e2878c8,Female,Self-employed,45583,9.3,60,Education,Defaulted,4679,660
+77fead64-f34f-4ffc-ba23-5c9ac99c664b,d1b49f9c-434e-4133-b96a-dba430d839d2,Female,Retired,40746,3.54,12,Home Renovation,Paid,4657,833
+9331443c-fb4d-4336-a8e1-31d8dc9f5ace,41e01be0-9879-49fa-8192-06d3d6a032e5,Female,Retired,34065,6.96,60,Education,Paid,3631,626
+6b9a8e5a-b6ee-4576-9966-0476245f0523,1872ebad-c68c-4089-88f5-bf991fb94e37,Male,Self-employed,44579,10.46,60,Car Purchase,Defaulted,4640,573
+d41f5bde-450b-4d36-9955-a9335bbeb152,3b7f745f-def9-493a-8fe3-47c482ef8996,Male,Self-employed,36909,13.62,24,Home Renovation,Defaulted,2829,678
+34ee5201-376c-49f8-abff-b54612e0fe56,5d74ad21-022a-4579-8424-d068237b3c20,Male,Unemployed,11548,4.15,24,Education,Paid,1967,532
+2f647ea9-90d9-4084-b280-eac0757493e6,cac3111c-7b16-438c-807a-38484f78c2e5,Female,Employed,16593,14.45,24,Home Renovation,Defaulted,3742,720
+bcd620e2-237c-4144-afef-4537b04de2ab,527af870-7be2-439d-bd49-d17aed7c2839,Female,Employed,25899,9.52,24,Home Renovation,Defaulted,4603,830
+db644974-3717-4e72-ad98-7d2255e63c98,25596ec1-62db-4cb7-a36c-e6d55d4ad39a,Male,Unemployed,17174,7.83,24,Education,Approved,707,612
+9d8386ce-fe76-4f9a-8450-37883d349c5c,a900a5d8-baed-42af-8c53-b251ef629cb5,Female,Unemployed,31467,7.93,36,Car Purchase,Paid,676,778
+bc6c6b78-18c3-48fc-b708-40c70691a2ac,302df46e-1791-4fbc-99cd-9265f0f87d3b,Male,Employed,1954,7.26,12,Home Renovation,Defaulted,1994,786
+662d9e1f-6fb8-4673-8ef3-36e9ffb9d2f6,cebf7744-04e2-4ee5-a002-d89bb2faf9b7,Male,Retired,37584,7.5,60,Car Purchase,Approved,128,725
+a7cacb0b-a2cc-4467-9188-b7502a775181,eefb0c43-bbfb-4f73-88ff-f92739eec27a,Male,Employed,21330,4.25,24,Business,Approved,1684,581
+6da01b26-9894-46b7-85ea-c537d5bcc719,69f2a886-7983-43c2-bdad-aff05f435165,Female,Self-employed,40790,3.87,48,Home Renovation,Paid,3835,508
+7c33b306-ede4-42a9-a021-ebd3fb45dcb7,4b0b7103-a62a-42a7-8111-f2381c44fb68,Female,Unemployed,21763,14.82,36,Business,Approved,3165,639
+0c71bb40-0605-49f5-9840-c76abe778694,c8a40d2b-fc46-4ba5-8836-7f983812d92c,Female,Employed,13191,7.69,36,Business,Defaulted,1483,604
+61db8f04-a7c1-44f5-aa3d-172f7fdbd169,31c928e8-3ea8-49f1-8fdf-b0ea561b54d4,Female,Employed,24722,3.83,48,Medical Bills,Rejected,1379,326
+10e87013-4232-4f4d-b0aa-bb9115a7067f,9889a7f1-3459-4c5d-a3f2-662d4312cf43,Female,Employed,37331,13.42,36,Education,Rejected,4725,379
+8e777265-ebb4-4d88-999d-cdbe068900ac,000e08f7-85d4-42c1-a0d4-33afe17deb81,Male,Unemployed,21082,11.5,60,Medical Bills,Rejected,2984,468
+80786b10-de18-472a-b4a9-79d37ae5574d,c038a7b3-fd61-4c64-8cac-6060fe3ab06d,Male,Retired,49071,8.96,60,Medical Bills,Rejected,984,429
+855b6e95-8d43-4eeb-a1de-eb2358cd4f8b,cb6883df-e754-4313-883c-2116977194a7,Female,Self-employed,44995,7.36,24,Medical Bills,Paid,3357,833
+69f62cf2-78e1-48d1-8173-e9bf4eb73149,832cc6d7-f8e8-49f5-86f1-82e22095035e,Female,Retired,22575,12.47,36,Car Purchase,Approved,1526,488
+33a0d470-1b8f-4885-aa8a-a544cad0229c,f6567563-fa29-4595-af3f-e98b1a6ae138,Female,Retired,42860,12.08,36,Car Purchase,Rejected,125,448
+399fcbd7-e559-4054-9168-0b21e0e9fa4a,319ac84f-0d68-4526-81bc-78cc2b0a3ec1,Male,Self-employed,3674,13.51,12,Home Renovation,Paid,999,555
+b06147bb-ca36-407c-b797-1ddabc04efbd,f67c0d77-f3c6-45a6-ba46-181f131ccdb8,Male,Self-employed,9242,8.12,60,Education,Approved,2808,850
+5e7c1887-ba3f-4510-a10b-cc78e5513836,e0096e74-2ed4-4abe-9d29-bff4efb02c6a,Male,Self-employed,17937,7.68,12,Car Purchase,Defaulted,3393,692
+97783dc6-2fb3-4bee-99d0-b2f679ae7758,69d9777d-e290-4773-9419-029755fa842d,Male,Retired,39737,4.57,36,Medical Bills,Defaulted,4135,845
+94ba8e4a-fbef-43ea-b714-f0e92608357f,0f3763d0-840e-4690-9c23-15e76a35da7c,Female,Unemployed,28602,12.64,12,Business,Defaulted,3498,821
+c766cff1-1868-4cc8-a757-b7fcc75e39ce,57cb125a-878e-46cd-8cdb-75dffa3cffb6,Male,Self-employed,37902,6.09,12,Business,Rejected,2101,747
+ab5e2aff-9834-42b2-b145-3d75faea4527,e57ed583-f4af-4be4-8270-f1a8b5157a87,Female,Unemployed,15247,13.25,36,Home Renovation,Approved,1014,560
+b7c7fef5-5d4e-4639-a62e-38a7c78ce6c9,4037c796-a041-40ad-855c-c481cb8220c5,Female,Employed,32284,5.57,12,Education,Rejected,1554,676
+69bc83b3-ad48-472a-97b1-1d6e58c5d5a3,a83e6001-57b0-45de-a785-8ef45158ad42,Female,Self-employed,31584,9.34,48,Business,Paid,2200,633
+3bc6b3da-da88-4c63-a89c-66209f045d5a,3be79a0c-39ad-4fde-9ddd-8bef8fbf50bb,Male,Self-employed,13599,10,60,Education,Paid,1358,512
+d9f0b138-2b86-472c-a139-39cb1308d785,fdce268c-2b82-448b-ae61-3bd5c2feb089,Female,Self-employed,26412,12.51,36,Home Renovation,Approved,1086,474
+888727b4-08b3-472d-92b2-7b237ddf0c0b,b52431fa-c463-41c4-980f-95843566c791,Male,Self-employed,43687,9.45,48,Car Purchase,Rejected,4055,457
+23280a46-67e4-452e-ba17-d0ec2d82ce12,77c51197-edca-448a-84ad-89a109c1e5a1,Female,Employed,41910,12.64,60,Business,Paid,4661,814
+ebbfad8d-3f04-429f-8237-d08f395a2886,88d393d4-e90f-4045-8311-3e92573e2aff,Male,Self-employed,41551,8.28,48,Education,Paid,890,639
+f7cc83f9-450a-4154-b4c5-cf28cf1e49e1,05d618a6-4bb4-4e17-9d6d-e9ef854d9070,Female,Retired,42756,11.24,36,Education,Approved,3574,557
+8939e96d-7bdd-493e-9f78-0d5f52d1d579,766e73fd-8ff2-4a65-b8d3-c2e97f9be9cc,Male,Unemployed,39857,5.41,24,Business,Paid,3320,839
+8c9d9bf0-333e-4520-94bb-d860d04ba27f,60105e22-9a38-4692-81f9-7648ec9191ec,Male,Employed,42605,5.55,60,Education,Rejected,982,517
+6d79f5d8-14c3-47aa-ba9c-c8e4268e1720,22e59fd8-47e5-4de5-9d1d-7130822229c3,Female,Retired,47570,6.99,36,Home Renovation,Paid,1979,493
+7f71d0cc-7588-4f79-a175-dd11c139071b,e47c8aaf-1002-4a18-b3c8-4a8306664ddf,Male,Self-employed,1487,12.51,12,Education,Paid,4495,401
+0f9a15d3-88a7-451e-a9ec-003dc1ed410e,b5af236a-321e-42e7-a4f6-a6681c1e967d,Male,Retired,12128,12.45,48,Business,Paid,909,467
+d412db75-1ea4-48ce-b39a-7f6408e3826f,75511db5-ee93-4d98-83df-01f15e3b5204,Male,Self-employed,12872,9.35,60,Medical Bills,Paid,4696,386
+2b60190a-79b5-4ffd-b88a-6095669d9835,71c91758-053a-49e5-9768-1c781d3f747e,Female,Unemployed,36191,8.26,12,Business,Approved,583,305
+020a3556-4f74-4983-b4a2-91ba0a79fa38,54219373-3cfc-44ea-8589-65143bff5c80,Female,Retired,4496,13.1,12,Medical Bills,Approved,1198,713
+bf2de4d6-3e65-4eea-8a62-01de9216a7b8,c1736aa4-dc59-4a40-9b4f-c51e502aa162,Male,Employed,48789,3.86,60,Education,Rejected,2802,537
+cc508f04-ce1e-4136-b7e9-70c6a4ef34d0,76929af0-f31f-4134-bab8-b0fe56f50ed1,Male,Employed,873,7.06,24,Car Purchase,Defaulted,3076,406
+036f46f9-1fa7-43b8-b15c-c5b590657ef8,b4e44ff8-6405-4692-8e14-c1e92a87ef3b,Female,Self-employed,33481,5.96,24,Education,Rejected,2915,846
+6fafe365-c236-4c98-ba1a-4ce12a5c116f,7e2ab335-84a2-47b1-9570-4b423d920332,Female,Unemployed,28378,9.87,60,Home Renovation,Rejected,4591,669
+5d8da47c-1c3c-47bd-8a7e-a8f7b78e7e22,438afd88-ab40-4fdd-988c-7d54390fd043,Female,Employed,5717,5.38,12,Medical Bills,Paid,4499,690
+1b48cb2f-20b7-4c71-a8ea-31ab7138ab18,f16c430f-8fbc-4a46-a533-9d0022412c61,Male,Self-employed,32357,14.96,60,Education,Paid,1134,714
+caf03591-9210-40e2-9a85-d8ea86bf6ac6,5c19279e-9e5d-4e14-8f3b-7b52a7907e12,Female,Employed,17584,7.09,60,Education,Rejected,3680,377
+9a4d5500-f517-4805-ac51-8874695c81e3,c1801cc5-8120-4283-b0e8-d34726681ecb,Female,Self-employed,7053,6.84,36,Car Purchase,Defaulted,3805,507
+ffabe6c3-b9e9-4e7e-92b4-d7f6704e5400,4db28b23-1820-4efb-9644-2ac0281e6347,Female,Employed,33491,13.22,12,Education,Paid,474,699
+a9877db1-3e46-4050-9622-149fb54d5742,379ed91b-7e92-4079-83f7-88683a1224a3,Male,Unemployed,9923,13.29,48,Medical Bills,Defaulted,4522,382
+2abc7a27-aa58-4eb9-89f7-47492b783d8a,5d9dbba7-3c7c-4e88-b464-21b32bd97486,Female,Retired,9058,13.15,36,Car Purchase,Defaulted,4145,424
+5cbae909-10eb-42b7-be60-0fafabb6b719,b7a9811e-5222-4763-b467-744718b5108c,Female,Retired,48918,8.17,60,Home Renovation,Rejected,1184,464
+1d5d75c1-c832-4297-9982-bb1ef19e95b5,b02603f7-fb31-4973-af36-a2507b3b083f,Female,Employed,31423,14.35,12,Home Renovation,Approved,3673,830
+1505287a-cfab-4170-8170-2fc37eaeb9e7,b8a259b7-204d-4c82-9e4d-7f7eacdbd7fd,Female,Employed,49793,14.13,60,Car Purchase,Defaulted,4960,606
+f9dfee8a-ad2c-4a49-8447-c89a123fd0cd,4ee12bed-f5a5-43c8-9fd3-32b285451ad0,Female,Self-employed,7554,11.39,24,Home Renovation,Paid,887,679
+d1f9f48f-7748-401f-bb33-17001f71b30c,c143ad0d-e36d-47fe-a82d-509b03b01a17,Female,Self-employed,49289,8.91,12,Home Renovation,Paid,3885,642
+7d680461-51ef-4581-8058-d25a7f08273b,3af8a00c-a23c-40a4-92ce-2a08b8386aae,Male,Unemployed,30650,4.85,12,Education,Rejected,3092,677
+fc0341f1-4f08-42ec-aa7c-ee245b58b2e4,491f81ae-1784-4c55-81de-46c8d27f6b97,Male,Unemployed,27969,4.47,60,Education,Approved,1720,309
+e18e30f0-f7d5-4328-87ee-00f3b3eab2f9,8a62d8c5-33ef-4748-a557-4e1ee3665e6f,Male,Unemployed,44555,14.37,36,Home Renovation,Defaulted,1566,305
+195f8067-19c8-4d02-b3c4-71d56e6b67c9,35952fa6-4811-43d8-9881-6c394e8aab4a,Female,Unemployed,18072,8.9,12,Car Purchase,Defaulted,2645,456
+bd85a53a-92e4-41ca-ac8d-17d2c4ae9a0b,b49d1b17-ac78-403d-b364-3a508e4ddd83,Male,Unemployed,12136,6.17,36,Medical Bills,Approved,1946,528
+8f4e0657-d65c-44c6-a73d-25aa6d5d8e80,02fbdee3-cba3-4869-b0cc-1e3342625bcb,Female,Unemployed,37438,9.11,12,Car Purchase,Approved,523,725
+521b031f-7d3c-44b0-bdfe-11769bb58ff3,12969b28-72a5-4b29-8447-20ca694441b6,Female,Unemployed,37849,10.9,24,Business,Paid,3716,537
+98a3ff8f-0cb9-4e33-b9b9-22f15d0bb2a0,deff73f5-9a49-4ff2-b9c9-8f20372a3e10,Male,Employed,9512,5.84,12,Medical Bills,Defaulted,1618,828
+bb5a9ec7-b10c-4b4c-be0e-9ec5bb663d52,6c4fb868-618e-417e-b351-c79cdd8e2147,Male,Employed,13472,12.23,36,Education,Approved,3450,500
+66fcc8c1-e940-450a-abd3-0b84c3b3c01d,b1281a49-567e-4e8b-a68f-c550d6bdf4a9,Female,Employed,3476,4.19,24,Medical Bills,Rejected,2933,331
+e1d84df1-0d4c-408e-b9b9-30a09b466e2b,fbbc2337-6f11-4e2c-9a35-c6dd50d1141e,Female,Employed,40943,8.37,60,Medical Bills,Approved,205,623
+8b75bf45-dfd8-443b-abb2-9a88c872c490,021168fa-b9f3-4919-8c6c-0a260a312f62,Male,Employed,40262,5.28,36,Car Purchase,Paid,2161,787
+54e0a045-c703-4e58-b2b2-1cc945b34425,5ac554e8-b0de-4d56-baad-e38d1c798448,Female,Unemployed,34938,5.22,24,Medical Bills,Paid,4876,845
+d51c3f7b-6dda-438c-8fc2-3d012e0885d7,0323c327-925d-4cf9-b82d-623ae1e50a40,Male,Retired,7875,9.49,24,Car Purchase,Paid,2619,811
+d5058e10-e598-4287-bd7c-2aec758cbee4,6ffa1c39-1f84-4270-ad1d-31db14295344,Female,Retired,5121,13.86,48,Medical Bills,Defaulted,3504,765
+f8a3c8cd-a75c-4688-a10e-4fec25237ff9,904bf2e1-70ec-440f-b4b8-c2ea36a1d289,Male,Retired,1786,5.1,12,Home Renovation,Approved,4437,565
+f75fc67e-74c5-4480-9cf3-17106f2ab940,0fd8fee0-f2f6-4704-a73b-24a8b45cbf14,Female,Employed,33722,13.42,48,Medical Bills,Rejected,2317,825
+4b65c67d-8c2e-47a5-ae1e-06ddfb49c02c,d7232ac4-fd03-4e4c-a080-d48ceb9a1e08,Female,Employed,42216,14.41,48,Car Purchase,Approved,2914,581
+ba69c25c-c647-47f4-9219-229d80e68ccc,6730c520-36a1-4e00-8ba0-653524a1f1f8,Male,Retired,44181,9.51,36,Education,Defaulted,4816,379
+3429b35b-c2d6-423a-9891-a281d151441f,71321583-ebea-43f1-a201-35d5f6a7dc52,Male,Self-employed,14308,9.37,24,Home Renovation,Rejected,3041,619
+72153c09-54a6-4fe9-82a5-dc114a2943c4,cbb2ca12-4429-402a-b521-8647c047911d,Male,Self-employed,41812,3.77,36,Home Renovation,Rejected,1517,634
+e10de5ad-361b-46d4-9cee-bd19c03594c0,c1e651c3-5012-43ea-89bf-6397b987f2cf,Female,Self-employed,48346,9.62,24,Home Renovation,Rejected,716,679
+e9a00961-fdaf-4866-b28a-e5a68487f284,5a6e76fe-e46c-4145-b669-5f51bc0d5b9c,Male,Employed,2331,5.96,24,Medical Bills,Paid,3237,446
+dcde2fb9-ad19-45ad-8084-a1bb4aa74d2c,94ec7f2a-dbd3-426d-b606-f9b722fedf9c,Female,Employed,35159,8.18,36,Education,Paid,1932,504
+c4bbca98-6328-42a8-ac5c-54e714ba5e52,ba02c0f0-891b-4392-a3c7-1a2a8b47f928,Male,Self-employed,40281,5.6,12,Car Purchase,Paid,1264,630
+3ea68313-7fa9-4c0a-91f3-9200e4239edb,02b36de3-f393-4213-9cea-1eaadbe09885,Male,Self-employed,20240,5.09,12,Home Renovation,Paid,3708,814
+cc4aa692-2fdc-4699-8818-7db814ca121d,3838524a-73ea-4975-945d-68708f5be89f,Female,Employed,46051,11.99,24,Business,Defaulted,2554,425
+e3a486fd-767d-4649-80c9-38548a37d021,b314deb0-7a56-44d1-818e-c70040ee4d7a,Female,Unemployed,34982,7.23,24,Car Purchase,Rejected,2170,745
+9fca8c02-3bad-4bc3-86ab-70ac4c854ca8,439330ff-912f-4c87-952c-907ee7914224,Male,Retired,44397,4.19,24,Education,Approved,3659,676
+dad3e9d5-c161-4f4d-879d-c84cb19249b9,1633677e-0f26-48c5-9a0b-c1fd68ee3a0d,Female,Unemployed,23380,14.67,36,Car Purchase,Rejected,3136,704
+c471382a-c17b-407b-a3ef-bcee989afdb4,7f7818e5-a6b3-409f-9a6b-6c91b25bd1a0,Female,Unemployed,1181,7.86,24,Home Renovation,Paid,4733,700
+47d24e33-5c75-446e-9c6d-a8db509c9218,25b85309-2dd8-470e-b646-e9bb03f7cb1a,Female,Self-employed,31286,9.32,60,Car Purchase,Defaulted,1790,352
+97777ad4-870b-4171-8445-3246f7ad9122,e35302cf-2815-4693-ae6b-fc4d59d7864a,Female,Unemployed,11690,6.47,36,Education,Paid,4740,616
+91904af9-33e1-489c-8474-20d7def52629,226782cd-bf46-4e7c-b308-2df6ad723411,Male,Unemployed,6803,6.43,60,Medical Bills,Defaulted,1511,647
+114e3122-7f6c-457a-a1ff-8545af8b5d07,d68662f5-4cab-4dc9-94e3-1a1dfa7d9c92,Female,Retired,11603,13.24,60,Business,Defaulted,2652,805
+614377ca-b4f1-46b6-b42f-7e94f127a3ae,d0fd1270-cdba-4c57-a5ab-8da03f30877f,Male,Self-employed,15641,6.17,60,Medical Bills,Defaulted,3522,330
+07a2b61e-a3a8-4b81-a216-93f8b2045c30,97f34ee3-a2df-4164-a852-6cb12c9b1ae5,Male,Unemployed,10973,4.27,12,Business,Rejected,1990,379
+beaf2627-2cca-4787-b259-83f6223a57f7,9c4a3349-bb5f-49a7-86ca-718665517942,Female,Employed,40140,14.8,60,Business,Approved,4556,384
+6eb34807-68fe-4470-ade5-7b97e811e084,90060c5a-bc8b-4617-9a27-1d1bb597f389,Female,Self-employed,49530,8.07,48,Medical Bills,Approved,3300,678
+efb022e8-3e60-49d1-bccf-36da38487876,6ea1ae51-3c87-4da4-acc6-738bf18955de,Female,Self-employed,44469,6.84,24,Medical Bills,Rejected,972,736
+375241e2-255b-4c39-9b74-3480c1e561d2,ee06b5af-edee-4e72-ba80-a51a47682378,Male,Employed,47406,10.06,12,Home Renovation,Approved,3065,829
+113e3510-04fd-40ea-b2a1-e88f9fdc0c4c,63fc729f-b94d-42d4-94d0-358b1901f96e,Female,Employed,32427,9.56,36,Medical Bills,Defaulted,3276,685
+e585a68f-de91-4c47-9954-deba54952bd5,699d9a5e-b13c-4412-8738-b54de554d36e,Male,Self-employed,25174,10.87,24,Home Renovation,Rejected,266,783
+d925bcc0-be9b-419a-be42-6580f133d40f,fe0715a5-9f2a-4128-9cb7-7f7bfaf6c9a5,Female,Employed,24995,11.32,12,Home Renovation,Approved,4669,787
+1e8f7cbc-7a4a-4f75-8539-55da6236fd54,3396e668-7d02-4f3d-81f3-8bda33b15abd,Female,Self-employed,39438,5.76,48,Medical Bills,Paid,2914,428
+b03cdcd9-f468-4d51-a081-e406340f34be,fa243972-52ca-4631-aa90-e4adb784c068,Female,Self-employed,20488,9.67,36,Home Renovation,Defaulted,4651,501
+db296f24-d1e6-46be-83c3-d480bb16bbff,3f8f727a-baa6-4d62-9848-a16961fa390e,Female,Unemployed,44941,13.71,12,Business,Approved,1380,663
+42d27975-e8f9-4f3c-be03-8614930affde,8ac42f8e-897a-4dc1-a762-dfce1af1c19a,Male,Employed,26914,5.29,24,Home Renovation,Defaulted,3969,672
+be6b927e-2fbc-413c-a11b-a92442042217,0b3d6ee9-9afc-4440-ad65-c403bfcaf44f,Female,Unemployed,6085,8.05,60,Medical Bills,Rejected,2315,601
+8c301f13-65f4-4668-90d6-3ffa519466e8,0172dd05-b605-4150-a500-ede750cf0777,Male,Unemployed,29636,14.97,12,Medical Bills,Approved,1975,480
+fd296cc2-3600-4bb0-886c-5a7c588afc94,96386f28-9bc3-4229-9e03-ade38b4463d6,Female,Retired,9967,8.25,60,Car Purchase,Approved,1720,804
+02cc2dd7-a254-4dff-83c9-e307f2c8b90d,7eefeff0-3d77-4860-81f5-18239d80523f,Female,Employed,49695,13.22,24,Home Renovation,Approved,174,607
+2d3cd6e2-4adb-4b96-8db1-a1938ee5070e,8c841902-2042-4356-a3d3-e35cb4041513,Male,Retired,19372,14.01,48,Home Renovation,Rejected,2344,717
+d9fd21fd-d88e-47d6-b343-588f1189cbf5,750ed7d1-d0a3-40bb-810d-615ebbd5a79a,Female,Employed,34898,4.8,48,Car Purchase,Rejected,4823,517
+f4ffd985-3745-4dcf-96ca-0da8b274380d,38cf370c-b3a6-47da-96b3-584ec6eead2b,Female,Employed,17754,14.7,12,Medical Bills,Approved,2414,611
+ac653cd1-52ae-440d-b711-a835f6640290,3ddc88fe-c5fd-45f8-a05c-2ecf14f76689,Male,Self-employed,46121,14.7,24,Home Renovation,Defaulted,3155,478
+654632bd-647c-48e0-b1e3-abf13d3f7e84,5f8f5780-b780-45e0-8b58-84f02fff194b,Female,Self-employed,9541,5.16,36,Car Purchase,Approved,4568,492
+fe7a6de0-1b15-4556-9a28-e6c2b330cf16,ad15ce89-c5f1-4bc5-b971-670c7e7dc14c,Male,Retired,21563,13.65,12,Education,Approved,510,567
+3e79c031-aff4-4a1c-860f-499d9cb6e4f1,acdf23ea-983c-4879-b259-06ca93bc5f59,Male,Retired,14239,13.65,12,Business,Approved,3264,732
+26fe988c-44d7-4d76-839a-c7a6d5d9c375,3b72b43b-89c5-40cf-b289-c1cfd0d4bfbf,Female,Employed,38662,8.82,48,Business,Paid,4313,806
+fa2992d2-987c-4111-9ca1-1ad1976b1e22,b93fbeea-dfd9-45ea-bdf3-ae131e1c85c8,Female,Self-employed,33793,9.98,12,Medical Bills,Approved,4205,358
+0bc7879a-6a74-4a25-8ed0-478d43e495e7,fe5bd94c-8863-4631-9f80-2b2ebeed99ca,Female,Employed,7968,4.86,60,Medical Bills,Defaulted,810,748
+e0364c5c-0cd6-49af-8f10-2610f467b947,c7e845c2-51c6-4535-b23f-bd05a85ef2c2,Male,Self-employed,19263,7.16,12,Home Renovation,Rejected,2602,582
+e75e7286-2980-473c-ae30-40770108c4f9,2b30374f-74a7-4419-9717-e93f18cadbcc,Male,Retired,22666,7.31,36,Medical Bills,Rejected,1376,533
+b31c1f72-ae05-4316-bb4a-d2cab3d07106,6e1caef1-f27f-4f00-915b-817df72dfe80,Female,Unemployed,5863,14.07,60,Business,Defaulted,3334,761
+4dab8af1-2de7-4da1-8b5b-804f1709aedd,57260c7f-25ea-4e20-bb37-6d7476b6a042,Female,Employed,16071,7.73,12,Medical Bills,Rejected,526,638
